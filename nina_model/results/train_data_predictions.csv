@@ -1,0 +1,653 @@
+key,composer,work_name,n_files,start_bpms,label,pred,average,folds,skipped
+c-1,LUDWIG VAN BEETHOVEN,"Piano Sonata f minor op. 2,1",4,240 40 118 192,6,8,8.0,8 9 8 7 8,
+c-10,LUDWIG VAN BEETHOVEN,"Piano Sonata G major op. 14,2",3,104 112 120,6,8,7.6,8 9 7 7 7,
+c-11,LUDWIG VAN BEETHOVEN,Piano Sonata B flat major op. 22,4,132 60 110 84,7,8,7.8,8 8 8 7 8,
+c-12,LUDWIG VAN BEETHOVEN,Piano Sonata (Funeral March) A flat major op. 26,4,72 220 52 120,7,7,7.4,7 8 8 7 7,
+c-13,LUDWIG VAN BEETHOVEN,"Piano Sonata E flat major op. 27,1",4,100 320 60 144,8,9,8.6,9 9 8 9 8,
+c-14,LUDWIG VAN BEETHOVEN,"Piano Sonata (Moonlight Sonata) c sharp minor op. 27,2",3,54 184 154,7,9,8.8,9 9 8 9 9,
+c-15,LUDWIG VAN BEETHOVEN,Piano Sonata (Pastorale) D major op. 28,4,240 60 220 124,7,7,6.8,7 7 7 7 6,
+c-16,LUDWIG VAN BEETHOVEN,"Piano Sonata G major op. 31,1",3,132 63 160,8,7,7.4,8 8 7 7 7,
+c-17,LUDWIG VAN BEETHOVEN,"Piano Sonata (Tempest) d minor op. 31,2",3,40 60 116,8,7,7.0,7 8 7 6 7,
+c-18,LUDWIG VAN BEETHOVEN,"Piano Sonata (Hunting) E flat major op. 31,3",4,120 100 120 240,7,7,7.0,7 8 7 7 6,
+c-180,JOSEPH HAYDN,Piano Sonata A major Hob. XVI:12,3,80 128 112,4,5,4.6,5 4 5 4 5,
+c-181,WOLFGANG AMADEUS MOZART,12 Piano Variations on a Minuet KV 179 (189a),1,-,6,,,,no explicit start tempo
+c-182,WOLFGANG AMADEUS MOZART,"12 Piano Variations on ""La belle Françoise"" KV 353 (300f)",1,-,5,,,,no explicit start tempo
+c-183,WOLFGANG AMADEUS MOZART,"12 Piano Variations on the Romance ""Je suis Lindor"" KV 354 (299a)",1,-,6,,,,no explicit start tempo
+c-184,WOLFGANG AMADEUS MOZART,"6 Piano Variations on ""Salve, tu Domine"" KV 398 (416e)",1,-,6,,,,no explicit start tempo
+c-185,WOLFGANG AMADEUS MOZART,"8 Piano Variations on ""Ein Weib ist das herrlichste Ding"" KV 613",1,-,6,,,,no explicit start tempo
+c-186,WOLFGANG AMADEUS MOZART,Piano Sonata (Wunderkind) G major KV 9,1,-,4,,,,no explicit start tempo
+c-187,DOMENICO SCARLATTI,Piano Sonata C major K. 513,1,114,6,7,7.0,8 7 7 6 7,
+c-188,DOMENICO SCARLATTI,Piano Sonata f sharp minor K. 25,1,112,6,6,6.2,6 7 6 6 6,
+c-189,DOMENICO SCARLATTI,Piano Sonata D major K. 122,1,120,7,5,4.6,4 5 5 5 4,
+c-19,LUDWIG VAN BEETHOVEN,"Piano Sonata g minor op. 49,1",2,84 138,3,7,7.4,8 8 7 7 7,
+c-190,DOMENICO SCARLATTI,Piano Sonata C major K. 170,1,132,6,5,4.6,4 5 5 5 4,
+c-191,DOMENICO SCARLATTI,Piano Sonata B flat major K. 442,1,120,7,5,5.0,5 5 5 5 5,
+c-192,DOMENICO SCARLATTI,Piano Sonata d minor K. 1,1,112,4,5,5.2,5 6 5 5 5,
+c-193,DOMENICO SCARLATTI,Piano Sonata A major K. 113,1,240,7,6,5.6,6 6 5 5 6,
+c-194,DOMENICO SCARLATTI,Piano Sonata g minor K. 450,1,112,6,7,6.8,7 7 6 7 7,
+c-195,DOMENICO SCARLATTI,Piano Sonata D major K. 491,1,100,6,5,5.2,6 5 5 5 5,
+c-196,DOMENICO SCARLATTI,Piano Sonata D major K. 492,1,156,7,7,7.0,7 7 6 7 8,
+c-197,DOMENICO SCARLATTI,Piano Sonata C major K. 502,1,108,7,5,4.8,5 5 5 5 4,
+c-198,DOMENICO SCARLATTI,Piano Sonata C major K. 514,1,192,6,5,5.0,6 4 5 5 5,
+c-199,FRÉDÉRIC CHOPIN,"Mazurka B flat major op. 7,1",1,104,5,3,3.4,4 4 3 3 3,
+c-2,LUDWIG VAN BEETHOVEN,"Piano Sonata A major op. 2,2",4,120 52 144 120,7,6,6.2,6 7 7 5 6,
+c-20,LUDWIG VAN BEETHOVEN,"Piano Sonata G major op. 49,2",2,120 132,3,5,5.4,7 6 6 4 4,
+c-200,FRÉDÉRIC CHOPIN,"Mazurka g minor op. 24,1",1,108,5,4,3.8,4 4 3 4 4,
+c-201,FRÉDÉRIC CHOPIN,"Prelude (Raindrop) D flat major op. 28,15",1,80,5,4,4.0,4 4 4 4 4,
+c-202,FRÉDÉRIC CHOPIN,"Mazurka g minor op. 67,2",1,144,5,3,3.4,4 3 3 4 3,
+c-203,FRÉDÉRIC CHOPIN,Funeral March (Marche funèbre) from Piano Sonata op. 35,1,-,4,,,,no explicit start tempo
+c-204,FRÉDÉRIC CHOPIN,"Waltz c sharp minor op. 64,2",1,-,6,,,,no explicit start tempo
+c-205,FRÉDÉRIC CHOPIN,"Nocturne E flat major op. 9,2",1,208,6,8,8.4,8 9 8 8 9,
+c-206,FRÉDÉRIC CHOPIN,"Polonaise (Dramatique) c sharp minor op. 26,1",1,-,6,,,,no explicit start tempo
+c-207,FRÉDÉRIC CHOPIN,Ballade A flat major op. 47,1,-,8,,,,no explicit start tempo
+c-208,FRÉDÉRIC CHOPIN,Ballade F major op. 38,1,-,8,,,,no explicit start tempo
+c-209,FRÉDÉRIC CHOPIN,Ballade f minor op. 52,1,72,9,7,6.8,7 8 7 6 6,
+c-21,LUDWIG VAN BEETHOVEN,Piano Sonata (Waldstein Sonata) C major op. 53,4,144 40 132 220,9,8,8.4,9 9 8 8 8,
+c-210,FRÉDÉRIC CHOPIN,Ballade g minor op. 23,1,-,8,,,,no explicit start tempo
+c-211,FRÉDÉRIC CHOPIN,Barcarolle F sharp major op. 60,1,-,8,,,,no explicit start tempo
+c-212,FRÉDÉRIC CHOPIN,Berceuse D flat major op. 57,1,-,7,,,,no explicit start tempo
+c-213,FRÉDÉRIC CHOPIN,"Etüde (Revolution) c minor op. 10,12",1,160,8,9,9.0,9 9 9 9 9,
+c-214,FRÉDÉRIC CHOPIN,"Etude E major op. 10,3",1,50,7,5,5.4,6 5 5 6 5,
+c-215,FRÉDÉRIC CHOPIN,"Etude G flat major op. 10,5",1,116,7,9,9.0,9 9 9 9 9,
+c-216,FRÉDÉRIC CHOPIN,Fantaisie-Impromptu c sharp minor op. 66,1,132,7,8,8.0,8 9 8 7 8,
+c-217,FRÉDÉRIC CHOPIN,Fantasy f minor op. 49,1,-,8,,,,no explicit start tempo
+c-218,FRÉDÉRIC CHOPIN,Waltz A flat major op. 42,1,-,7,,,,no explicit start tempo
+c-219,FRÉDÉRIC CHOPIN,Waltz (Grande Valse brillante) E flat major op. 18,1,-,6,,,,no explicit start tempo
+c-22,LUDWIG VAN BEETHOVEN,Piano Sonata F major op. 54,2,118 110,7,8,7.8,8 8 8 7 8,
+c-220,FRÉDÉRIC CHOPIN,"Nocturne e minor op. post. 72,1",1,108,5,5,5.4,5 5 6 6 5,
+c-221,FRÉDÉRIC CHOPIN,"Waltz a minor op. 34,2",1,-,5,,,,no explicit start tempo
+c-222,FRÉDÉRIC CHOPIN,"Waltz (Minute) D flat major op. 64,1",1,-,6,,,,no explicit start tempo
+c-223,FRÉDÉRIC CHOPIN,"Waltz A flat major op. post. 69,1",1,138,5,4,4.0,4 4 4 4 4,
+c-224,FRÉDÉRIC CHOPIN,Polonaise A flat major op. 53,1,-,8,,,,no explicit start tempo
+c-225,FRÉDÉRIC CHOPIN,"Polonaise (Militaire) A major op. 40,1",1,-,5,,,,no explicit start tempo
+c-226,FRÉDÉRIC CHOPIN,Polonaise f sharp minor op. 44,1,-,7,,,,no explicit start tempo
+c-227,FRÉDÉRIC CHOPIN,Scherzo b minor op. 20,1,120,8,3,3.0,3 3 3 3 3,
+c-228,FRÉDÉRIC CHOPIN,Scherzo b flat minor op. 31,1,-,7,,,,no explicit start tempo
+c-229,FRÉDÉRIC CHOPIN,Scherzo c sharp minor op. 39,1,184,8,6,6.4,7 6 7 7 5,
+c-23,LUDWIG VAN BEETHOVEN,Piano Sonata (Appassionata) f minor op. 57,3,144 60 144,9,8,8.4,9 9 8 8 8,
+c-230,FRÉDÉRIC CHOPIN,Scherzo E major op. 54,1,-,8,,,,no explicit start tempo
+c-231,WOLFGANG AMADEUS MOZART,1st movement (Allegro) from Piano Sonata (Facile) C major KV 545,3,120 80 112,4,5,5.0,5 5 5 5 5,
+c-232,WOLFGANG AMADEUS MOZART,"12 Piano Variations on ""Ah, vous dirai-je Maman"" KV 265 (300e)",1,-,5,,,,no explicit start tempo
+c-233,WOLFGANG AMADEUS MOZART,Fantasy and Sonata c minor KV 475/457,1,60,6,6,6.4,7 8 6 5 6,
+c-234,WOLFGANG AMADEUS MOZART,Piano Sonata a minor KV 310 (300d),3,120 60 160,7,6,5.6,6 6 6 5 5,
+c-235,WOLFGANG AMADEUS MOZART,Piano Sonata B flat major KV 281 (189f),3,84 72 160,6,8,8.2,9 9 8 7 8,
+c-236,WOLFGANG AMADEUS MOZART,Piano Sonata C major KV 279 (189d),3,120 108 132,6,6,6.0,7 6 6 5 6,
+c-237,WOLFGANG AMADEUS MOZART,Piano Sonata C major KV 309 (284b),3,160 60 112,5,8,7.6,8 8 7 7 8,
+c-238,WOLFGANG AMADEUS MOZART,Piano Sonata C major KV 330 (300h),3,88 88 112,6,7,6.8,7 7 7 6 7,
+c-239,WOLFGANG AMADEUS MOZART,Piano Sonata D major KV 576,3,124 60 104,7,7,7.2,8 8 7 6 7,
+c-24,LUDWIG VAN BEETHOVEN,Piano Sonata (A Thérèse) F sharp major op. 78,2,120 120,7,6,6.4,7 7 6 6 6,
+c-240,WOLFGANG AMADEUS MOZART,Piano Sonata E flat major KV 282 (189g),3,84 120 132,5,7,7.0,7 8 7 6 7,
+c-241,WOLFGANG AMADEUS MOZART,Piano Sonata F major KV 280 (189e),3,152 72 160,5,7,6.6,7 7 7 6 6,
+c-242,WOLFGANG AMADEUS MOZART,Piano Sonata F major KV 332 (300k),3,144 60 144,6,7,6.8,7 8 7 6 6,
+c-243,WOLFGANG AMADEUS MOZART,Piano Sonata G major KV 283 (189h),3,120 84 144,5,7,6.6,7 7 7 6 6,
+c-244,WOLFGANG AMADEUS MOZART,Piano Sonata B flat major KV 333 (315c),3,120 60 144,6,6,6.0,7 7 6 5 5,
+c-245,WOLFGANG AMADEUS MOZART,9 Piano Variations on a Minuet by Duport KV 573,1,-,6,,,,no explicit start tempo
+c-246,JOHANN SEBASTIAN BACH,Prelude G major BWV 860,1,70,4,3,3.4,4 3 3 3 4,
+c-247,JOHANN SEBASTIAN BACH,Prelude e minor BWV 879,1,76,6,3,3.0,3 3 3 3 3,
+c-248,LUDWIG VAN BEETHOVEN,"9 Piano Variations on ""Quant' è più bello"" from La Molinara by Paisiello A major WoO 69",1,-,5,,,,no explicit start tempo
+c-249,LUDWIG VAN BEETHOVEN,9 Piano Variations on a March by Dressler (first version) WoO 63,1,-,6,,,,no explicit start tempo
+c-25,LUDWIG VAN BEETHOVEN,Piano Sonata (Sonatina) G major op. 79,3,200 72 144,7,7,7.2,8 8 7 6 7,
+c-250,LUDWIG VAN BEETHOVEN,"6 Piano Variations on the Swiss Song ""Es hätt e' Buur e' Töchterli"" WoO 64",1,-,4,,,,no explicit start tempo
+c-251,LUDWIG VAN BEETHOVEN,"6 Piano Variations on ""Nel cor più non mi sento"" by Paisiello WoO 70",1,-,4,,,,no explicit start tempo
+c-252,LUDWIG VAN BEETHOVEN,"10 Piano Variations on ""La stessa, la stessissima"" by Salieri WoO 73",1,-,6,,,,no explicit start tempo
+c-253,LUDWIG VAN BEETHOVEN,"7 Piano Variations on ""Kind, willst du ruhig schlafen"" by Winter WoO 75",1,-,7,,,,no explicit start tempo
+c-254,LUDWIG VAN BEETHOVEN,6 Easy Piano variations G major WoO 77,1,-,5,,,,no explicit start tempo
+c-255,LUDWIG VAN BEETHOVEN,6 Piano Variations F major op. 34,1,-,7,,,,no explicit start tempo
+c-256,LUDWIG VAN BEETHOVEN,"7 Piano Variations on ""God save the King"" WoO 78",1,-,5,,,,no explicit start tempo
+c-257,LUDWIG VAN BEETHOVEN,6 Piano Variations D major op. 76,1,-,7,,,,no explicit start tempo
+c-258,FRÉDÉRIC CHOPIN,"Waltz b minor op. post. 69,2",1,152,4,5,5.0,5 5 5 5 5,
+c-259,FRÉDÉRIC CHOPIN,"Prelude c minor op. 28,20",1,-,4,,,,no explicit start tempo
+c-26,LUDWIG VAN BEETHOVEN,Piano Sonata (Les Adieux) E flat major op. 81a,3,60 54 144,8,8,8.4,9 9 8 8 8,
+c-260,FRÉDÉRIC CHOPIN,"Prelude b minor op. 28,6",1,48,4,3,2.8,3 2 3 3 3,
+c-261,FRÉDÉRIC CHOPIN,"Prelude e minor op. 28,4",1,63,4,3,3.4,4 4 3 3 3,
+c-262,FRÉDÉRIC CHOPIN,"Nocturne g minor op. 15,3",1,69,5,8,8.0,8 8 8 8 8,
+c-263,FRÉDÉRIC CHOPIN,"Etude C major op. 10,1",1,176,9,8,8.0,9 9 8 7 7,
+c-264,FRÉDÉRIC CHOPIN,"Etude a minor op. 10,2",1,144,8,8,8.4,9 9 8 8 8,
+c-265,FRÉDÉRIC CHOPIN,"Etude c sharp minor op. 10,4",1,176,8,8,8.4,9 9 8 7 9,
+c-266,FRÉDÉRIC CHOPIN,"Etude C major op. 10,7",1,126,7,8,8.4,8 9 8 8 9,
+c-268,FRÉDÉRIC CHOPIN,"Etude f minor op. 10,9",1,144,6,9,8.6,9 9 8 8 9,
+c-269,FRÉDÉRIC CHOPIN,"Etude A flat major op. 10,10",1,152,7,7,7.2,7 7 7 7 8,
+c-27,LUDWIG VAN BEETHOVEN,Piano Sonata e minor op. 90,2,144 90,7,8,7.8,8 8 8 7 8,
+c-270,FRÉDÉRIC CHOPIN,"Etude E flat major op. 10,11",1,126,7,8,8.4,9 9 8 8 8,
+c-271,FRÉDÉRIC CHOPIN,"Etude f minor op. 25,2",1,69,7,6,6.0,6 5 6 6 7,
+c-272,FRÉDÉRIC CHOPIN,"Etude e minor op. 25,5",1,148,8,8,8.2,8 9 8 8 8,
+c-273,FRÉDÉRIC CHOPIN,"Etude g sharp minor op. 25,6",1,69,9,7,7.2,8 7 7 7 7,
+c-274,FRÉDÉRIC CHOPIN,"Etude c sharp minor op. 25,7",1,120,7,7,6.8,7 7 7 6 7,
+c-275,FRÉDÉRIC CHOPIN,"Etude c minor op. 25,12",1,160,8,9,9.0,9 9 9 9 9,
+c-276,FRÉDÉRIC CHOPIN,Impromptu A flat major op. 29,1,-,7,,,,no explicit start tempo
+c-277,FRÉDÉRIC CHOPIN,Impromptu F sharp major op. 36,1,-,7,,,,no explicit start tempo
+c-278,FRÉDÉRIC CHOPIN,Impromptu G flat major op. 51,1,-,7,,,,no explicit start tempo
+c-279,FRÉDÉRIC CHOPIN,"Mazurka f sharp minor op. 6,1",1,132,5,4,4.0,4 4 4 4 4,
+c-28,LUDWIG VAN BEETHOVEN,Piano Sonata A major op. 101,2,116 160,9,6,6.0,6 6 6 6 6,
+c-280,FRÉDÉRIC CHOPIN,"Mazurka c sharp minor op. 6,2",1,-,5,,,,no explicit start tempo
+c-281,FRÉDÉRIC CHOPIN,"Mazurka E major op. 6,3",1,180,5,5,5.4,6 5 5 6 5,
+c-282,FRÉDÉRIC CHOPIN,"Mazurka e flat minor op. 6,4",1,228,5,4,4.0,4 4 4 4 4,
+c-283,FRÉDÉRIC CHOPIN,"Mazurka a minor op. 7,2",1,160,5,4,4.0,4 4 4 4 4,
+c-284,FRÉDÉRIC CHOPIN,"Mazurka f minor op. 7,3",1,162,5,5,5.0,5 5 5 5 5,
+c-285,FRÉDÉRIC CHOPIN,"Mazurka A flat major op. 7,4",1,228,5,7,6.8,7 7 7 6 7,
+c-286,FRÉDÉRIC CHOPIN,"Mazurka B flat major op. 17,1",1,160,5,5,5.0,5 5 5 5 5,
+c-287,FRÉDÉRIC CHOPIN,"Mazurka e minor op. 17,2",1,144,5,4,4.0,4 4 4 4 4,
+c-288,FRÉDÉRIC CHOPIN,"Mazurka A flat major op. 17,3",1,144,5,4,4.4,5 5 4 4 4,
+c-289,FRÉDÉRIC CHOPIN,"Mazurka op. 17,4",1,152,5,5,5.0,5 5 5 5 5,
+c-29,LUDWIG VAN BEETHOVEN,Piano Sonata (Hammerklavier) B flat major op. 106,4,138 240 46 40,9,7,6.8,7 8 7 6 6,
+c-290,FRÉDÉRIC CHOPIN,"Mazurka C major op. 24,2",1,108,4,4,3.6,4 4 3 4 3,
+c-291,FRÉDÉRIC CHOPIN,"Mazurka A flat major op. 24,3",1,126,5,3,3.0,3 3 3 3 3,
+c-292,FRÉDÉRIC CHOPIN,"Mazurka c minor op. 30,1",1,-,5,,,,no explicit start tempo
+c-293,FRÉDÉRIC CHOPIN,"Mazurka op. 30,2",1,-,5,,,,no explicit start tempo
+c-294,FRÉDÉRIC CHOPIN,"Mazurka D flat major op. 30,3",1,132,6,4,4.0,4 4 4 4 4,
+c-295,FRÉDÉRIC CHOPIN,"Mazurka c sharp minor op. 30,4",1,-,6,,,,no explicit start tempo
+c-296,FRÉDÉRIC CHOPIN,"Mazurka g sharp minor op. 33,1",1,-,5,,,,no explicit start tempo
+c-297,FRÉDÉRIC CHOPIN,"Mazurka op. 33,2",1,-,5,,,,no explicit start tempo
+c-298,FRÉDÉRIC CHOPIN,"Mazurka C major op. 33,3",1,-,4,,,,no explicit start tempo
+c-299,FRÉDÉRIC CHOPIN,"Mazurka b minor op. 33,4",1,-,6,,,,no explicit start tempo
+c-3,LUDWIG VAN BEETHOVEN,"Piano Sonata C major op. 2,3",4,132 50 244 180,7,7,7.4,8 8 7 7 7,
+c-30,LUDWIG VAN BEETHOVEN,Piano Sonata E major op. 109,3,152 240 84,8,8,8.2,8 9 8 8 8,
+c-300,FRÉDÉRIC CHOPIN,"Mazurka e minor op. 41,1",1,-,5,,,,no explicit start tempo
+c-301,FRÉDÉRIC CHOPIN,"Mazurka G major op. 50,1",1,-,6,,,,no explicit start tempo
+c-302,FRÉDÉRIC CHOPIN,"Mazurka A flat major op. 50,2",1,-,6,,,,no explicit start tempo
+c-303,FRÉDÉRIC CHOPIN,"Mazurka c sharp minor op. 50,3",1,-,6,,,,no explicit start tempo
+c-304,FRÉDÉRIC CHOPIN,"Mazurka B major op. 56,1",1,132,7,4,4.0,4 4 4 4 4,
+c-305,FRÉDÉRIC CHOPIN,"Mazurka C major op. 56,2",1,-,6,,,,no explicit start tempo
+c-306,FRÉDÉRIC CHOPIN,"Mazurka c minor op. 56,3",1,-,6,,,,no explicit start tempo
+c-307,FRÉDÉRIC CHOPIN,"Mazurka a minor op. 59,1",1,-,6,,,,no explicit start tempo
+c-308,FRÉDÉRIC CHOPIN,"Mazurka A flat major op. 59,2",1,-,6,,,,no explicit start tempo
+c-309,FRÉDÉRIC CHOPIN,"Mazurka f sharp minor op. 59,3",1,180,7,6,6.0,6 6 6 6 6,
+c-31,LUDWIG VAN BEETHOVEN,Piano Sonata A flat major op. 110,3,72 240 60,8,8,7.6,8 9 7 7 7,
+c-310,FRÉDÉRIC CHOPIN,"Mazurka B major op. 63,1",1,-,6,,,,no explicit start tempo
+c-311,FRÉDÉRIC CHOPIN,"Mazurka f minor op. 63,2",1,-,5,,,,no explicit start tempo
+c-312,FRÉDÉRIC CHOPIN,"Mazurka c sharp minor op. 63,3",1,-,6,,,,no explicit start tempo
+c-313,FRÉDÉRIC CHOPIN,"Mazurka G major op. 67,1",1,160,6,4,4.0,4 4 4 4 4,
+c-314,FRÉDÉRIC CHOPIN,"Mazurka a minor op. 67,4",1,138,5,3,3.4,4 4 3 3 3,
+c-315,FRÉDÉRIC CHOPIN,"Mazurka F major op. 68,3",1,126,4,3,3.0,3 3 3 3 3,
+c-316,FRÉDÉRIC CHOPIN,"Nocturne B major op. 9,3",1,99,7,6,6.0,6 7 5 7 5,
+c-317,FRÉDÉRIC CHOPIN,"Nocturne F major op. 15,1",1,69,6,8,8.0,8 8 8 8 8,
+c-318,FRÉDÉRIC CHOPIN,"Nocturne F sharp major op. 15,2",1,40,6,5,5.0,6 5 5 5 4,
+c-319,FRÉDÉRIC CHOPIN,"Nocturne c sharp minor op. 27,1",1,75,6,7,7.0,7 8 6 7 7,
+c-32,LUDWIG VAN BEETHOVEN,Piano Sonata c minor op. 111,2,60 40,9,8,8.0,9 9 8 7 7,
+c-320,FRÉDÉRIC CHOPIN,"Nocturne B major op. 32,1",1,72,5,4,3.6,4 4 3 3 4,
+c-321,FRÉDÉRIC CHOPIN,"Nocturne A flat major op. 32,2",1,-,6,,,,no explicit start tempo
+c-322,FRÉDÉRIC CHOPIN,"Nocturne g minor op. 37,1",1,-,5,,,,no explicit start tempo
+c-323,FRÉDÉRIC CHOPIN,"Nocturne f sharp minor op. 48,2",1,-,6,,,,no explicit start tempo
+c-324,FRÉDÉRIC CHOPIN,"Nocturne f minor op. 55,1",1,-,6,,,,no explicit start tempo
+c-325,FRÉDÉRIC CHOPIN,"Nocturne E flat major op. 55,2",1,52,6,3,3.0,3 3 3 3 3,
+c-326,FRÉDÉRIC CHOPIN,"Nocturne E major op. 62,2",1,-,6,,,,no explicit start tempo
+c-327,FRÉDÉRIC CHOPIN,Variations brillantes B flat major op. 12,1,132,7,8,8.0,8 8 8 8 8,
+c-328,FRÉDÉRIC CHOPIN,Bolero a minor op. 19,1,88,7,7,6.6,7 7 7 6 6,
+c-329,FRÉDÉRIC CHOPIN,Tarantella A flat major op. 43,1,-,7,,,,no explicit start tempo
+c-330,FRÉDÉRIC CHOPIN,Allegro de Concert A major op. 46,1,132,8,9,8.8,9 9 8 9 9,
+c-331,FRÉDÉRIC CHOPIN,"3 Ecossaises D major, G major, D flat major op. 72,3",1,-,7,,,,no explicit start tempo
+c-332,FRÉDÉRIC CHOPIN,Piano Sonata b minor op. 58,1,184,9,9,8.8,9 9 8 9 9,
+c-333,FRÉDÉRIC CHOPIN,Piano Sonata c minor op. 4,1,72,8,3,3.0,3 3 3 3 3,
+c-334,FRÉDÉRIC CHOPIN,"Polonaise e flat minor op. 26,2",1,-,6,,,,no explicit start tempo
+c-335,FRÉDÉRIC CHOPIN,"Polonaise c minor op. 40,2",1,-,6,,,,no explicit start tempo
+c-336,FRÉDÉRIC CHOPIN,"Polonaise g minor KK IIa,1",1,-,4,,,,no explicit start tempo
+c-337,FRÉDÉRIC CHOPIN,"Prelude a minor op. 28,2",1,63,5,3,3.2,4 3 3 3 3,
+c-338,FRÉDÉRIC CHOPIN,"Prelude G major op. 28,3",1,148,7,8,8.4,9 9 8 7 9,
+c-339,FRÉDÉRIC CHOPIN,"Prelude D major op. 28,5",1,-,7,,,,no explicit start tempo
+c-340,FRÉDÉRIC CHOPIN,"Prelude A major op. 28,7",1,-,4,,,,no explicit start tempo
+c-341,FRÉDÉRIC CHOPIN,"Prelude f sharp minor op. 28,8",1,108,8,7,7.0,7 8 7 6 7,
+c-342,FRÉDÉRIC CHOPIN,"Prelude c sharp minor op. 28,10",1,144,7,8,7.6,8 7 7 8 8,
+c-343,FRÉDÉRIC CHOPIN,"Prelude B major op. 28,11",1,160,7,4,4.0,4 4 4 4 4,
+c-344,FRÉDÉRIC CHOPIN,"Prelude g sharp minor op. 28,12",1,-,8,,,,no explicit start tempo
+c-345,FRÉDÉRIC CHOPIN,"Prelude F sharp major op. 28,13",1,148,6,8,8.4,9 9 8 7 9,
+c-346,FRÉDÉRIC CHOPIN,"Prelude e flat minor op. 28,14",1,180,7,8,8.0,8 8 8 8 8,
+c-347,FRÉDÉRIC CHOPIN,"Prelude b flat minor op. 28,16",1,188,8,8,8.4,9 9 8 8 8,
+c-348,FRÉDÉRIC CHOPIN,"Prelude A flat major op. 28,17",1,114,7,7,6.8,6 6 8 7 7,
+c-350,FRÉDÉRIC CHOPIN,"Prelude E flat major op. 28,19",1,-,7,,,,no explicit start tempo
+c-351,FRÉDÉRIC CHOPIN,"Prelude B flat major op. 28,21",1,207,6,9,8.6,9 9 8 9 8,
+c-352,FRÉDÉRIC CHOPIN,"Prelude F major op. 28,23",1,104,6,5,4.6,5 4 4 5 5,
+c-353,FRÉDÉRIC CHOPIN,"Prelude d minor op. 28,24",1,108,9,4,3.8,4 4 3 4 4,
+c-354,FRÉDÉRIC CHOPIN,Prelude c sharp minor op. 45,1,-,6,,,,no explicit start tempo
+c-355,FRÉDÉRIC CHOPIN,Rondo c minor op. 1,1,54,7,8,7.6,8 9 7 7 7,
+c-356,FRÉDÉRIC CHOPIN,Rondo F major op. 5,1,132,8,6,5.8,7 6 6 5 5,
+c-357,FRÉDÉRIC CHOPIN,Rondo E flat major op. 16,1,84,8,8,8.0,8 8 8 8 8,
+c-358,FRÉDÉRIC CHOPIN,"Waltz A flat major op. 34,1",1,-,6,,,,no explicit start tempo
+c-359,FRÉDÉRIC CHOPIN,"Waltz F major op. 34,3",1,-,6,,,,no explicit start tempo
+c-360,FRÉDÉRIC CHOPIN,"Waltz A flat major op. 64,3",1,104,6,6,6.2,7 6 6 6 6,
+c-361,FRÉDÉRIC CHOPIN,"Waltz f minor op. post. 70,2",1,144,5,4,4.0,4 4 4 4 4,
+c-362,JOHANN SEBASTIAN BACH,Invention 6 E major BWV 777,1,56,3,3,3.0,3 3 3 3 3,
+c-363,JOHANN SEBASTIAN BACH,Invention 3 D major BWV 774,1,72,4,3,3.0,3 3 3 3 3,
+c-364,JOHANN SEBASTIAN BACH,Invention 1 C major BWV 772,1,59,3,3,3.0,3 3 3 3 3,
+c-365,JOHANN SEBASTIAN BACH,Invention 4 d minor BWV 775,1,106,3,4,4.0,4 4 4 4 4,
+c-366,JOHANN SEBASTIAN BACH,Invention 5 E flat major BWV 776,1,91,4,5,5.0,5 5 5 5 5,
+c-367,JOHANN SEBASTIAN BACH,Invention 2 c minor BWV 773,1,55,4,3,3.0,3 3 3 3 3,
+c-368,JOHANN SEBASTIAN BACH,Invention 7 e minor BWV 778,1,51,4,3,2.8,3 2 3 3 3,
+c-369,JOHANN SEBASTIAN BACH,Invention 8 F major BWV 779,1,118,4,5,5.2,6 5 5 5 5,
+c-370,JOHANN SEBASTIAN BACH,Invention 9 f minor BWV 780,1,57,4,3,3.0,3 3 3 3 3,
+c-371,JOHANN SEBASTIAN BACH,Invention 11 g minor BWV 782,1,89,4,5,4.8,5 5 4 5 5,
+c-372,JOHANN SEBASTIAN BACH,Invention 12 A major BWV 783,1,110,4,5,5.2,6 5 5 5 5,
+c-373,JOHANN SEBASTIAN BACH,Invention 13 a minor BWV 784,1,77,4,3,3.0,3 3 3 3 3,
+c-374,JOHANN SEBASTIAN BACH,Invention 14 B flat major BWV 785,1,59,4,4,4.0,4 4 4 4 4,
+c-375,FRÉDÉRIC CHOPIN,"Etude e flat minor op. 10,6",1,103.5,7,6,5.8,6 7 6 5 5,
+c-376,FRÉDÉRIC CHOPIN,"Etude A flat major op. 25,1",1,104,6,9,9.0,9 9 9 9 9,
+c-377,FRÉDÉRIC CHOPIN,"Mazurka op. 24,4",1,132,6,5,4.6,5 5 4 5 4,
+c-378,FRÉDÉRIC CHOPIN,"Nocturne b flat minor op. 9,1",1,116,6,6,5.6,6 6 6 5 5,
+c-4,LUDWIG VAN BEETHOVEN,Piano Sonata E flat major op. 7,4,154 44 132 60,8,7,6.8,7 8 7 6 6,
+c-5,LUDWIG VAN BEETHOVEN,"Piano Sonata c minor op. 10,1",3,160 52 180,7,7,6.6,7 7 7 6 6,
+c-6,LUDWIG VAN BEETHOVEN,"Piano Sonata F major op. 10,2",3,116 160 152,7,8,8.2,9 9 8 7 8,
+c-8,LUDWIG VAN BEETHOVEN,Piano Sonata (Grande Sonata Pathétique) c minor op. 13,3,40 40 208,7,8,7.6,8 8 8 7 7,
+c-9,LUDWIG VAN BEETHOVEN,"Piano Sonata E major op. 14,1",3,132 120 132,6,7,7.4,8 8 7 7 7,
+m-1,JOHANN SEBASTIAN BACH,Prelude and Fugue c minor BWV 871,1,120,6,5,5.2,6 5 5 5 5,
+m-10,JOHANN SEBASTIAN BACH,Sinfonia 5 E flat major BWV 791,1,55,5,3,2.6,2 2 3 3 3,
+m-103,ROBERT SCHUMANN,"Wichtige Begebenheit op. 15,6",1,120,4,4,4.0,4 4 4 4 4,
+m-11,JOHANN SEBASTIAN BACH,"Little Prelude from the ""Pianobook"" for W. F. Bach BWV 928",1,69,4,3,3.4,4 4 3 3 3,
+m-115,ROBERT SCHUMANN,"Wichtige Begebenheit op. 15,6",1,120,4,4,4.0,4 4 4 4 4,
+m-12,JOHANN SEBASTIAN BACH,Polonaise BWV Anhang 117a,1,60,3,3,3.0,3 3 3 3 3,
+m-14,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 118,1,60,2,2,2.0,2 2 2 2 2,
+m-15,JOHANN SEBASTIAN BACH,Choral: Gib dich zufrieden und sei stille BWV 510,1,240,2,2,2.0,2 2 2 2 2,
+m-16,JOHANN SEBASTIAN BACH,Choral: Gib dich zufrieden und sei stille BWV 511,1,60,3,2,2.0,2 2 2 2 2,
+m-17,JOHANN SEBASTIAN BACH,Choral: Gib dich zufrieden und sei stille BWV 512,1,60,3,2,2.0,2 2 2 2 2,
+m-18,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 121,1,108,2,2,2.0,2 2 2 2 2,
+m-19,JOHANN SEBASTIAN BACH,Aria: So oft ich meine Tobackspfeife BWV 515,1,105,1,2,2.0,2 2 2 2 2,
+m-20,JOHANN SEBASTIAN BACH,Polonaise BWV Anhang 128,1,72,2,3,2.6,2 2 3 3 3,
+m-22,JOHANN SEBASTIAN BACH,Präludium BWV 846,1,60,2,3,3.2,3 3 3 3 4,
+m-23,JOHANN SEBASTIAN BACH,Aria: Warum betrübst du dich BWV 516,1,60,3,2,2.0,2 2 2 2 2,
+m-24,JOHANN SEBASTIAN BACH,"Choral: O Ewigkeit, du Donnerwort BWV 513",1,60,3,3,3.0,3 3 3 3 3,
+m-26,JOHANN SEBASTIAN BACH,Fugue e minor BWV 855,1,120,4,5,5.4,6 5 5 5 6,
+m-27,JOHANN SEBASTIAN BACH,Prelude F major BWV 856,1,104,5,4,4.2,4 4 4 4 5,
+m-28,JOHANN SEBASTIAN BACH,Prelude g minor BWV 861,1,27,5,3,2.6,2 2 3 3 3,
+m-29,JOHANN SEBASTIAN BACH,Prelude b minor BWV 869,1,90,5,3,3.0,3 3 3 3 3,
+m-30,JOHANN SEBASTIAN BACH,Prelude C major BWV 870,1,70,5,4,4.0,4 4 4 4 4,
+m-32,LUDWIG VAN BEETHOVEN,Minuet E flat major WoO 82,1,112,4,4,4.0,4 4 4 4 4,
+m-41,EDVARD GRIEG,"March of the Dwarfs op. 54,3",1,120,6,6,6.0,6 6 6 6 6,
+m-54,FELIX MENDELSSOHN BARTHOLDY,"Song without Words C major op. 102,3",1,168,7,5,5.4,6 6 5 5 5,
+m-58,WOLFGANG AMADEUS MOZART,Marche funèbre del Signor Maestro Contrapunto c minor KV 453a,1,60,3,3,3.0,3 3 3 3 3,
+m-65,DOMENICO SCARLATTI,Piano Sonata c minor K. 11,1,120,4,4,4.4,5 5 4 4 4,
+m-66,ROBERT SCHUMANN,"Mai, lieber Mai, - Bald bist du wieder da! op. 68,13",1,52,5,4,4.0,4 4 4 4 4,
+m-67,ROBERT SCHUMANN,"*** op. 68,26",1,78,4,3,3.0,3 3 3 3 3,
+m-69,ROBERT SCHUMANN,"Sheherazade op. 68,32",1,64,4,3,2.8,2 3 3 3 3,
+m-95,ROBERT SCHUMANN,"Sheherazade op. 68,32",1,64,4,3,2.8,2 3 3 3 3,
+x-1,JOHANN SEBASTIAN BACH,Fugue c sharp minor BWV 873,1,120,7,6,6.4,7 7 6 6 6,
+x-10,JOHANN SEBASTIAN BACH,Fugue F major BWV 880,1,92,6,5,5.2,6 5 5 5 5,
+x-100,JOHANNES BRAHMS,Paganini Variations op. 35,1,126,9,9,8.8,9 9 8 9 9,
+x-101,FRANZ LISZT,Rhapsodie espagnole,1,-,9,,,,no explicit start tempo
+x-102,JOHANN SEBASTIAN BACH,Capriccio sopra la lontananza del fratello dilettissimo B flat major BWV 992,1,52,4,3,2.8,3 2 3 3 3,
+x-103,JOHANNES BRAHMS,"Exercise 16a WoO 6,16a",1,100,5,8,8.2,8 8 8 8 9,
+x-104,ISAAC ALBÉNIZ,Asturias (Leyenda),1,132,6,6,6.4,5 8 7 6 6,
+x-105,JOHANN SEBASTIAN BACH,Sinfonia 5 (ornamented) E flat major BWV 791a,1,-,5,,,,no explicit start tempo
+x-107,ROBERT SCHUMANN,"Soldatenmarsch op. 68,2",1,-,2,,,,no explicit start tempo
+x-108,FRANZ LISZT,Funérailles,1,-,7,,,,no explicit start tempo
+x-109,ROBERT SCHUMANN,Grillen op. 12 Heft 1,1,-,6,,,,no explicit start tempo
+x-11,FRÉDÉRIC CHOPIN,"Appendix: Waltz E flat major KK IVa,14",1,-,5,,,,no explicit start tempo
+x-110,ISAAC ALBÉNIZ,Cádiz (Saeta),1,-,5,,,,no explicit start tempo
+x-111,DOMENICO SCARLATTI,Piano Sonata e minor K. 98,1,-,6,,,,no explicit start tempo
+x-112,ANTONÍN DVORÁK,"Humoresque G flat major op. 101,7",1,72,4,5,4.8,5 5 5 5 4,
+x-113,FRANZ LISZT,Sposalizio,1,-,6,,,,no explicit start tempo
+x-114,BÉLA BARTÓK,"Six Unison Melodies, no. 1",1,96,1,1,1.4,2 2 1 1 1,
+x-115,GEORGE GERSHWIN,Preludes for Piano no. 1,1,100,6,6,5.6,6 6 6 5 5,
+x-116,MAURICE RAVEL,Une barque sur l'océan,1,-,8,,,,no explicit start tempo
+x-117,ERIK SATIE,Gymnopédie no. 2,1,-,2,,,,no explicit start tempo
+x-118,FRANZ LISZT,Bénédiction de Dieu dans la solitude,1,-,7,,,,no explicit start tempo
+x-119,EDVARD GRIEG,"Fairy Dance op. 12,4",1,132,4,3,3.0,3 3 3 3 3,
+x-12,JOHANN SEBASTIAN BACH,Fugue f minor BWV 881,1,96,5,6,5.6,6 6 5 5 6,
+x-120,EDVARD GRIEG,"Puck op. 71,3",1,330,6,7,6.8,7 7 7 6 7,
+x-121,LUDWIG VAN BEETHOVEN,Fantasy op. 77,1,90,7,7,7.4,7 8 8 7 7,
+x-122,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 120,1,120,2,2,2.0,2 2 2 2 2,
+x-123,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 132,1,132,2,3,3.0,3 3 3 3 3,
+x-124,JOHANN SEBASTIAN BACH,"Choral: Wie wohl ist mir, o Freund der Seelen BWV 517",1,-,3,,,,no explicit start tempo
+x-125,CLAUDE DEBUSSY,Rêverie,1,-,5,,,,no explicit start tempo
+x-126,JOHANNES BRAHMS,"Waltz (easy version by the composer) e minor op. 39,4",1,-,6,,,,no explicit start tempo
+x-127,ISAAC ALBÉNIZ,El Polo,1,99,8,6,5.8,6 6 6 6 5,
+x-128,FRANZ SCHUBERT,12 Grazer Waltzes op. 91 D 924,1,100,4,3,2.6,3 3 2 2 3,
+x-129,FELIX MENDELSSOHN BARTHOLDY,Scherzo a Capriccio,1,-,8,,,,no explicit start tempo
+x-13,EDVARD GRIEG,"In the Hall of the Mountain King op. 46,4",1,138,6,7,7.0,7 6 7 8 7,
+x-130,JOHANN SEBASTIAN BACH,Prelude E major BWV 854,1,-,4,,,,no explicit start tempo
+x-131,ISAAC ALBÉNIZ,El Puerto,1,-,7,,,,no explicit start tempo
+x-132,BÉLA BARTÓK,No. 18 Soldiers' Song,1,-,2,,,,no explicit start tempo
+x-133,FRANZ LISZT,Piano Sonata b minor,1,140,9,9,8.8,9 9 8 9 9,
+x-134,JOHANN SEBASTIAN BACH,Little Prelude for Beginners on Piano BWV 935,1,80,3,3,3.0,3 3 3 3 3,
+x-135,SERGEI RACHMANINOV,"Prélude g sharp minor op. 32,12",1,140,7,8,8.0,8 9 8 7 8,
+x-136,ANTONÍN DVORÁK,At an old castle,1,-,6,,,,no explicit start tempo
+x-137,FRANZ LISZT,Après une Lecture du Dante - Fantasia quasi Sonata,1,-,9,,,,no explicit start tempo
+x-138,JOHANN SEBASTIAN BACH,Satz F major BWV Anhang 131,1,-,1,,,,no explicit start tempo
+x-139,CLAUDE DEBUSSY,La Cathédrale engloutie,1,60,6,5,4.8,5 5 5 5 4,
+x-14,LUDWIG VAN BEETHOVEN,"Piano Sonatina G major Anh. 5,1",1,-,3,,,,no explicit start tempo
+x-140,CLAUDE DEBUSSY,La Fille aux cheveux de lin,1,66,5,3,3.0,3 3 3 3 3,
+x-141,ROBERT SCHUMANN,"Pause op. 9,20",1,350,6,8,8.0,8 8 8 8 8,
+x-142,ANTONÍN DVORÁK,Rêverie,1,-,6,,,,no explicit start tempo
+x-143,FRANZ SCHUBERT,Piano Sonata B flat major op. post. D 960,1,-,7,,,,no explicit start tempo
+x-144,ROBERT SCHUMANN,"Stückchen op. 68,5",1,120,2,3,3.0,3 3 3 3 3,
+x-145,FRÉDÉRIC CHOPIN,"Waltz (Version according to Fontana) b minor op. post. 69,2",1,-,4,,,,no explicit start tempo
+x-146,DOMENICO SCARLATTI,Piano Sonata f minor K. 239,1,135,5,6,6.2,7 7 6 5 6,
+x-147,FRÉDÉRIC CHOPIN,"Etude a minor op. 25,11",1,-,9,,,,no explicit start tempo
+x-148,DOMENICO SCARLATTI,Piano Sonata a minor K. 149,1,-,6,,,,no explicit start tempo
+x-149,FRANZ LISZT,Tarantella,1,-,8,,,,no explicit start tempo
+x-15,LUDWIG VAN BEETHOVEN,"Piano Sonatina F major Anh. 5,2",1,-,3,,,,no explicit start tempo
+x-150,FRANZ SCHUBERT,"Impromptu A flat major op. 90,4 D 899",1,-,6,,,,no explicit start tempo
+x-151,JOHANNES BRAHMS,"Rhapsody b minor op. 79,1",1,-,7,,,,no explicit start tempo
+x-152,FRANZ SCHUBERT,"Impromptu c minor op. 90,1 D 899",1,-,6,,,,no explicit start tempo
+x-153,CLAUDE DEBUSSY,Pagodes,1,65,7,8,8.0,8 9 8 8 7,
+x-154,JOSEPH HAYDN,3rd movement: Finale. Tempo di Minuet from Sonata Hob. XVI:49,1,114,6,4,4.2,4 5 4 4 4,
+x-155,ERIK SATIE,Gnossienne no. 3,1,65,2,3,2.6,2 2 3 3 3,
+x-156,ROBERT SCHUMANN,"Wilder Reiter op. 68,8",1,-,3,,,,no explicit start tempo
+x-157,LUDWIG VAN BEETHOVEN,Alla Ingharese quasi un Capriccio (The Rage over the Lost Penny) G major op. 129,1,-,7,,,,no explicit start tempo
+x-158,ALEXANDER SCRIABIN,Piano Sonata no. 5 op. 53,1,140,9,8,7.8,8 8 8 7 8,
+x-159,JOHANNES BRAHMS,"Waltz (easy version by the composer) g sharp minor op. 39,3",1,120,4,3,3.0,3 3 3 3 3,
+x-16,JOHANN SEBASTIAN BACH,Fugue d minor BWV 948,1,75,7,7,7.4,8 9 7 6 7,
+x-160,FRANZ SCHUBERT,"Impromptu A flat major op. post. 142,2 D 935",1,-,5,,,,no explicit start tempo
+x-161,ROBERT SCHUMANN,"Fast zu ernst op. 15,10",1,69,5,3,3.0,3 3 3 3 3,
+x-162,ROBERT SCHUMANN,"Kind im Einschlummern op. 15,12",1,36,5,3,3.0,3 3 3 3 3,
+x-163,FELIX MENDELSSOHN BARTHOLDY,"Song without Words E major op. 67,6",1,78,6,5,4.6,4 5 5 5 4,
+x-164,LUDWIG VAN BEETHOVEN,"Piano Concerto no. 1 in C major op. 15: first cadenza, 1st movement",1,150,6,8,8.4,9 9 8 8 8,
+x-165,CLAUDE DEBUSSY,La plus que lente,1,-,6,,,,no explicit start tempo
+x-166,JOHANN SEBASTIAN BACH,Sonata after the Violin Sonata A minor d minor BWV 964,1,-,7,,,,no explicit start tempo
+x-168,JOHANN SEBASTIAN BACH,Invention 10 G major BWV 781,1,240,4,5,4.8,6 4 4 5 5,
+x-169,SERGEI RACHMANINOV,"Étude-Tableau f sharp minor op. 39,3",1,145,9,8,8.4,9 9 8 8 8,
+x-17,DOMENICO SCARLATTI,Piano Sonata E major K. 531,1,-,5,,,,no explicit start tempo
+x-170,JOHANN SEBASTIAN BACH,Adagio after the Violin Sonata C major (Sonata movement) G major BWV 968,1,40,4,3,3.4,4 4 3 3 3,
+x-171,JOHANNES BRAHMS,"Intermezzo E flat major op. 117,1",1,42,5,3,3.4,4 3 3 4 3,
+x-172,JOHANN SEBASTIAN BACH,Sinfonia 4 d minor BWV 790,1,65,5,3,3.0,3 3 3 3 3,
+x-173,FRANZ SCHUBERT,"Impromptu E flat major op. 90,2 D 899",1,-,6,,,,no explicit start tempo
+x-174,CLAUDE DEBUSSY,Valse romantique,1,-,6,,,,no explicit start tempo
+x-175,ISAAC ALBÉNIZ,El Albaicín,1,90,8,7,7.0,7 7 7 7 7,
+x-176,FRANZ SCHUBERT,Fantasy (Wanderer Fantasy) C major op. 15 D 760,1,-,9,,,,no explicit start tempo
+x-177,CLAUDE DEBUSSY,Hommage à Rameau,1,-,7,,,,no explicit start tempo
+x-178,CLAUDE DEBUSSY,Passepied,1,-,6,,,,no explicit start tempo
+x-179,JOHANN SEBASTIAN BACH,Little Prelude for Beginners on Piano BWV 936,1,80,3,3,3.0,3 3 3 3 3,
+x-18,JOHANN SEBASTIAN BACH,Fugue d minor BWV 875,1,52,5,3,3.2,3 4 3 3 3,
+x-180,JOHANN SEBASTIAN BACH,Little Prelude for Beginners on Piano BWV 937,1,96,3,5,4.8,5 5 4 5 5,
+x-181,WOLFGANG AMADEUS MOZART,Rondo a minor KV 511,1,56,6,4,4.0,4 4 4 4 4,
+x-182,JOHANN SEBASTIAN BACH,Duet II from Clavier exercise part 3 F major BWV 803,1,90,5,4,4.0,4 4 4 4 4,
+x-183,JOHANNES BRAHMS,App. A: Piano version of the variation movement from the String sextet op. 18,1,120,6,8,8.0,8 8 8 8 8,
+x-184,ISAAC ALBÉNIZ,"Tango op. 165,2",1,58,3,3,3.0,3 3 3 3 3,
+x-185,CLAUDE DEBUSSY,Images (1894) no. 3,1,-,6,,,,no explicit start tempo
+x-186,JOHANNES BRAHMS,"Capriccio f sharp minor op. 76,1",1,-,7,,,,no explicit start tempo
+x-187,CLAUDE DEBUSSY,Pour les agréments,1,-,8,,,,no explicit start tempo
+x-188,ENRIQUE GRANADOS,V. Andaluza,1,64.5,4,4,3.6,4 4 3 3 4,
+x-189,DOMENICO SCARLATTI,Piano Sonata d minor K. 9,1,120,5,4,4.0,4 4 4 4 4,
+x-19,JOHANN SEBASTIAN BACH,Invention 1 (Triplets) C major BWV 772a,1,-,3,,,,no explicit start tempo
+x-190,CLAUDE DEBUSSY,Clair de lune D flat major,1,-,5,,,,no explicit start tempo
+x-191,JOHANN SEBASTIAN BACH,Fugue C major BWV 953,1,30,4,3,3.0,3 3 3 3 3,
+x-192,DOMENICO SCARLATTI,Piano Sonata E major K. 380,1,-,5,,,,no explicit start tempo
+x-193,BÉLA BARTÓK,No. 4 Pillow Dance,1,-,2,,,,no explicit start tempo
+x-194,JOHANN SEBASTIAN BACH,Little Prelude for Beginners on Piano BWV 938,1,-,3,,,,no explicit start tempo
+x-195,DOMENICO SCARLATTI,Piano Sonata A major K. 208,1,-,4,,,,no explicit start tempo
+x-196,SERGEI RACHMANINOV,"Prélude G flat major op. 23,10",1,50,6,4,4.4,4 5 5 4 4,
+x-197,FELIX MENDELSSOHN BARTHOLDY,"Song without Words (Venetian Gondola Song) f sharp minor op. 30,6",1,-,5,,,,no explicit start tempo
+x-198,BÉLA BARTÓK,No. 1 Children at Play,1,92,1,2,2.0,2 2 2 2 2,
+x-199,DOMENICO SCARLATTI,Piano Sonata C major K. 159,1,-,5,,,,no explicit start tempo
+x-2,DOMENICO SCARLATTI,Piano Sonata d minor K. 64,1,108,5,3,3.4,4 4 3 3 3,
+x-20,MODEST MUSSORGSKY,No. 8 Catacombae,1,40,4,2,1.6,1 1 2 2 2,
+x-200,SERGEI RACHMANINOV,"Prélude C major op. 32,1",1,-,7,,,,no explicit start tempo
+x-201,ROBERT SCHUMANN,"Jägerliedchen op. 68,7",1,-,3,,,,no explicit start tempo
+x-202,FRANZ SCHUBERT,Hungarian Melody b minor D 817,1,72,5,5,5.2,7 6 4 5 4,
+x-203,DOMENICO SCARLATTI,Piano Sonata A major K. 322,1,-,4,,,,no explicit start tempo
+x-204,GEORG FRIEDRICH HÄNDEL,Suite g minor HWV 432,1,-,6,,,,no explicit start tempo
+x-205,WOLFGANG AMADEUS MOZART,Minuet (Nannerl Music Book) KV 1f,1,150,2,3,3.0,3 3 3 3 3,
+x-206,ROBERT SCHUMANN,"Trällerliedchen op. 68,3",1,-,2,,,,no explicit start tempo
+x-207,JOHANNES BRAHMS,"Capriccio b minor op. 76,2",1,-,6,,,,no explicit start tempo
+x-208,GEORG FRIEDRICH HÄNDEL,Fugue a minor HWV 609,1,-,6,,,,no explicit start tempo
+x-209,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 115,1,100,1,2,2.0,2 2 2 2 2,
+x-21,GEORGE GERSHWIN,Preludes for Piano no. 2,1,-,5,,,,no explicit start tempo
+x-210,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 114,1,-,1,,,,no explicit start tempo
+x-211,JOHANN SEBASTIAN BACH,Toccata e minor BWV 914,1,120,6,6,5.6,6 6 6 5 5,
+x-212,GEORG FRIEDRICH HÄNDEL,Appendix: Initial Prélude HWV 566,1,-,6,,,,no explicit start tempo
+x-213,FRÉDÉRIC CHOPIN,"Waltz a minor KK IVb,11",1,120,3,3,3.0,3 3 3 3 3,
+x-214,WOLFGANG AMADEUS MOZART,Fantasy d minor KV 397 (385g),1,-,6,,,,no explicit start tempo
+x-215,BÉLA BARTÓK,No. 3,1,100,1,3,2.6,2 2 3 3 3,
+x-216,JOHANN SEBASTIAN BACH,Fugue c minor BWV 871,1,87,6,5,5.0,5 5 5 5 5,
+x-217,ROBERT SCHUMANN,Arabesque C major op. 18,1,110,6,4,4.4,5 5 4 4 4,
+x-218,FRÉDÉRIC CHOPIN,"Mazurka B flat major KK IVb,1",1,160,4,4,4.0,4 4 4 4 4,
+x-219,JOHANNES BRAHMS,"Exercise 1a WoO 6,1a",1,-,4,,,,no explicit start tempo
+x-22,ERIK SATIE,Gymnopédie no. 3,1,66,2,2,2.0,2 2 2 2 2,
+x-220,JOHANNES BRAHMS,"Exercise 2a WoO 6,2a",1,-,5,,,,no explicit start tempo
+x-221,JOHANNES BRAHMS,"Exercise 2b WoO 6,2b",1,-,4,,,,no explicit start tempo
+x-222,FRÉDÉRIC CHOPIN,"Mazurka A flat major KK IVb,4",1,160,5,5,4.6,4 5 5 5 4,
+x-223,JOHANNES BRAHMS,"Exercise 1b WoO 6,1b",1,-,4,,,,no explicit start tempo
+x-224,FRÉDÉRIC CHOPIN,"Waltz (Version according to Fontana) A flat major op. post. 69,1",1,-,5,,,,no explicit start tempo
+x-225,ROBERT SCHUMANN,Auf der Gondel op. 68 Anhang I,1,-,3,,,,no explicit start tempo
+x-226,WOLFGANG AMADEUS MOZART,1st movement (Allegro) from Piano Sonata G major KV 283,1,142,5,7,7.4,8 7 7 7 8,
+x-227,BÉLA BARTÓK,No. 5 Play,1,106,1,2,2.0,2 2 2 2 2,
+x-228,BÉLA BARTÓK,No. 6 Study for the Left Hand,1,144,2,4,3.8,4 4 4 4 3,
+x-229,BÉLA BARTÓK,No. 7 Play Song,1,74,1,2,2.0,2 2 2 2 2,
+x-23,JOHANN SEBASTIAN BACH,Prelude C sharp major BWV 848,1,-,6,,,,no explicit start tempo
+x-230,BÉLA BARTÓK,No. 8 Children's Game,1,120,2,2,2.4,2 2 3 3 2,
+x-231,JOHANN SEBASTIAN BACH,"Choral: Schaff's mit mir, Gott BWV 514",1,-,3,,,,no explicit start tempo
+x-232,BÉLA BARTÓK,No. 10 Children's Dance,1,160,2,3,3.0,3 3 3 3 3,
+x-233,BÉLA BARTÓK,No. 13 Ballad,1,100,2,2,2.0,2 2 2 2 2,
+x-234,LUDWIG VAN BEETHOVEN,Waltz D major WoO 85,1,-,4,,,,no explicit start tempo
+x-235,FRÉDÉRIC CHOPIN,"Nocturne (version 2) c sharp minor KK IVa,16",1,-,5,,,,no explicit start tempo
+x-236,ENRIQUE GRANADOS,II. Oriental,1,104,4,3,3.0,3 3 3 3 3,
+x-237,BÉLA BARTÓK,No. 16 Old Hungarian Tune,1,70,2,2,2.0,2 2 2 2 2,
+x-238,BÉLA BARTÓK,Allegro barbaro,1,192,6,8,7.6,8 7 8 7 8,
+x-239,BÉLA BARTÓK,No. 17 Round Dance,1,70,2,2,2.0,2 2 2 2 2,
+x-24,FRÉDÉRIC CHOPIN,"Nocturne D flat major op. 27,2",1,48,6,5,5.0,5 5 5 5 5,
+x-240,GEORG FRIEDRICH HÄNDEL,Appendix: Minuet HWV 434,1,60,4,2,2.2,2 2 3 2 2,
+x-241,BÉLA BARTÓK,No. 20 Drinking Song,1,126,2,2,2.4,2 2 3 3 2,
+x-242,WOLFGANG AMADEUS MOZART,Allegro (Nannerl Music Book) KV 1b,1,-,1,,,,no explicit start tempo
+x-243,JOHANN SEBASTIAN BACH,Fugue C major BWV 946,1,-,5,,,,no explicit start tempo
+x-244,DOMENICO SCARLATTI,Piano Sonata g minor K. 347,1,-,6,,,,no explicit start tempo
+x-245,BÉLA BARTÓK,No. 29 Pentatonic Tune,1,138,3,3,3.0,3 3 3 3 3,
+x-246,JOHANNES BRAHMS,"Intermezzo A major op. 118,2",1,72,6,3,3.2,4 3 3 3 3,
+x-247,LUDWIG VAN BEETHOVEN,Ecossaise E flat major WoO 86,1,-,4,,,,no explicit start tempo
+x-248,LUDWIG VAN BEETHOVEN,Allemande A major WoO 81,1,105,4,3,3.4,4 3 3 3 4,
+x-249,JOHANN SEBASTIAN BACH,Fugue B flat major BWV 866,1,96,5,5,5.2,6 5 5 5 5,
+x-25,LUDWIG VAN BEETHOVEN,Waltz E flat major WoO 84,1,-,4,,,,no explicit start tempo
+x-250,FRÉDÉRIC CHOPIN,"Etude F major op. 25,3",1,120,7,8,8.2,8 8 8 8 9,
+x-251,JOHANN SEBASTIAN BACH,Prelude f sharp minor BWV 859,1,100,4,5,5.2,6 5 5 5 5,
+x-252,FRÉDÉRIC CHOPIN,"Etude b minor op. 25,10",1,144,9,8,8.0,8 8 8 8 8,
+x-253,JOHANN SEBASTIAN BACH,Fantasy a minor BWV 922,1,70,5,7,7.2,8 9 7 5 7,
+x-255,FRANZ LISZT,Hungarian Rhapsody no. 6,1,-,9,,,,no explicit start tempo
+x-256,FRÉDÉRIC CHOPIN,"Etude G flat major op. 25,9",1,112,7,8,8.4,8 9 8 8 9,
+x-257,BÉLA BARTÓK,No. 36 Drunkard's Song,1,144,3,4,4.0,4 4 4 4 4,
+x-258,FRÉDÉRIC CHOPIN,"Waltz e minor KK IVa,15",1,-,6,,,,no explicit start tempo
+x-259,FELIX MENDELSSOHN BARTHOLDY,"Song without Words (Duetto) A flat major op. 38,6",1,-,5,,,,no explicit start tempo
+x-26,JOHANN SEBASTIAN BACH,Fugue c minor BWV 847,1,100,5,5,5.0,5 5 5 5 5,
+x-260,JOHANNES BRAHMS,"Rhapsody g minor op. 79,2",1,120,6,6,6.4,7 7 6 6 6,
+x-261,JOSEPH HAYDN,1st movement: Presto from Sonata e minor Hob. XVI:34,1,-,6,,,,no explicit start tempo
+x-262,BÉLA BARTÓK,No. 38 Winter Solstice Song,1,160,3,3,3.0,3 3 3 3 3,
+x-263,ISAAC ALBÉNIZ,Jerez,1,76,8,7,7.0,7 7 7 7 7,
+x-264,ISAAC ALBÉNIZ,Eritaña,1,-,9,,,,no explicit start tempo
+x-265,GEORG FRIEDRICH HÄNDEL,Fugue g minor HWV 605,1,-,6,,,,no explicit start tempo
+x-266,JOHANN SEBASTIAN BACH,Fugue G major BWV 884,1,-,5,,,,no explicit start tempo
+x-267,DOMENICO SCARLATTI,Piano Sonata c minor K. 58,1,-,6,,,,no explicit start tempo
+x-268,CARL MARIA VON WEBER,Invitation to the Dance D flat major op. 65,1,80,7,6,6.2,6 7 6 6 6,
+x-269,JOHANN SEBASTIAN BACH,Fugue g minor BWV 861,1,-,6,,,,no explicit start tempo
+x-27,WOLFGANG AMADEUS MOZART,Piano Sonata D major KV 311 (284c),1,120,6,6,6.0,6 6 6 6 6,
+x-270,ALEXANDER SCRIABIN,"Prélude C major op. 11,1",1,126,6,4,3.8,4 4 4 4 3,
+x-271,ALEXANDER SCRIABIN,"Prélude a minor op. 11,2",1,138,5,3,3.0,3 3 3 3 3,
+x-272,WOLFGANG AMADEUS MOZART,1st movement (Adagio) from Piano Sonata E flat major KV 282,1,-,4,,,,no explicit start tempo
+x-273,FELIX MENDELSSOHN BARTHOLDY,"Song without Words E major op. 19,1",1,-,5,,,,no explicit start tempo
+x-274,JOHANN SEBASTIAN BACH,Prelude e flat minor BWV 853,1,74,4,3,3.0,3 3 3 3 3,
+x-275,JOHANN SEBASTIAN BACH,Little Prelude BWV 939,1,108,2,2,2.2,2 2 2 2 3,
+x-276,JOHANN SEBASTIAN BACH,Prelude C major BWV 846,1,70,2,2,2.4,2 2 3 2 3,
+x-277,MAURICE RAVEL,Pavane pour une infante défunte,1,80,6,4,4.0,4 4 4 4 4,
+x-278,LUDWIG VAN BEETHOVEN,"Minuet G major WoO 10,2",1,-,4,,,,no explicit start tempo
+x-279,JOHANN SEBASTIAN BACH,Fugue f sharp minor BWV 859,1,80,5,3,3.0,3 3 3 3 3,
+x-28,MUZIO CLEMENTI,"Piano Sonatina G major op. 36,2",1,104,3,4,4.0,4 4 4 4 4,
+x-280,CLAUDE DEBUSSY,Prelude,1,98,7,5,5.0,5 5 5 5 5,
+x-281,MAURICE RAVEL,Le Gibet,1,-,8,,,,no explicit start tempo
+x-282,WOLFGANG AMADEUS MOZART,Allegro (Nannerl Music Book) KV 1c,1,-,1,,,,no explicit start tempo
+x-283,JOSEPH HAYDN,Piano Sonata D major Hob. XVI:37,1,120,6,6,6.0,7 6 6 5 6,
+x-284,BÉLA BARTÓK,No. 23 Dance Song,1,-,2,,,,no explicit start tempo
+x-285,EDVARD GRIEG,"Präludium op. 40,1",1,120,7,5,5.4,6 6 5 5 5,
+x-286,MUZIO CLEMENTI,"Piano Sonata A major op. 2,4",1,65,7,6,6.4,7 7 6 6 6,
+x-287,CLAUDE DEBUSSY,Sarabande,1,-,6,,,,no explicit start tempo
+x-288,WOLFGANG AMADEUS MOZART,Minuet (Nannerl Music Book) KV 1e,1,120,1,2,2.0,2 2 2 2 2,
+x-289,CLAUDE DEBUSSY,Le Vent dans la plaine,1,126,7,7,7.2,7 9 7 6 7,
+x-29,MUZIO CLEMENTI,"Piano Sonatina C major op. 36,3",1,120,3,4,4.0,4 4 4 4 4,
+x-290,EDVARD GRIEG,"Butterfly op. 43,1",1,132,6,8,8.0,8 9 8 7 8,
+x-291,ERIK SATIE,Gnossienne no. 5,1,50,2,3,2.8,3 2 3 3 3,
+x-292,FRÉDÉRIC CHOPIN,"Etude a minor op. 25,4",1,120,8,5,5.0,5 5 5 5 5,
+x-295,LUDWIG VAN BEETHOVEN,"Rondo C major op. 51,1",1,80,4,4,4.0,4 4 4 4 4,
+x-296,ERIK SATIE,Gnossienne no. 6,1,37,2,3,3.0,3 3 3 3 3,
+x-298,WOLFGANG AMADEUS MOZART,Gigue G major KV 574,1,55.5,6,3,3.0,3 3 3 3 3,
+x-299,WOLFGANG AMADEUS MOZART,Minuet (Nannerl Music Book) KV 2,1,-,1,,,,no explicit start tempo
+x-3,JOHANN SEBASTIAN BACH,Fugue D major BWV 874,1,110,6,4,3.6,4 4 3 3 4,
+x-30,ROBERT SCHUMANN,"Kleine Studie op. 68,14",1,-,3,,,,no explicit start tempo
+x-300,WOLFGANG AMADEUS MOZART,Minuet (Nannerl Music Book) KV 4,1,-,2,,,,no explicit start tempo
+x-301,WOLFGANG AMADEUS MOZART,Minuet (Nannerl Music Book) KV 5,1,-,2,,,,no explicit start tempo
+x-302,WOLFGANG AMADEUS MOZART,Allegro (Nannerl Music Book) KV 9a (5a),1,-,3,,,,no explicit start tempo
+x-303,CLAUDE DEBUSSY,La puerta del Vino,1,76,7,6,6.4,7 7 5 6 7,
+x-305,BÉLA BARTÓK,No. 18 Teasing Song,1,-,3,,,,no explicit start tempo
+x-306,CLAUDE DEBUSSY,Brouillards,1,44,7,8,8.2,8 9 8 8 8,
+x-307,EDVARD GRIEG,"Morning Mood op. 46,1",1,-,5,,,,no explicit start tempo
+x-308,FERRUCCIO BUSONI,"Awake, the voice commands",1,65,5,4,4.4,5 4 5 4 4,
+x-31,LUDWIG VAN BEETHOVEN,"Bagatelle A major op. 119,10",1,-,3,,,,no explicit start tempo
+x-310,FRÉDÉRIC CHOPIN,"Nocturne c minor op. 48,1",1,-,7,,,,no explicit start tempo
+x-311,LUDWIG VAN BEETHOVEN,Easy Piano Sonata C major WoO 51,1,160,3,4,3.6,3 3 4 4 4,
+x-312,WOLFGANG AMADEUS MOZART,"Piece from the ""London Music Book"" F major KV 15hh",1,-,2,,,,no explicit start tempo
+x-313,FELIX MENDELSSOHN BARTHOLDY,"Song without Words E major op. 30,3",1,50,4,3,3.0,3 3 3 3 3,
+x-314,JOHANN SEBASTIAN BACH,Little Prelude for Beginners on Piano BWV 934,1,152,2,3,3.0,3 3 3 3 3,
+x-315,CLARA WIECK-SCHUMANN,"Mazurka op. 6,5",1,-,6,,,,no explicit start tempo
+x-316,LUDWIG VAN BEETHOVEN,Polonaise C major op. 89,1,140,7,9,8.8,9 9 8 9 9,
+x-317,FRANZ SCHUBERT,20 Minuets D 41,1,-,4,,,,no explicit start tempo
+x-318,LUDWIG VAN BEETHOVEN,"German Dance E flat major WoO 8,5",1,-,4,,,,no explicit start tempo
+x-319,WOLFGANG AMADEUS MOZART,Rondo D major KV 485,1,160,5,6,6.2,7 7 6 5 6,
+x-32,FRÉDÉRIC CHOPIN,"Appendix: Mazurka op. 7,2a",1,-,5,,,,no explicit start tempo
+x-320,JOHANN SEBASTIAN BACH,Fugue e minor BWV 900,1,-,5,,,,no explicit start tempo
+x-321,JOHANN SEBASTIAN BACH,Choral: Wer nur den lieben Gott läßt walten BWV 691,1,-,3,,,,no explicit start tempo
+x-322,JOHANN SEBASTIAN BACH,Invention 15 b minor BWV 786,1,75,4,3,3.0,3 3 3 3 3,
+x-323,WOLFGANG AMADEUS MOZART,Andante (Nannerl Music Book) KV 1a,1,-,1,,,,no explicit start tempo
+x-324,GEORG FRIEDRICH HÄNDEL,Appendix: Allemande; Earlier version HWV 429,1,50,5,3,3.0,3 3 3 3 3,
+x-325,LUDWIG VAN BEETHOVEN,Allegretto c minor WoO 53,1,200,4,5,4.8,5 5 5 5 4,
+x-326,GEORG FRIEDRICH HÄNDEL,Appendix: Initial finale HWV 427,1,30,5,3,3.0,3 3 3 3 3,
+x-327,ERIK SATIE,Gnossienne no. 4,1,60,2,2,2.4,2 2 2 3 3,
+x-328,BÉLA BARTÓK,No. 30 Jeering Song,1,-,3,,,,no explicit start tempo
+x-329,JOHANN SEBASTIAN BACH,Second Minuet from French Suite c minor BWV 813a,1,-,3,,,,no explicit start tempo
+x-33,DOMENICO SCARLATTI,Piano Sonata b minor K. 27,1,-,5,,,,no explicit start tempo
+x-330,JOHANN SEBASTIAN BACH,Musette BWV Anhang 126,1,-,1,,,,no explicit start tempo
+x-331,SERGEI RACHMANINOV,"Prélude D major op. 23,4",1,50,6,4,4.0,4 4 4 4 4,
+x-332,FRANZ SCHUBERT,Minuet D 334,1,-,4,,,,no explicit start tempo
+x-333,ALEXANDER SCRIABIN,"Prélude G major op. 11,3",1,184,6,7,7.0,7 9 7 6 6,
+x-334,JOHANN SEBASTIAN BACH,Prelude and Fugue b minor BWV 893,1,-,6,,,,no explicit start tempo
+x-335,WOLFGANG AMADEUS MOZART,Piano Sonata movement g minor KV 312 (590d),1,-,5,,,,no explicit start tempo
+x-336,CLAUDE DEBUSSY,Arabesque no. 1,1,-,4,,,,no explicit start tempo
+x-337,JOHANN SEBASTIAN BACH,Partita 5 G major BWV 829,1,-,6,,,,no explicit start tempo
+x-338,CLAUDE DEBUSSY,Danse (Tarentelle styrienne),1,-,7,,,,no explicit start tempo
+x-339,MAURICE RAVEL,Jeux d'eau,1,72,8,9,8.8,9 9 8 9 9,
+x-34,ROBERT SCHUMANN,Toccata C major op. 7,1,-,9,,,,no explicit start tempo
+x-340,JOHANNES BRAHMS,"Intermezzo e flat minor op. 118,6",1,27.5,7,5,4.8,4 5 6 5 4,
+x-341,MUZIO CLEMENTI,"Piano Sonatina F major op. 36,4",1,80,4,4,3.8,3 4 4 4 4,
+x-342,FRÉDÉRIC CHOPIN,"Prelude C major op. 28,1",1,-,6,,,,no explicit start tempo
+x-343,MUZIO CLEMENTI,"Piano Sonatina G major op. 36,5",1,100,4,4,4.0,4 4 4 4 4,
+x-344,MUZIO CLEMENTI,"Piano Sonatina D major op. 36,6",1,100,4,5,4.6,5 5 4 4 5,
+x-345,FRANZ SCHUBERT,Scherzo B flat major D 593,1,-,3,,,,no explicit start tempo
+x-346,EDVARD GRIEG,"Rigaudon op. 40,5",1,-,7,,,,no explicit start tempo
+x-347,JOHANNES BRAHMS,"Ballad B major op. 10,4",1,-,6,,,,no explicit start tempo
+x-348,JOHANNES BRAHMS,"Ballad (Edward Ballad) d minor op. 10,1",1,-,6,,,,no explicit start tempo
+x-349,MAURICE RAVEL,Scarbo,1,30,9,9,8.6,9 9 8 8 9,
+x-35,JOHANN SEBASTIAN BACH,"Little Prelude from the ""Pianobook"" for W. F. Bach BWV 926",1,112,3,3,3.0,3 3 3 3 3,
+x-350,JOHANNES BRAHMS,"Ballad (Intermezzo) b minor op. 10,3",1,-,7,,,,no explicit start tempo
+x-351,FRANZ SCHUBERT,"Impromptu G flat major op. 90,3 D 899",1,-,6,,,,no explicit start tempo
+x-352,WOLFGANG AMADEUS MOZART,Minuet D major KV 94 (73h),1,140,2,3,2.6,2 2 3 3 3,
+x-353,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 113,1,120,2,3,2.8,3 2 3 3 3,
+x-354,FRANZ SCHUBERT,"Moment musical A flat major op. 94,2 D 780",1,-,5,,,,no explicit start tempo
+x-355,FRANZ SCHUBERT,"Moment musical c sharp minor op. 94,4 D 780",1,-,5,,,,no explicit start tempo
+x-356,FRÉDÉRIC CHOPIN,"Prelude g minor op. 28,22",1,-,7,,,,no explicit start tempo
+x-358,JOHANNES BRAHMS,"Intermezzo a minor op. 116,2",1,60,6,4,4.0,4 4 4 4 4,
+x-359,FRANZ SCHUBERT,"Moment musical f minor op. 94,5 D 780",1,-,6,,,,no explicit start tempo
+x-36,NIELS WILHELM GADE,"Spring Flowers op. 2B,1",1,-,5,,,,no explicit start tempo
+x-360,ROBERT SCHUMANN,"Melodie op. 68,1",1,-,2,,,,no explicit start tempo
+x-361,CLARA WIECK-SCHUMANN,"Ballade op. 6,4",1,-,5,,,,no explicit start tempo
+x-362,ROBERT SCHUMANN,Des Abends op. 12 Heft 1,1,35,5,3,3.0,3 3 3 3 3,
+x-363,JOHANNES BRAHMS,"Intermezzo b flat minor op. 117,2",1,35,6,3,3.4,3 3 4 3 4,
+x-364,ROBERT SCHUMANN,"Träumerei op. 15,7",1,55,5,3,2.6,2 2 3 3 3,
+x-365,FRÉDÉRIC CHOPIN,"Prelude E major op. 28,9",1,-,5,,,,no explicit start tempo
+x-366,FRANZ SCHUBERT,"Impromptu B flat major op. post. 142,3 D 935",1,-,6,,,,no explicit start tempo
+x-367,SERGEI RACHMANINOV,"Prélude g minor op. 23,5",1,108,7,8,7.8,8 8 8 7 8,
+x-368,FRANZ SCHUBERT,"Impromptu f minor op. post.142,4 D 935",1,-,8,,,,no explicit start tempo
+x-369,BÉLA BARTÓK,No. 37 Swine-Herd's Song,1,-,4,,,,no explicit start tempo
+x-37,SERGEI RACHMANINOV,"Prélude b minor op. 32,10",1,40,7,7,6.8,8 8 6 6 6,
+x-370,JOHANN SEBASTIAN BACH,Minuet I from the Notebook for W. F. Bach G major BWV 841,1,-,2,,,,no explicit start tempo
+x-371,JOHANN SEBASTIAN BACH,"Minuet II from the""Notebook for W. F. Bach g minor BWV 842",1,-,3,,,,no explicit start tempo
+x-372,ERIK SATIE,Gymnopédie no. 1,1,80,2,2,2.4,2 2 3 3 2,
+x-373,JOHANN SEBASTIAN BACH,Prelude D major BWV 850,1,-,6,,,,no explicit start tempo
+x-374,JOHANN SEBASTIAN BACH,Minuet III from the Notebook for W. F. Bach G major BWV 843,1,-,3,,,,no explicit start tempo
+x-375,FRÉDÉRIC CHOPIN,"Etude D flat major op. 25,8",1,138,8,8,8.2,8 8 8 8 9,
+x-376,BÉLA BARTÓK,6. Andante,1,126,4,7,7.2,8 9 7 6 6,
+x-377,JOHANN SEBASTIAN BACH,Sinfonia 7 e minor BWV 793,1,88,5,5,4.6,5 5 4 5 4,
+x-378,JOHANN SEBASTIAN BACH,Sinfonia 10 G major BWV 796,1,100,5,5,5.2,6 5 5 5 5,
+x-379,JOHANN SEBASTIAN BACH,Sinfonia 15 b minor BWV 801,1,84,5,7,7.2,8 7 7 7 7,
+x-38,JOHANNES BRAHMS,"Exercise 8a WoO 6,8a",1,-,4,,,,no explicit start tempo
+x-380,FRÉDÉRIC CHOPIN,"Waltz (Version according to Fontana) f minor op. post. 70,2",1,100,5,3,3.2,4 3 3 3 3,
+x-381,WOLFGANG AMADEUS MOZART,"7 Piano Variations on ""Willem van Nassau"" D major KV 25",1,-,5,,,,no explicit start tempo
+x-382,WOLFGANG AMADEUS MOZART,3rd movement (Allegretto) from Piano Sonata B flat major KV 570,1,116,5,4,4.4,4 4 5 5 4,
+x-383,CLAUDE DEBUSSY,Mazurka,1,95,5,3,3.0,3 3 3 3 3,
+x-384,DOMENICO SCARLATTI,Piano Sonata d minor K. 32,1,16.5,3,1,1.0,1 1 1 1 1,
+x-385,MUZIO CLEMENTI,"Piano Sonatina - revised version C major op. 36,(1)",1,180,3,3,3.2,3 4 3 3 3,
+x-386,LUDWIG VAN BEETHOVEN,Bagatelle (Für Elise) a minor WoO 59,1,-,3,,,,no explicit start tempo
+x-387,BÉLA BARTÓK,9. Allegretto,1,186,5,6,6.4,6 5 6 7 8,
+x-388,BÉLA BARTÓK,Melody,1,-,4,,,,no explicit start tempo
+x-389,FRÉDÉRIC CHOPIN,"Mazurka C major op. 68,1",1,183,5,6,6.0,6 6 6 6 6,
+x-39,FRANZ LISZT,Feux Follets,1,-,9,,,,no explicit start tempo
+x-390,FRANZ LISZT,Consolation no. 2 E major,1,-,5,,,,no explicit start tempo
+x-391,FRANZ SCHUBERT,Minuet D 600,1,52,4,3,3.0,3 3 3 3 3,
+x-392,FRANZ SCHUBERT,Trio to be regarded as lost son of a Minuet D 610,1,82,5,4,3.6,3 3 4 4 4,
+x-393,WOLFGANG AMADEUS MOZART,3rd movement (Rondo) from Piano Sonata (Facile) C major KV 545,1,-,4,,,,no explicit start tempo
+x-394,JOHANNES BRAHMS,"Waltz (easy version by the composer) A major op. 39,15",1,-,5,,,,no explicit start tempo
+x-395,LUDWIG VAN BEETHOVEN,"Prelude C major op. 39,1",1,-,6,,,,no explicit start tempo
+x-396,LUDWIG VAN BEETHOVEN,"Prelude C major op. 39,2",1,-,4,,,,no explicit start tempo
+x-397,DOMENICO SCARLATTI,Piano Sonata f minor K. 466,1,-,5,,,,no explicit start tempo
+x-398,FRÉDÉRIC CHOPIN,"Appendix: Waltz E flat major KK IVb,10",1,-,4,,,,no explicit start tempo
+x-399,JOHANN SEBASTIAN BACH,Fugue b minor BWV 869,1,-,7,,,,no explicit start tempo
+x-4,JOHANN SEBASTIAN BACH,Duet I from Clavier exercise part 3 e minor BWV 802,1,55,5,4,4.4,5 4 4 4 5,
+x-40,FRANZ LISZT,Wilde Jagd,1,-,9,,,,no explicit start tempo
+x-400,JOHANN SEBASTIAN BACH,Fugue C major BWV 870,1,-,5,,,,no explicit start tempo
+x-401,ROBERT SCHUMANN,"Fröhlicher Landmann, von der Arbeit zurückkehrend op. 68,10",1,-,3,,,,no explicit start tempo
+x-402,LUDWIG VAN BEETHOVEN,"Bagatelle a minor op. 119,9",1,-,4,,,,no explicit start tempo
+x-403,JOHANN SEBASTIAN BACH,Fugue C sharp major BWV 872,1,74,6,4,3.8,4 4 3 4 4,
+x-41,FRANZ LISZT,Il lamento,1,-,7,,,,no explicit start tempo
+x-42,FRANZ LISZT,La leggierezza,1,-,8,,,,no explicit start tempo
+x-43,JOHANN SEBASTIAN BACH,Prelude and Fugue D major BWV 850,1,-,5,,,,no explicit start tempo
+x-44,JOHANN SEBASTIAN BACH,"Little Prelude from the ""Pianobook"" for W. F. Bach BWV 924",1,-,2,,,,no explicit start tempo
+x-45,SERGEI RACHMANINOV,"Prélude e minor op. 32,4",1,100,9,7,7.0,7 7 7 7 7,
+x-46,CLAUDE DEBUSSY,Doctor Gradus ad Parnassum,1,-,6,,,,no explicit start tempo
+x-47,FRANZ LISZT,Dance of the Gnomes,1,-,7,,,,no explicit start tempo
+x-48,ROBERT SCHUMANN,"Von fremden Ländern und Menschen op. 15,1",1,69,4,3,2.6,2 2 3 3 3,
+x-49,JOHANN SEBASTIAN BACH,Fughetta c minor BWV 961,1,100,4,3,3.2,3 4 3 3 3,
+x-5,ROBERT SCHUMANN,"Chopin op. 9,12",1,152,4,3,3.0,3 3 3 3 3,
+x-50,FELIX MENDELSSOHN BARTHOLDY,"Song without Words f sharp minor op. 67,2",1,86.25,6,6,6.4,7 7 6 6 6,
+x-51,EDVARD GRIEG,"Allegretto tranquillo e grazioso A major op. 35,2",1,75,5,8,7.6,8 7 7 8 8,
+x-52,JOHANN SEBASTIAN BACH,Fugue c sharp minor BWV 849,1,66,6,7,6.8,8 7 6 6 7,
+x-53,SERGEI RACHMANINOV,"Prélude e flat minor op. 23,9",1,152,9,9,8.8,9 9 8 9 9,
+x-54,JOHANN SEBASTIAN BACH,Menuet BWV Anhang 116,1,135,2,3,3.0,3 3 3 3 3,
+x-55,ROBERT SCHUMANN,Eintritt op. 82,1,132,5,4,4.4,4 4 5 5 4,
+x-56,FRANZ LISZT,Hungarian Rhapsody no. 2,1,-,8,,,,no explicit start tempo
+x-57,WOLFGANG AMADEUS MOZART,Minuet (Nannerl Music Book) KV 1d,1,115,2,2,2.4,2 2 3 3 2,
+x-58,WOLFGANG AMADEUS MOZART,6 Piano Variations on an Allegretto KV 54 (547b),1,100,5,6,5.8,6 7 6 5 5,
+x-59,FRANZ LISZT,Rigoletto - Concert Paraphrase,1,-,9,,,,no explicit start tempo
+x-6,JOHANN SEBASTIAN BACH,Fugue E flat major BWV 876,1,142,5,3,3.0,3 3 3 3 3,
+x-60,EDVARD GRIEG,"In my Native Country op. 43,3",1,75,4,3,3.0,3 3 3 3 3,
+x-61,CLAUDE DEBUSSY,The Snow is dancing,1,112,6,8,7.8,8 9 8 7 7,
+x-62,DOMENICO SCARLATTI,Piano Sonata a minor K. 532,1,126,6,5,4.8,5 5 5 5 4,
+x-63,FRANZ SCHUBERT,Allegretto c minor D 915,1,118,5,4,4.0,4 4 4 4 4,
+x-64,GEORG FRIEDRICH HÄNDEL,Fugue B flat major HVW 607,1,-,6,,,,no explicit start tempo
+x-65,FRANZ LISZT,Valse oubliée,1,-,7,,,,no explicit start tempo
+x-66,SERGEI RACHMANINOV,"Prélude E flat major op. 23,6",1,72,6,6,5.6,5 6 6 5 6,
+x-67,LUDWIG VAN BEETHOVEN,"Piano Piece ""Lustig und traurig"" WoO 54",1,50,3,3,3.0,3 3 3 3 3,
+x-68,EDVARD GRIEG,"Melody op. 47,3",1,-,4,,,,no explicit start tempo
+x-69,FRANZ LISZT,Vallée d'Obermann,1,-,8,,,,no explicit start tempo
+x-7,JOHANN SEBASTIAN BACH,Fugue C major BWV 846,1,-,6,,,,no explicit start tempo
+x-70,FRANZ LISZT,Au bord d'une source,1,-,7,,,,no explicit start tempo
+x-71,FRANZ LISZT,Eglogue,1,-,6,,,,no explicit start tempo
+x-72,FRANZ LISZT,Pastorale,1,-,6,,,,no explicit start tempo
+x-73,ISAAC ALBÉNIZ,"Malagueña op. 165,3",1,-,3,,,,no explicit start tempo
+x-74,JOHANN SEBASTIAN BACH,Polonaise BWV Anhang 119,1,-,2,,,,no explicit start tempo
+x-75,CLAUDE DEBUSSY,Reflets dans l'eau,1,-,8,,,,no explicit start tempo
+x-76,LUDWIG VAN BEETHOVEN,"5 Piano Variations on ""Rule Britannia"" WoO 79",1,-,6,,,,no explicit start tempo
+x-77,JOHANN SEBASTIAN BACH,Little Prelude BWV 942,1,-,4,,,,no explicit start tempo
+x-78,JOHANN SEBASTIAN BACH,Partita 6 e minor BWV 830,1,60,7,4,4.0,4 4 4 4 4,
+x-79,CLAUDE DEBUSSY,Deux Arabesques,1,-,4,,,,no explicit start tempo
+x-8,JOHANN SEBASTIAN BACH,Fugue E major BWV 878,1,120,5,3,3.0,3 3 3 3 3,
+x-80,JOHANN SEBASTIAN BACH,Little Prelude for Beginners on Piano BWV 933,1,80,3,3,3.2,3 4 3 3 3,
+x-81,JOHANN SEBASTIAN BACH,Prelude and Fugue F sharp major BWV 858,1,-,5,,,,no explicit start tempo
+x-82,FRANZ SCHUBERT,36 First Waltzes op. 9 D 365,1,-,4,,,,no explicit start tempo
+x-83,DOMENICO SCARLATTI,Piano Sonata E major K. 162,1,120,6,6,5.6,6 6 6 5 5,
+x-84,JOHANN SEBASTIAN BACH,Little Prelude BWV 999,1,100,3,3,3.4,3 4 3 3 4,
+x-85,JOSEPH HAYDN,Piano Sonata C major Hob. XVI:7,1,-,4,,,,no explicit start tempo
+x-86,ROBERT SCHUMANN,"Valse noble op. 9,4",1,-,5,,,,no explicit start tempo
+x-87,ROBERT SCHUMANN,"Aveu op. 9,18",1,88,3,4,4.0,4 4 4 4 4,
+x-88,FRÉDÉRIC CHOPIN,"Mazurka f minor op. 68,4",1,80,5,3,3.0,3 3 3 3 3,
+x-89,JOHANNES BRAHMS,Hungarian Dance no. 5 f sharp minor,1,110,8,3,3.0,3 3 3 3 3,
+x-9,JOHANN SEBASTIAN BACH,Fugue e minor BWV 879,1,72,7,5,4.6,5 5 5 4 4,
+x-90,ENRIQUE GRANADOS,4. Quejas o la maja y el ruiseñor,1,72,7,8,7.6,8 8 8 7 7,
+x-91,DOMENICO SCARLATTI,Piano Sonata b minor K. 87,1,-,5,,,,no explicit start tempo
+x-92,FRANZ LISZT,Hungarian Rhapsody no. 12,1,300,9,9,8.8,9 9 8 9 9,
+x-93,JOHANN SEBASTIAN BACH,Marche BWV Anhang 127,1,-,3,,,,no explicit start tempo
+x-94,JOHANNES BRAHMS,"Intermezzo a minor op. 118,1",1,120,7,3,3.2,4 3 3 3 3,
+x-95,DOMENICO SCARLATTI,Piano Sonata d minor K. 141,1,150,7,7,7.4,7 8 8 7 7,
+x-96,FRÉDÉRIC CHOPIN,"Waltz D flat major op. post. 70,3",1,108,5,5,5.0,5 5 5 5 5,
+x-97,ISAAC ALBÉNIZ,Granada (Serenata),1,-,4,,,,no explicit start tempo
+x-98,ISAAC ALBÉNIZ,Cataluña (Curranda),1,-,5,,,,no explicit start tempo
+x-99,ISAAC ALBÉNIZ,Sevilla (Sevillana),1,-,6,,,,no explicit start tempo

@@ -1,0 +1,16 @@
+# CPU-only versions matching the camera-ready checkpoints (scikit-learn 1.3.2 scalers,
+# pytorch-lightning 2.3.1 checkpoints). Upstream requirements.txt is unpinned and pulls jupyter etc.
+# music21 is installed separately in the Dockerfile (upstream's fork, pinned and patched).
+torch==2.3.1
+torchvision==0.18.1
+lightning==2.3.1
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.3.2
+pandas==2.1.4
+lxml==5.2.2
+sortedcontainers==2.4.0
+matplotlib==3.8.4
+seaborn==0.13.2
+wandb==0.17.4
+openpyxl==3.1.2

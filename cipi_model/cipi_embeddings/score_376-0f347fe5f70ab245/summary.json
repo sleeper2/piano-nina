@@ -1,0 +1,1 @@
+{"n_notes": 1171, "n_measures": 72, "n_parts": 1, "warnings": ["1 staff text(s) pyScoreParser would misread as a tempo/dynamics direction removed before embedding: 'F'"], "shapes": {"p": [1171, 88], "argnn_rh": [617, 64], "argnn_lh": [554, 64]}, "backend_xml": "preprocessed.musicxml", "preprocessed": {"merged_parts": null, "removed_words": ["F"]}}

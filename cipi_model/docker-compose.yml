@@ -1,0 +1,11 @@
+services:
+  cipi:
+    build: .
+    image: cipi-model
+    environment:
+      - WORKERS=${WORKERS:-4}
+      - LIMIT=${LIMIT:-0}
+    volumes:
+      - ../score_musicxml:/data/score_musicxml:ro
+      - ../806_2_score_dataset_clean.xlsx:/data/dataset.xlsx:ro
+      - ./results:/app/results

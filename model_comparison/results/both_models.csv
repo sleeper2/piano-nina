@@ -1,0 +1,561 @@
+id,file_name,composer,song_name,label,pred_rubricnet,pred_cipi,err_rubricnet,err_cipi,both_exact,both_wrong,both_off2,direction,rubricnet_mean,cipi_mean,notes_count,measures_count,bpm,notes_per_sec
+4,score_4.musicxml,Carl Czerny,Op. 299 No. 1,7,4,7,-3,0,False,False,False,,4.4,7.3,392,22,216.0,14.162322986322222
+6,score_6.musicxml,Pyotr Ilyich Tchaikovsky,The Seasons: Op. 37b XII. December,3,5,5,2,2,False,True,True,both over,5.0,5.22,2735,278,170.0,5.595756308175
+7,score_7.musicxml,Georges Bizet,L'amour est un oiseau rebelle,2,3,4,1,2,False,True,False,both over,2.6,3.93,763,90,60.0,4.2555555555555555
+8,score_8.musicxml,Jean-Philippe Rameau,Les Sauvages,3,4,3,1,0,False,False,False,,4.2,3.29,447,48,160.0,5.763888888888889
+11,score_11.musicxml,Jean-Philippe Rameau,Les Niais de Sologne,2,3,4,1,2,False,True,False,both over,3.4,3.78,478,39,110.00000000000001,6.264744429882045
+12,score_12.musicxml,Carl Czerny,30 Etudes de Mécanisme,6,4,6,-2,0,False,False,False,,4.0,5.62,700,36,92.0,12.42115268296898
+13,score_13.musicxml,Pyotr Ilyich Tchaikovsky,Italian Folk Song,3,2,3,-1,0,False,False,False,,2.0,2.73,359,49,110.00000000000001,6.391336928689484
+14,score_14.musicxml,Carl Philipp Emanuel Bach,Polonaise in g Minor,3,2,3,-1,0,False,False,False,,2.2,3.07,366,24,100.0,6.898148148148149
+18,score_18.musicxml,Friedrich Burgmüller,la pastorale,2,2,2,0,0,True,False,False,,1.8,2.27,355,29,66.0,2.9557371136709207
+19,score_19.musicxml,Carl Philipp Emanuel Bach,March in D Major,2,2,4,0,2,False,False,False,,2.2,3.73,221,24,144.0,6.013426979996748
+20,score_20.musicxml,Henry Purcell,March,3,2,3,-1,0,False,False,False,,2.4,3.2,258,22,100.0,3.8446969696969697
+21,score_21.musicxml,Friedrich Burgmüller,Arabesque,4,2,3,-2,-1,False,True,False,both under,2.4,2.87,285,33,126.0,6.422657039355332
+22,score_22.musicxml,Yoko Shimomura,Luna's Wedding Dress,2,4,2,2,0,False,False,False,,4.0,2.2,174,23,90.0,2.6419262663972165
+25,score_25.musicxml,Kevin,SS song,2,2,4,0,2,False,False,False,,1.8,4.08,335,37,60.0,2.74910394265233
+27,score_27.musicxml,Horst Wessel,Die Fahne Hoch,3,2,3,-1,0,False,False,False,,2.2,2.98,357,25,100.0,2.993197278911565
+28,score_28.musicxml,Harumi Fujita & Yoko Shimomura,Gargoyle's Quest - Boss Battle,4,2,5,-2,1,False,True,False,opposite,1.8,4.92,260,20,220.00000000000003,11.601307189542485
+29,score_29.musicxml,H. T. Burleigh,Through Moanin' Pines,3,3,4,0,1,False,False,False,,3.0,3.87,500,40,66.0,2.069383574529163
+30,score_30.musicxml,Molly Jaynes,Sonata,2,2,3,0,1,False,False,False,,2.0,3.27,647,54,120.0,5.972222222222221
+31,score_31.musicxml,Pierre De Geyter,Интернационал,3,4,4,1,1,False,True,False,both over,3.6,4.07,512,30,120.0,4.052773613193403
+33,score_33.musicxml,Tucker Dillan Dorjahn,Chorales,2,2,2,0,0,True,False,False,,2.2,2.3,243,19,80.0,2.4210526315789473
+34,score_34.musicxml,Yohei Kato,静かな魂 Op.2333 A Tranqui Soul,1,1,2,0,1,False,False,False,,1.0,1.87,152,18,40.0,1.3996216102585664
+36,score_36.musicxml,Harry Styles & Thomas Hull,Falling,2,3,3,1,1,False,True,False,both over,2.8,3.0,524,56,110.00000000000001,1.8348623853211008
+37,score_37.musicxml,Danny Daglas,Prelude,7,3,3,-4,-4,False,True,True,both under,3.4,3.33,647,26,128.0,13.210880999342539
+38,score_38.musicxml,Yohei Kato,断食12日目の穏やかな気持ち Op.2233 The Peaceful Mind on the 12th Day of Fasting,1,1,2,0,1,False,False,False,,1.2,1.67,173,16,40.0,1.3844246031746033
+39,score_39.musicxml,Alan Walker,All Falls Down,3,2,3,-1,0,False,False,False,,2.2,3.27,1208,160,200.0,5.442340270068148
+41,score_41.musicxml,William Fung,Kiseki,6,5,6,-1,0,False,False,False,,5.0,6.0,2489,102,90.0,6.712157702256712
+42,score_42.musicxml,Ari Pulkkinen,Throne of the Lost King,3,2,4,-1,1,False,True,False,opposite,2.4,4.35,1605,76,66.0,4.593492988442575
+43,score_43.musicxml,Grayson Grundahl,Frozen North,2,2,4,0,2,False,False,False,,2.4,4.05,287,13,75.0,5.643412438625204
+44,score_44.musicxml,Yohei Kato,旅立ちの静かな朝に Op.2569 On the Tranquil Morning before a Journey,1,1,2,0,1,False,False,False,,1.2,2.4,177,17,40.0,1.4063573883161513
+46,score_46.musicxml,С. Ейбог,Let's be friends,2,2,2,0,0,True,False,False,,1.8,2.44,576,87,90.0,3.9858207961656236
+47,score_47.musicxml,Kris Küblycyk,Lullaby,2,1,2,-1,0,False,False,False,,1.2,1.6,181,32,90.0,1.5771435906419033
+49,score_49.musicxml,Letícia Rezende,The Scientist,2,1,3,-1,1,False,True,False,opposite,1.2,3.4,1477,83,60.0,2.207752613240418
+50,score_50.musicxml,DeDuck,MiniBoss Theme 1,8,4,6,-4,-2,False,True,True,both under,4.4,5.9,894,30,140.0,12.182910547396528
+51,score_51.musicxml,Yohei Kato,輝く小雨 Op.2795 A Shining Drizzle,1,1,2,0,1,False,False,False,,1.2,2.2,155,11,40.0,1.3484848484848484
+52,score_52.musicxml,Stephen Foster,Jeanie with the Light Brown Hair,2,2,3,0,1,False,False,False,,2.0,2.8,209,18,70.0,2.9171528588098017
+53,score_53.musicxml,Ok chang,썸머,9,8,7,-1,-2,False,True,False,both under,8.2,7.03,753,34,80.0,14.861935305883165
+54,score_54.musicxml,Dylan Simons,Home Sweet Home,2,2,4,0,2,False,False,False,,2.2,3.87,450,32,65.0,2.669865345921684
+56,score_56.musicxml,Alan Silvestri,Portals,6,6,6,0,0,True,False,False,,6.4,5.8,895,83,80.0,4.241546278348668
+57,score_57.musicxml,Tony Banks,Fountain of Samba-Maquis,5,3,2,-2,-3,False,True,True,both under,3.2,2.0,458,42,210.0,8.933323567469909
+58,score_58.musicxml,Jeremiah Clarke,Jigg,3,2,3,-1,0,False,False,False,,2.4,2.6,399,38,120.0,6.95906432748538
+59,score_59.musicxml,Dazzyls,Breaking Point,3,3,6,0,3,False,False,False,,2.6,6.0,688,36,140.0,5.619667144062711
+60,score_60.musicxml,Nicolas Mason,Ferric,5,7,7,2,2,False,True,True,both over,7.0,7.07,962,57,240.0,7.778501628664495
+61,score_61.musicxml,Justine Shelton,A Minor Bird,2,2,4,0,2,False,False,False,,2.0,3.8,299,34,110.00000000000001,2.725043146516487
+62,score_62.musicxml,Kenji Hiramatsu,You Will Recall Our,4,5,6,1,2,False,True,False,both over,4.8,5.6,1722,123,174.0,6.116093094150556
+65,score_65.musicxml,Josh Ian Marshall,Dance of the Impaler,3,2,5,-1,2,False,True,False,opposite,2.2,5.07,713,50,120.0,6.310039496104562
+66,score_66.musicxml,Raphael Goldstein,Falling - Harry Styles,2,1,4,-1,2,False,True,False,opposite,1.4,3.52,527,53,110.00000000000001,3.2996437812951576
+67,score_67.musicxml,Yohei Kato,ある惑星の呼吸 Op.2773 Breathing of a Planet,2,2,3,0,1,False,False,False,,2.0,3.2,182,11,40.0,1.621212121212121
+68,score_68.musicxml,Yasunori Mitsuda,Secret of the Forest,5,4,6,-1,1,False,True,False,opposite,4.0,5.87,984,42,75.5,5.645016192875135
+72,score_72.musicxml,David Fenn,Legendary Titan Slayer,3,3,6,0,3,False,False,False,,2.6,5.55,615,65,125.99999999999999,5.03916844515584
+73,score_73.musicxml,Jacob D'Lallo,Venetian Blossoms,4,3,5,-1,1,False,True,False,opposite,3.2,4.58,1287,55,60.0,5.730558410414526
+74,score_74.musicxml,Keith Jarrett,Last Solo' Final Impromptu,7,3,6,-4,-1,False,True,False,both under,3.4,5.57,4021,155,138.0,10.08492698213094
+76,score_76.musicxml,JAM Project,The Hero,7,7,6,0,-1,False,False,False,,6.6,6.33,3328,119,112.0,7.433106406467985
+77,score_77.musicxml,Sid Sriram,Kannana Kanne,3,2,4,-1,1,False,True,False,opposite,2.0,3.73,1115,32,52.00000000000001,5.287748650085332
+78,score_78.musicxml,Rich Brian,History,3,6,7,3,4,False,True,True,both over,6.0,6.6,1467,105,140.0,5.09356199953255
+79,score_79.musicxml,Jerry Bustillo,She's Always a Woman to Me,3,3,6,0,3,False,False,False,,2.6,5.6,858,63,80.0,5.135802469135803
+80,score_80.musicxml,"Takeru Kanazaki, Yasuhisa Baba, Takafumi Wada & Sho Murakami",With Mila's Divine Protection,5,4,5,-1,0,False,False,False,,4.4,5.05,768,58,152.0,6.978308231744073
+82,score_82.musicxml,Lasse Becker,Intermezzo,4,3,3,-1,-1,False,True,False,both under,2.6,3.07,439,39,120.0,5.512820512820513
+83,score_83.musicxml,Vanros Kloud,Paper Planes Adventure,5,6,7,1,2,False,True,False,both over,5.8,6.53,1528,86,120.0,6.744250594766059
+85,score_85.musicxml,Heath,PIANO SOLO Detective Conan - Mune Ga Doki Doki,3,5,5,2,2,False,True,True,both over,4.6,5.0,2236,143,158.0,6.103263491126288
+87,score_87.musicxml,Finneas O'Connell,bad guy,3,2,4,-1,1,False,True,False,opposite,2.0,4.2,1108,93,130.0,5.6569312276220245
+88,score_88.musicxml,Yohei Kato,夕日に向かって Op.2316 Toward the Setting Sun,1,1,3,0,2,False,False,False,,1.2,2.87,161,17,45.0,1.3350795325950129
+89,score_89.musicxml,Carl Czerny,The School Of Velocity,3,5,4,2,1,False,True,False,both over,5.4,4.25,415,24,90.0,6.232038490103006
+91,score_91.musicxml,Hitomi Sato,"""Twinleaf Town (Day)""",3,4,3,1,0,False,False,False,,3.6,2.7,332,25,80.0,3.026666666666667
+92,score_92.musicxml,Yuhua Zhang,Firefly Dance,3,4,4,1,1,False,True,False,both over,4.2,3.6,1184,71,95.0,6.480084947083451
+93,score_93.musicxml,Olivia Rodrigo,All I Want,2,2,5,0,3,False,False,False,,1.6,5.4,1007,57,72.0,2.1831741546175993
+94,score_94.musicxml,Christy Carlson Romano,Kim Possible - Could it be,3,4,4,1,1,False,True,False,both over,3.8,4.4,1074,67,98.0,4.6685340802987865
+95,score_95.musicxml,Toby Fox,Spider Dance,7,5,5,-2,-2,False,True,True,both under,5.4,5.18,993,34,106.0,10.548742465183953
+96,score_96.musicxml,Mahito Yokota,"""Overture""",2,2,2,0,0,True,False,False,,2.4,1.77,221,26,64.0,1.5206850477735108
+97,score_97.musicxml,Dan Romer,Now that this Old World is Ending,2,3,3,1,1,False,True,False,both over,3.0,3.02,669,83,130.0,2.736512728859277
+98,score_98.musicxml,Johann Pachelbel,Canon,2,3,3,1,1,False,True,False,both over,2.6,3.0,463,33,68.0,3.078378358840636
+101,score_101.musicxml,Yohei Kato,鶸色の希望 Op.2291 Light Green Yellow Hope,2,2,2,0,0,True,False,False,,1.8,2.42,270,22,40.0,2.9066066066066067
+103,score_103.musicxml,Koji Kondo,OverWorld Theme,7,6,7,-1,0,False,False,False,,6.2,6.53,2581,65,100.0,6.817301909599044
+105,score_105.musicxml,Yohei Kato,冬の味 Op.2686 A Winter Taste,1,1,2,0,1,False,False,False,,1.2,1.8,205,19,40.0,1.154236428209031
+106,score_106.musicxml,容祖兒,女皇,2,2,2,0,0,True,False,False,,2.2,1.87,387,30,75.0,3.9999999999999996
+107,score_107.musicxml,Yohei Kato,夕時雨の輝き Op.2524 Brightness of an Evening Drizzle,2,2,3,0,1,False,False,False,,1.8,3.43,233,26,40.0,2.8290598290598297
+108,score_108.musicxml,Wim Mertens,Lir,3,6,6,3,3,False,True,True,both over,5.8,6.33,5924,485,110.00000000000001,5.755609904814029
+109,score_109.musicxml,Yohei Kato,無我からの音の小波 Op.2482 A Small Sound Wave from Self-Effacement,2,2,2,0,0,True,False,False,,2.4,2.3,159,18,40.0,0.7037037037037037
+110,score_110.musicxml,Yohei Kato,哀しみを乗り越えた十字架 Op.2805 A Cross that Overcame Grief,3,3,3,0,0,True,False,False,,2.6,3.08,388,33,40.0,3.878438331854481
+111,score_111.musicxml,Yohei Kato,雨空の声 Op.2374 A Voice of Rainy Sky,1,1,2,0,1,False,False,False,,1.2,2.27,215,20,40.0,1.343987341772152
+112,score_112.musicxml,Kristen Anderson-Lopez,Colder By the Minute,5,6,7,1,2,False,True,False,both over,6.0,6.6,1837,81,140.0,5.8939093023754925
+113,score_113.musicxml,Yohei Kato,静かな運命 Op.2074 A Silent Destiny,2,1,1,-1,-1,False,True,False,both under,1.2,1.1,188,20,50.0,1.8017503805175037
+114,score_114.musicxml,Taro Bando & Soyo Oka,Choco Island,5,3,4,-2,-1,False,True,False,both under,3.4,3.73,309,22,120.0,7.198642289593456
+116,score_116.musicxml,Shuka Saito,Papapa Ore wo Suki nano wa Omae dake ka yo OP,4,6,6,2,2,False,True,True,both over,5.8,6.4,1262,47,126.0,7.036066746627949
+117,score_117.musicxml,Toby Fox,Asgore,4,3,4,-1,0,False,False,False,,3.4,3.87,1567,84,112.0,6.23198939446903
+118,score_118.musicxml,Yohei Kato,世界のほのかな優しさ Op.2217 Delicate Tenderness of the World,1,1,3,0,2,False,False,False,,1.2,2.77,226,30,50.0,1.8071385019464377
+119,score_119.musicxml,Robo Ulbricht,Mare Tranquillitatis,2,1,4,-1,2,False,True,False,opposite,1.4,3.82,341,32,85.0,2.0611702127659575
+120,score_120.musicxml,Ramin Djawadi,Dr Ford (Advanced Piano Solo),3,6,5,3,2,False,True,True,both over,6.4,5.4,1512,83,65.0,3.447342567008789
+122,score_122.musicxml,James Doan,Winters Storm,3,4,5,1,2,False,True,False,both over,3.8,5.33,850,55,160.0,6.2455989201918385
+123,score_123.musicxml,Yohei Kato,花の勇気 Op.2892 Valor of Flower,2,1,2,-1,0,False,False,False,,1.4,2.47,178,9,39.0,2.058951018638925
+124,score_124.musicxml,Joe Hisaishi,Fallingstar,3,3,3,0,0,True,False,False,,3.0,2.93,337,17,60.0,4.7515746124031
+125,score_125.musicxml,Tim Smith,In a City Lining,5,7,5,2,0,False,False,False,,6.8,4.93,1212,56,150.0,5.408115121490917
+126,score_126.musicxml,ZUN,Last Remote,4,6,7,2,3,False,True,True,both over,6.0,6.53,2942,146,132.0,6.882889096545484
+128,score_128.musicxml,Takeru Kanazaki,The Long Road,3,2,6,-1,3,False,True,False,opposite,2.4,5.6,968,106,153.0,4.253706199460916
+129,score_129.musicxml,G. Toselli,Downtown train,2,2,3,0,1,False,False,False,,1.8,3.22,882,53,90.0,3.0974585375307075
+130,score_130.musicxml,Yohei Kato,霊界を彷徨う魂 Op.2015 A Wandering Soul in the Spirit World,2,2,3,0,1,False,False,False,,2.4,3.42,396,32,45.0,1.7013560874786595
+131,score_131.musicxml,Joe Hisaishi,Princess Mononoke,3,6,6,3,3,False,True,True,both over,5.6,6.0,929,71,80.0,3.5304833259879533
+133,score_133.musicxml,Carlos Hartling,Himno Nacional de Honduras,3,3,4,0,1,False,False,False,,3.0,4.07,700,42,120.0,5.514897915013346
+134,score_134.musicxml,HIRWA Florent,4Thrillers,5,5,5,0,0,True,False,False,,4.8,4.93,2349,78,80.0,7.15420537982392
+135,score_135.musicxml,Lucas Rodriguez & Tyler Brundage,Poor Narrator,3,3,4,0,1,False,False,False,,3.4,3.67,932,94,150.0,4.531886024423338
+136,score_136.musicxml,"Ralph Maria Siegel, Jacques Larue & Georges Auric",Moulin Rouge,3,3,3,0,0,True,False,False,,2.6,2.8,362,47,100.0,2.9078014184397167
+137,score_137.musicxml,Toby Fox,Chaos King,5,4,5,-1,0,False,False,False,,4.2,4.62,1010,51,136.0,6.57269093204292
+138,score_138.musicxml,Takeru Kanazaki,The Forgotten,4,3,5,-1,1,False,True,False,opposite,3.2,5.0,826,79,160.0,5.230651601393254
+139,score_139.musicxml,David Lanz,Leaves on the Seine,2,3,3,1,1,False,True,False,both over,2.6,3.47,626,69,85.0,3.320586985652188
+140,score_140.musicxml,Katherina Ward,Midnight Snowfall,3,7,5,4,2,False,True,True,both over,6.6,4.58,913,58,90.0,5.248783266024645
+141,score_141.musicxml,Kōichi Sugiyama,Dragon Quest,3,4,3,1,0,False,False,False,,3.6,3.2,483,45,120.0,3.687718498252014
+142,score_142.musicxml,Luigi Rubino,Fragments,2,2,2,0,0,True,False,False,,2.2,2.4,321,29,80.0,3.5632183908045976
+143,score_143.musicxml,Hirokazu Tanaka,Birabuto Kingdom,3,2,3,-1,0,False,False,False,,2.4,3.4,230,26,120.0,7.2611806797853315
+144,score_144.musicxml,Elizabeth Kyriakides,Final Destination,5,4,7,-1,2,False,True,False,opposite,4.4,6.87,2629,122,90.0,6.438041815400306
+145,score_145.musicxml,Griffin McElroy,Amnesty Lodge (Sunrise),3,1,2,-2,-1,False,True,False,both under,1.2,2.17,556,95,160.0,3.548500881834215
+146,score_146.musicxml,Toby Fox,The Field of Hopes and Dreams,5,5,6,0,1,False,False,False,,4.6,5.97,1729,148,225.0,7.7841199187628405
+150,score_150.musicxml,Michael Price & David Arnold,Sherlock,3,2,6,-1,3,False,True,False,opposite,2.4,5.65,654,38,105.0,4.384253587669527
+152,score_152.musicxml,Juha Tapio,Jotain niin oikeaa,3,4,5,1,2,False,True,False,both over,4.2,4.6,780,44,100.0,4.354339684090538
+153,score_153.musicxml,Alexandre Desplat,Aggression (from The Danish Girl),3,2,5,-1,2,False,True,False,opposite,1.8,4.8,609,34,65.0,4.5567522783761385
+154,score_154.musicxml,Kina,Can We Kiss Forever?,3,2,4,-1,1,False,True,False,opposite,2.0,4.08,595,76,110.00000000000001,3.179494950532685
+156,score_156.musicxml,James Ryan Thompson,Debate With Satan,5,4,7,-1,2,False,True,False,opposite,4.0,6.53,1078,71,110.00000000000001,4.21169554487868
+157,score_157.musicxml,Yoko Shimomura,The Castle Depths,4,3,4,-1,0,False,False,False,,2.8,4.13,538,32,98.0,4.991319444444445
+158,score_158.musicxml,Dustin O'Halloran,"Prelude, No. 5",4,3,4,-1,0,False,False,False,,3.2,3.53,499,32,160.0,6.585588925967123
+159,score_159.musicxml,Jacob D'Lallo,Freed from Terra Firma,4,3,4,-1,0,False,False,False,,3.2,4.47,1080,83,100.0,3.9411303751591733
+160,score_160.musicxml,Dustin O'Halloran,Dustin O'Halloran - Opus 23,3,2,4,-1,1,False,True,False,opposite,2.4,4.1,574,68,75.0,2.7812867967030153
+161,score_161.musicxml,Marti Yoder,Late Night with Composing,4,4,6,0,2,False,False,False,,4.2,6.2,875,44,70.0,5.00051776306152
+162,score_162.musicxml,Nicola Clavel-Ouellette,Minuit Chrétien,3,2,4,-1,1,False,True,False,opposite,2.2,4.33,462,27,48.0,4.072256404069651
+163,score_163.musicxml,Random Number Generator,Indubitably,4,3,5,-1,1,False,True,False,opposite,3.4,5.2,2728,111,85.0,5.168998786020063
+164,score_164.musicxml,Yohei Kato,氷の張った無意識世界 Op.2195 The Ice-Bound Unconscious World,2,1,2,-1,0,False,False,False,,1.2,2.0,189,17,45.0,0.9708309430298752
+165,score_165.musicxml,Toby Fox,Rude Buster-Another Remix,5,5,4,0,-1,False,False,False,,4.8,4.13,1458,58,90.0,7.002692347519933
+167,score_167.musicxml,Yohei Kato,裸の街路樹の気持ち Op.2163 A Feeling of a Naked Street Tree,2,2,3,0,1,False,False,False,,1.8,2.6,190,17,50.0,2.5980392156862746
+168,score_168.musicxml,Yohei Kato,時の柔らかさと優しさ Op.2218 Softness and Gentleness of Time,1,1,2,0,1,False,False,False,,1.0,1.73,129,28,50.0,0.9078733766233766
+170,score_170.musicxml,Cameron McMahon,Panini,3,2,3,-1,0,False,False,False,,2.2,2.8,485,73,160.0,4.3616883313638155
+171,score_171.musicxml,Anthony Karas,H Fm,4,1,3,-3,-1,False,True,False,both under,1.2,2.8,297,53,85.0,6.07565011820331
+172,score_172.musicxml,Nakanishi Ryosuke,有哉と美月,3,4,3,1,0,False,False,False,,3.6,2.73,612,47,84.0,3.5509525447605945
+173,score_173.musicxml,Simon Wetton,Aria,4,2,4,-2,0,False,False,False,,2.4,3.97,565,36,80.0,5.1009440813362374
+174,score_174.musicxml,Yohei Kato,枯れ草の手 Op.2047 A Hand of Withered Grass,1,1,2,0,1,False,False,False,,1.2,1.8,185,16,45.0,1.3440244903745622
+175,score_175.musicxml,James Scott,Frog Legs Rag,5,5,7,0,2,False,False,False,,5.0,7.0,1550,89,105.0,8.25727249982942
+176,score_176.musicxml,Carolina Sevciovic Lopes,Trabalho Semestral de Contraponto II,2,1,2,-1,0,False,False,False,,1.2,2.07,205,28,80.0,1.4991015274034143
+177,score_177.musicxml,Jemell Werner,Sharon please come back oh God I miss you I'm sorry,3,2,5,-1,2,False,True,False,opposite,1.8,4.6,385,58,115.0,5.0970057043176755
+178,score_178.musicxml,Yohei Kato,無意識世界に生きる花 Op.2755 A Flower Living in the Unconscious World,2,1,2,-1,0,False,False,False,,1.2,2.13,207,17,40.0,1.5918367346938778
+180,score_180.musicxml,Yohei Kato,夕日の神隠し Op.2943 Spirit Away of the Setting Sun,2,2,2,0,0,True,False,False,,2.2,2.2,250,19,39.0,1.4539857673336272
+182,score_182.musicxml,蔡新泽,水中花,4,5,5,1,1,False,True,False,both over,5.0,5.27,555,27,100.0,6.49394586894587
+183,score_183.musicxml,Carl Czerny,Etude (Op. 335),8,7,6,-1,-2,False,True,False,both under,6.8,5.5,648,24,184.0,18.177686889343335
+184,score_184.musicxml,Pat Schweenis,Whiskey is my Lullaby,3,1,5,-2,2,False,True,True,opposite,1.2,5.02,681,96,130.0,3.9265855416288122
+185,score_185.musicxml,Yohei Kato,冬の告別 Op.2344 Winter Farewell,2,1,2,-1,0,False,False,False,,1.4,1.8,152,14,40.0,1.8608058608058609
+186,score_186.musicxml,Henry Lemoine,27,4,2,3,-2,-1,False,True,False,both under,2.2,3.0,305,36,120.0,7.744
+187,score_187.musicxml,Stanisław Warduliński,II Preludium,8,6,5,-2,-3,False,True,True,both under,6.0,5.07,766,44,60.0,8.15584549003493
+188,score_188.musicxml,Yohei Kato,魂のくつろぐ場所で Op.2013 At the Place for the Soul to Relax,2,1,2,-1,0,False,False,False,,1.4,1.8,194,30,40.0,3.2064259617451105
+189,score_189.musicxml,Yohei Kato,無意識の踊り Op.2020 A Dance of Unconsciousness,3,1,3,-2,0,False,False,False,,1.4,3.1,240,27,55.00000000000001,3.5053078875058183
+190,score_190.musicxml,José-Daniel Martínez-Miranda,Morning has Broken Variations with a Prelude and Postlude,4,5,5,1,1,False,True,False,both over,5.2,4.53,1007,127,144.0,4.154839265529913
+191,score_191.musicxml,Ross,Waltz No. 1 (New and Improved),4,3,5,-1,1,False,True,False,opposite,3.0,5.13,988,112,175.0,6.227498609617975
+192,score_192.musicxml,Yohei Kato,光は絶対やって来る Op.2161 Light Will Definitely Come to Us,3,2,4,-1,1,False,True,False,opposite,2.4,4.2,574,38,120.0,5.276315789473685
+193,score_193.musicxml,Yohei Kato,夕暮れの轟 Op.2220 A Twilight Roar,3,2,3,-1,0,False,False,False,,1.6,3.02,247,17,50.0,2.3529411764705883
+194,score_194.musicxml,Yohei Kato,次元の静謐な隙間 Op.2081 A Tranquil Crevice of Dimensions,3,1,2,-2,-1,False,True,False,both under,1.2,1.73,219,19,40.0,1.72953216374269
+195,score_195.musicxml,Michael Garson,Just a Little,3,2,3,-1,0,False,False,False,,2.2,3.27,229,21,70.0,3.0421736956159364
+196,score_196.musicxml,Yohei Kato,宇宙の脈拍 Op.2155 Pulses of the Universe,4,3,2,-1,-2,False,True,False,both under,2.6,2.47,485,36,80.0,3.705063455063455
+197,score_197.musicxml,Yohei Kato,光と影の魔法 Op.2207 A Magic for Light and Shadow,2,2,2,0,0,True,False,False,,2.2,2.27,205,15,50.0,1.2083333333333333
+198,score_198.musicxml,Konstantin Listov,Tachanka,5,5,4,0,-1,False,False,False,,4.8,4.27,673,72,180.0,6.443943943943944
+199,score_199.musicxml,Fabian Reiß,"On the way to ""Don'tknowyet"", op. 14",4,1,3,-3,-1,False,True,False,both under,1.4,3.07,632,49,108.0,6.401523474694207
+201,score_201.musicxml,Anthony Swindall,The Calling,3,3,4,0,1,False,False,False,,2.8,3.93,382,55,75.0,2.4692760942760943
+202,score_202.musicxml,Yohei Kato,朝の響き Op.2607 Sounds of the Morning,1,1,3,0,2,False,False,False,,1.2,2.67,122,18,40.0,0.9212513484358144
+204,score_204.musicxml,Yohei Kato,優しい雲 Op.2798 A Gentle Cloud,2,1,3,-1,1,False,True,False,opposite,1.4,3.2,203,20,40.0,2.2106117353308363
+205,score_205.musicxml,Monsoor,Rising Stars,3,1,2,-2,-1,False,True,False,both under,1.0,2.13,332,54,150.0,4.684620066075466
+206,score_206.musicxml,Alex Turnip,Time lost...,4,5,5,1,1,False,True,False,both over,5.4,4.67,1798,157,90.0,3.9581158081158083
+207,score_207.musicxml,Yohei Kato,朝の舞 Op.2639 A Morning Movement,2,2,2,0,0,True,False,False,,2.0,1.98,182,17,40.0,0.9533268733850129
+208,score_208.musicxml,Fabian Reiß,"Ocean, op. 3",4,1,4,-3,0,False,False,False,,1.4,3.85,559,40,120.0,6.90625
+209,score_209.musicxml,林俊杰,stay with you,4,2,3,-2,-1,False,True,False,both under,2.2,3.16,739,51,68.0,4.084929214617961
+210,score_210.musicxml,Emilee Hanson,For a Wonderful First Date,4,2,4,-2,0,False,False,False,,2.2,4.4,527,43,95.0,5.609932027946991
+211,score_211.musicxml,Francisco Conejo-García,Midnight Walkers,4,3,4,-1,0,False,False,False,,2.8,3.72,509,53,120.0,4.324617233556865
+212,score_212.musicxml,Caleb Danielson,"Theme, Spooky, and Jazzy",4,2,3,-2,-1,False,True,False,both under,2.2,3.4,338,24,90.0,4.78899952584163
+213,score_213.musicxml,Jeremy Soule,The Streets of Whiterun,3,2,4,-1,1,False,True,False,opposite,2.0,4.4,521,44,85.0,3.07193515704154
+215,score_215.musicxml,John Welsman,Felicity's Waltz,4,3,4,-1,0,False,False,False,,3.4,4.3,818,104,180.0,6.2073482878852
+216,score_216.musicxml,Toby Fox,Rude Buster Deltarune,6,5,6,-1,0,False,False,False,,5.0,6.4,1001,44,140.0,9.90983173425617
+217,score_217.musicxml,Joseph Michael Daly,Full of Pep,5,5,6,0,1,False,False,False,,5.2,6.27,2335,141,100.0,5.873485236388463
+219,score_219.musicxml,Ross Halkett,Snowflakes,3,6,6,3,3,False,True,True,both over,6.0,5.64,1120,80,94.0,4.400573337733047
+221,score_221.musicxml,Tom Brier,Uncle Bens Cakewalk,5,5,6,0,1,False,False,False,,4.8,5.93,1619,111,110.00000000000001,6.461366413320355
+222,score_222.musicxml,D. Kapeliush,Musical miniatures for piano,8,7,7,-1,-1,False,True,False,both under,7.4,7.13,1858,102,160.0,13.260011997904897
+224,score_224.musicxml,Yohei Kato,時の清涼な流れ Op.2393 A Fresh Flow of Time,2,1,3,-1,1,False,True,False,opposite,1.4,2.6,233,11,40.0,3.700132350160711
+225,score_225.musicxml,Joia Araguàs,"Ah! Vous dirai-je, Maman",5,3,3,-2,-2,False,True,True,both under,2.6,2.53,513,52,200.0,8.518518518518519
+226,score_226.musicxml,Toby Fox,Determination,4,4,4,0,0,True,False,False,,3.6,3.53,397,32,115.0,5.6781829814459375
+227,score_227.musicxml,Yohei Kato,雨落ち葉 Op.2261 Rainy Fallen Leaves,2,1,2,-1,0,False,False,False,,1.2,2.36,250,16,40.0,2.1944444444444446
+229,score_229.musicxml,Yohei Kato,幸あれ Op.2899 Best Wishes,2,3,3,1,1,False,True,False,both over,3.2,2.93,208,18,39.0,0.6501950585175553
+231,score_231.musicxml,Antonio Cartafalsa,Sakura Variations Wip IBMUSic,3,2,3,-1,0,False,False,False,,2.2,2.93,214,35,105.0,3.0608408283613837
+233,score_233.musicxml,Finn Bernaerdt,Over het gebergte,3,3,3,0,0,True,False,False,,3.0,3.07,542,50,50.0,4.47108843537415
+234,score_234.musicxml,Billie Eilish,No Time To Die,4,3,4,-1,0,False,False,False,,3.0,3.96,1428,165,140.0,4.199759479901981
+235,score_235.musicxml,Yohei Kato,冬丘の上から Op.2969 From a Winter Hill,3,1,2,-2,-1,False,True,False,both under,1.2,2.2,221,17,39.0,1.8262831790713683
+236,score_236.musicxml,Jim Bumgardner,Channels,5,2,5,-3,0,False,False,False,,2.2,4.55,1311,96,145.0,7.763951608510722
+239,score_239.musicxml,Yohei Kato,平穏な庭 Op.2767 A Serene Garden,3,1,3,-2,0,False,False,False,,1.4,3.0,227,14,40.0,1.702380952380952
+240,score_240.musicxml,菊谷知樹,Mission 1-1,3,3,3,0,0,True,False,False,,3.4,3.27,343,35,150.0,5.122119815668203
+241,score_241.musicxml,Alan Parker,La complainte de Josie,4,2,6,-2,2,False,True,True,opposite,2.4,5.62,1019,110,130.0,4.962356430493385
+244,score_244.musicxml,Yohei Kato,喜びの馬 Op.2097 A Pleasant Horse,3,2,2,-1,-1,False,True,False,both under,2.2,2.47,332,19,45.0,2.9020412997986336
+245,score_245.musicxml,Oka Adimchi Sylvester,Autumn Sonata,3,3,3,0,0,True,False,False,,3.0,3.4,559,56,80.0,3.9106073567151416
+247,score_247.musicxml,Archie Ward Scheu,The Winner,6,6,7,0,1,False,False,False,,5.6,6.6,1582,100,140.0,5.736657595653913
+248,score_248.musicxml,Lastigs13,Psuedo-Japan,5,2,3,-3,-2,False,True,True,both under,1.8,2.93,423,31,120.0,4.439238777948455
+250,score_250.musicxml,Yasuaki Fujita,Title Theme,7,3,4,-4,-3,False,True,True,both under,3.4,3.8,568,37,156.0,8.580508474576272
+253,score_253.musicxml,Yohei Kato,ゴンドラ上に浮かぶ歌 Op.2054 A Floating Song on a Gondola,2,1,2,-1,0,False,False,False,,1.2,2.0,181,20,50.0,1.5928270042194095
+254,score_254.musicxml,Thom Yorke,Suspirium,3,2,4,-1,1,False,True,False,opposite,2.4,3.93,666,84,151.0,6.357202830754467
+255,score_255.musicxml,Carlos Rubira Infante,Ambato Tierra de Flores,5,2,4,-3,-1,False,True,False,both under,2.4,4.45,769,65,124.0,6.289125544089597
+256,score_256.musicxml,Shirō Hamaguchi & Kōhei Tanaka,Harbour Village (Minato Mura),7,7,7,0,0,True,False,False,,7.0,7.0,3747,147,72.0,6.4220152119596605
+257,score_257.musicxml,Yohei Kato,誕生の祝福 Op.2288 Celebration for Birth,2,2,2,0,0,True,False,False,,2.4,1.6,220,17,40.0,1.91725768321513
+258,score_258.musicxml,DaKook,Piano Song,4,1,3,-3,-1,False,True,False,both under,1.4,2.85,313,17,80.0,3.3725490196078436
+259,score_259.musicxml,José Fernández Diaz,Piano Arrangement/Variations of Hal Leonard's Arrangement of Guantanamera For Concert Band,3,4,5,1,2,False,True,False,both over,4.2,4.6,598,63,132.0,4.492290748898679
+260,score_260.musicxml,Cooper Gilbert,Miracle Pill,4,2,4,-2,0,False,False,False,,2.2,4.1,544,53,162.0,5.283264033264032
+263,score_263.musicxml,Aspect Zero,Spin,2,1,2,-1,0,False,False,False,,1.4,2.2,274,32,92.0,2.197600952293746
+264,score_264.musicxml,Alexander Borodin,Polovetsian Dances,4,5,5,1,1,False,True,False,both over,5.0,4.93,1065,45,74.0,3.901663888482042
+266,score_266.musicxml,Masato Koike,Thin Ice,3,3,4,0,1,False,False,False,,2.8,3.93,486,39,80.0,3.2007527231932835
+267,score_267.musicxml,Jason Gofandi,In Search of Inspiration,3,4,3,1,0,False,False,False,,3.6,3.47,774,74,95.0,3.8833965968122603
+268,score_268.musicxml,Yohei Kato,時の非連続性と連続性 Op.2285 Discontinuity and Continuity of Time,1,1,3,0,2,False,False,False,,1.0,3.1,151,18,40.0,1.3611111111111112
+270,score_270.musicxml,Yohei Kato,柔らかい朝への祈り Op.2783 A Prayer for a Soft Morning,2,1,2,-1,0,False,False,False,,1.2,2.12,243,19,40.0,1.9259259259259258
+271,score_271.musicxml,Thaehan,Help,8,8,7,0,-1,False,False,False,,7.6,7.27,1919,120,196.0,9.528912630109584
+273,score_273.musicxml,Yohei Kato,モーニングコーヒーのアロマに包まれて Op.2313 Embraced by the Aroma of Morning Coffee,2,1,2,-1,0,False,False,False,,1.2,2.47,148,18,45.0,1.4063081498074048
+274,score_274.musicxml,Yohei Kato,トートからの言伝 Op.2785 A Message from Thoth,3,1,2,-2,-1,False,True,False,both under,1.2,2.27,241,14,40.0,1.7738095238095237
+275,score_275.musicxml,А. В. Александров,Государственный Гимн Советского Союза,4,3,6,-1,2,False,True,False,opposite,3.4,5.93,525,24,100.0,4.109347442680775
+276,score_276.musicxml,Roy Bargy,Justin-Tyme,6,6,6,0,0,True,False,False,,6.0,5.8,1633,77,158.0,6.617792407587256
+278,score_278.musicxml,Yohei Kato,時の優しい眼差し Op.2312 A Gentle Gaze of Time,1,1,2,0,1,False,False,False,,1.0,1.9,141,17,45.0,1.6898565932376108
+279,score_279.musicxml,William Duncombe,Sonatina in C Major,2,1,1,-1,-1,False,True,False,both under,1.4,1.07,123,24,115.0,4.918426103646833
+280,score_280.musicxml,Philippe Stutz,Les Pigeons Voyageurs,5,4,6,-1,1,False,True,False,opposite,4.4,5.62,1533,130,120.0,8.185838779956427
+281,score_281.musicxml,Yohei Kato,天より降りし蜂蜜 Op.2145 Honey Falling from the Sky,3,1,2,-2,-1,False,True,False,both under,1.2,2.33,162,17,50.0,2.07516339869281
+282,score_282.musicxml,Tom Brier,Southern Tradition,6,6,6,0,0,True,False,False,,6.0,5.93,1623,99,100.0,6.455696202531646
+284,score_284.musicxml,Yohei Kato,ゆりかごのゲシュタルト Op.2753 A Gestalt of a Cradle,2,1,2,-1,0,False,False,False,,1.2,1.9,257,20,40.0,1.7719298245614035
+285,score_285.musicxml,Yohei Kato,羽毛上の雨粒 Op.2647 A Raindrop on a Feather,1,1,2,0,1,False,False,False,,1.2,2.4,143,17,40.0,1.0265151515151516
+286,score_286.musicxml,Nikolai Rimsky-Korsakov,Flight Of The Bumblebee,4,3,2,-1,-2,False,True,False,both under,3.2,1.5,83,106,138.0,11.776753712237582
+288,score_288.musicxml,Brad Breeck,Gravity Falls: Made Me Realize,4,5,6,1,2,False,True,False,both over,4.8,6.13,1165,103,160.0,7.893815708101423
+289,score_289.musicxml,Yohei Kato,氷の音 Op.2122 Sounds of Ice,2,1,2,-1,0,False,False,False,,1.4,2.2,192,15,50.0,1.6805555555555556
+290,score_290.musicxml,Surya Kant Sahu,Bittersweet,3,5,2,2,-1,False,True,False,opposite,4.6,2.33,385,46,80.0,1.9956205962059619
+293,score_293.musicxml,Marshmello,Happier,4,3,6,-1,2,False,True,False,opposite,3.4,6.47,1614,88,100.0,3.1944444444444446
+294,score_294.musicxml,S. M. Kudlo,Subatomic Music,3,2,2,-1,-1,False,True,False,both under,1.8,1.8,93,13,60.0,2.863445378151261
+295,score_295.musicxml,Yohei Kato,日暮れの歌 Op.2211 A Song at Nightfall,2,1,2,-1,0,False,False,False,,1.2,2.2,179,20,50.0,1.6054852320675106
+297,score_297.musicxml,Yohei Kato,ある妖怪の朝の散歩 Op.2152 A Morning Walk of a Phantom,2,1,2,-1,0,False,False,False,,1.0,2.1,166,16,50.0,2.1975806451612905
+298,score_298.musicxml,NIZEYIMANA Parfait,Concerto,6,5,6,-1,0,False,False,False,,4.8,5.93,1783,55,75.0,5.560792349726776
+299,score_299.musicxml,Yohei Kato,夕暮れの追いかけっこ Op.2739 Chasing One Another at Twilight,3,2,1,-1,-2,False,True,False,both under,2.2,1.1,203,17,40.0,2.282404853833425
+300,score_300.musicxml,Yohei Kato,無意識世界の海 Op.2270 The Sea in the Unconscious World,2,1,2,-1,0,False,False,False,,1.2,2.2,114,13,40.0,0.7890899949723479
+301,score_301.musicxml,Kolton Bostrom,Inner Thoughts,2,2,2,0,0,True,False,False,,1.6,2.1,396,503,80.0,2.586666666666667
+303,score_303.musicxml,Yohei Kato,コーヒーの優しいアロマ Op.2324 A Gentle Aroma of Coffee,2,1,1,-1,-1,False,True,False,both under,1.2,1.33,146,18,40.0,1.3953917050691245
+304,score_304.musicxml,Filipus Kevin Hendar S.,Happy Birthday to Putri,3,5,2,2,-1,False,True,False,opposite,4.8,1.8,304,35,95.0,3.5793634292016474
+305,score_305.musicxml,Gustav Holst,Jupiter,2,2,2,0,0,True,False,False,,1.6,1.93,200,25,100.0,3.3514079147640787
+306,score_306.musicxml,Verdusk,Caffeine-Induced Insomnia,8,5,8,-3,0,False,False,False,,4.8,7.8,1935,71,140.0,10.0862182440437
+307,score_307.musicxml,Alan Walker,Feded,3,1,2,-2,-1,False,True,False,both under,1.0,2.4,358,33,90.0,3.901445467710528
+309,score_309.musicxml,Yohei Kato,慈しみに溢れた参列 Op.2855 A Benevolent Attendance,2,1,2,-1,0,False,False,False,,1.2,2.27,223,24,40.0,1.8703703703703702
+311,score_311.musicxml,Yohei Kato,菜種色の時間 Op.2193 Citron Yellow Time,2,2,2,0,0,True,False,False,,2.0,2.2,206,27,45.0,1.6825577685520021
+312,score_312.musicxml,Bianca Washington,The Song Of Sound And Silence,4,2,2,-2,-2,False,True,True,both under,1.6,2.2,170,16,100.0,4.15699634479577
+315,score_315.musicxml,Yohei Kato,遠くの朝焼け Op.2573 The Distant Morning Glow,2,1,2,-1,0,False,False,False,,1.2,2.0,205,17,40.0,2.1598749348619073
+316,score_316.musicxml,John Newton,Amazing Grace,1,1,1,0,0,True,False,False,,1.2,1.2,84,17,90.0,2.5337837837837838
+317,score_317.musicxml,Yohei Kato,朝の風 Op.2670 A Morning Wind,2,1,2,-1,0,False,False,False,,1.2,1.87,195,17,40.0,0.8657051282051282
+318,score_318.musicxml,Yohei Kato,冬の悠久 Op.2714 Winter Eternity,1,1,2,0,1,False,False,False,,1.2,1.9,195,17,40.0,1.460493827160494
+319,score_319.musicxml,Yohei Kato,別世界への扉 Op.2539 A Door to Another World,1,1,2,0,1,False,False,False,,1.4,1.93,141,21,40.0,0.43003003003003004
+320,score_320.musicxml,Luuk van Zon,Sunshine Rag,7,6,7,-1,0,False,False,False,,5.8,6.77,1646,88,100.0,7.381734928928591
+322,score_322.musicxml,Yohei Kato,三途の川で遊ぶ蜜蜂 Op.2824 A Playing Bee in the Styx,4,3,6,-1,2,False,True,False,opposite,3.4,5.87,386,15,40.0,6.444444444444445
+323,score_323.musicxml,Johnny Marr,Last Night I Dreamt That Somebody Loved Me,2,2,2,0,0,True,False,False,,1.8,2.33,198,33,100.0,0.9164986559139785
+324,score_324.musicxml,Dang Tung Long,初雪,2,1,2,-1,0,False,False,False,,1.4,2.22,168,21,90.0,2.824252824252824
+326,score_326.musicxml,Asuka Ohta & Ryo Nagamatsu,Coconut Mall,7,6,6,-1,-1,False,True,False,both under,5.8,6.42,844,72,266.0,8.686401480111009
+327,score_327.musicxml,Yohei Kato,枯れ草を愛する気持ち Op.2204 Affection for Withered Leaves,2,1,2,-1,0,False,False,False,,1.0,2.0,250,27,50.0,2.136625514403292
+328,score_328.musicxml,Yohei Kato,拓かれる眺望 Op.2091 An Expanding View,1,1,2,0,1,False,False,False,,1.0,1.8,144,15,50.0,1.8472222222222219
+329,score_329.musicxml,Yohei Kato,夕方の飛魚 Op.2789 Evening Flying Fish,3,1,2,-2,-1,False,True,False,both under,1.2,1.8,347,21,40.0,2.3103543171654626
+330,score_330.musicxml,Toivo Kuula,Häämarssi,4,5,6,1,2,False,True,False,both over,5.4,6.13,1521,83,80.0,2.9995507453542984
+332,score_332.musicxml,Yohei Kato,旅の静かなる終焉 Op.2118 The Silent End of a Journey,2,2,2,0,0,True,False,False,,1.6,1.8,181,15,40.0,0.9111111111111111
+334,score_334.musicxml,Yohei Kato,空の甘いアメ Op.2387 A Sweet Candy in the Sky,3,2,2,-1,-1,False,True,False,both under,1.8,1.8,188,21,40.0,2.7301587301587302
+336,score_336.musicxml,Yohei Kato,雨上がりの歌 Op.2260 A Song After the Rain,2,1,2,-1,0,False,False,False,,1.0,2.07,257,18,40.0,2.3391203703703702
+337,score_337.musicxml,Pfeil,Avondstemming,3,1,2,-2,-1,False,True,False,both under,1.0,1.6,166,11,100.0,4.444444444444445
+338,score_338.musicxml,Kenny Yang,Air,2,2,2,0,0,True,False,False,,2.4,2.16,243,30,80.0,2.5444444444444447
+339,score_339.musicxml,Yohei Kato,オレンジ色の水滴 Op.2682 An Orange Waterdrop,3,1,2,-2,-1,False,True,False,both under,1.2,2.02,337,18,40.0,1.7870370370370372
+340,score_340.musicxml,Yohei Kato,迷える羊の目覚める頃 Op.2369 The Time when a Stray Sheep Wakes Up,1,2,2,1,1,False,True,False,both over,2.0,2.3,173,16,40.0,1.0270669291338583
+341,score_341.musicxml,xi,Freedom Dive,9,8,7,-1,-2,False,True,False,both under,7.6,7.2,4170,206,220.00000000000003,16.637814106225015
+342,score_342.musicxml,Asuka Ohta & Ryo Nagamatsu,Toad's Factory,7,6,6,-1,-1,False,True,False,both under,5.6,6.43,907,39,111.0,6.37210269630361
+343,score_343.musicxml,Yohei Kato,赤レンガの優しい視線 Op.2690 A Gentle Gaze of a Red Brick,2,1,2,-1,0,False,False,False,,1.2,1.57,205,17,40.0,2.1598749348619073
+344,score_344.musicxml,Yohei Kato,不可逆な孤独 Op.2299 Irreversible Solitude,2,1,2,-1,0,False,False,False,,1.2,1.8,165,15,40.0,1.7333333333333334
+349,score_349.musicxml,Alan Menken,Beauty and The Beast,1,1,2,0,1,False,False,False,,1.0,1.6,249,47,90.0,1.8492134935880018
+350,score_350.musicxml,Molly Jaynes,Transcription Project,4,2,2,-2,-2,False,True,True,both under,2.2,1.8,265,24,132.0,5.736049926578561
+351,score_351.musicxml,Nick Carnelian,Sister of the Clock,5,5,6,0,1,False,False,False,,4.6,5.53,834,35,144.0,6.272322350220901
+352,score_352.musicxml,Olivier Pouech,Valse du premier janvier,5,5,6,0,1,False,False,False,,4.8,6.33,1113,102,180.0,9.378898624181643
+354,score_354.musicxml,Sergio Ortega,The People United Will Never Be Defeated!,4,5,6,1,2,False,True,False,both over,5.4,5.53,797,37,106.0,5.318821487053841
+355,score_355.musicxml,Toby Fox,Battle Tower,6,5,6,-1,0,False,False,False,,5.0,6.47,2070,79,130.0,6.978500233394656
+356,score_356.musicxml,Nirvana,Lithium,4,5,7,1,3,False,True,False,both over,5.0,6.6,2090,129,112.0,4.575215124230681
+358,score_358.musicxml,Nelu Ionescu,Ceata lui Pitigoi,1,1,1,0,0,True,False,False,,1.0,1.0,80,16,90.0,3.5191441441441444
+359,score_359.musicxml,Yohei Kato,静かに遠くへ Op.2240 Silently Going Far Away,2,1,2,-1,0,False,False,False,,1.2,2.3,197,21,40.0,1.5833333333333335
+362,score_362.musicxml,Yohei Kato,未明の独り散歩 Op.2308 A Lonely Walk in the Early Morning,2,1,2,-1,0,False,False,False,,1.2,1.97,181,17,40.0,1.5
+363,score_363.musicxml,Yohei Kato,朝の空気と土の香り Op.2171 A Morning Scent of the Air and Earth,2,1,2,-1,0,False,False,False,,1.2,1.9,221,27,45.0,2.010474128503636
+364,score_364.musicxml,Daniel Szelogowski,Tonnes of Cereal,3,2,1,-1,-2,False,True,False,both under,2.4,1.27,98,12,120.0,2.958333333333333
+365,score_365.musicxml,Xy Lee,Hplooj Siab Hlub,2,1,2,-1,0,False,False,False,,1.4,2.13,234,20,80.0,4.050353155616314
+366,score_366.musicxml,Grace Burton,Conversations,2,2,2,0,0,True,False,False,,2.0,2.47,232,51,192.0,4.216276766186022
+368,score_368.musicxml,Carl Nielsen,My Heart Doth Always Wander,2,1,2,-1,0,False,False,False,,1.2,2.33,224,17,92.0,2.8518021472392636
+369,score_369.musicxml,Tom Brier,Light-House Rag,7,7,7,0,0,True,False,False,,6.6,6.67,2224,113,105.0,8.748818250856283
+371,score_371.musicxml,Yohei Kato,夕空のシンボル Op.2816 A Symbol of the Evening Sky,2,2,2,0,0,True,False,False,,2.0,2.2,202,11,40.0,1.9393939393939392
+372,score_372.musicxml,Sławomir Ciecierski,Niesymfonia 70,5,5,6,0,1,False,False,False,,5.2,5.93,789,103,130.0,3.470498337175002
+374,score_374.musicxml,Bruno Mars & Cardi B,Please Me,7,8,7,1,0,False,False,False,,8.4,6.73,2267,94,134.0,7.8401320069176705
+376,score_376.musicxml,Carolina Sevciovic Lopes,Home,1,1,2,0,1,False,False,False,,1.2,2.07,205,28,80.0,1.4991015274034143
+377,score_377.musicxml,Kingsmore Turner,Terezin,3,4,2,1,-1,False,True,False,opposite,4.0,2.47,1135,91,82.0,3.2571168002084554
+379,score_379.musicxml,Fritz Spindler,Song without words,2,1,2,-1,0,False,False,False,,1.0,2.0,126,33,90.0,3.9896403082944403
+381,score_381.musicxml,Yohei Kato,正午の道化師 Op.2405 A Noon Clown,2,2,2,0,0,True,False,False,,2.0,2.07,196,12,40.0,2.411987449962133
+384,score_384.musicxml,J.L.,Let Dem Good Times Roll,8,7,8,-1,0,False,False,False,,7.0,7.6,2367,102,108.0,9.565447800741918
+385,score_385.musicxml,Aidan Clanton,Piano Sonata No.2 in D Major,7,7,6,0,-1,False,False,False,,6.8,5.93,1731,157,160.0,6.718760999648011
+386,score_386.musicxml,T. Latour,Rondo,3,2,2,-1,-1,False,True,False,both under,1.6,2.33,362,29,92.0,6.188471964616921
+387,score_387.musicxml,Yohei Kato,地球外の拍手 Op.2707 An Extraterrestrial Handclap,2,2,2,0,0,True,False,False,,1.6,2.2,277,16,40.0,2.7211988304093566
+388,score_388.musicxml,Pfeil,Avondstemming,3,1,2,-2,-1,False,True,False,both under,1.0,1.77,168,11,100.0,4.444444444444445
+390,score_390.musicxml,Yohei Kato,ヴェネチアの静かな朝 Op.2102 A Quiet Morning in Venice,1,1,2,0,1,False,False,False,,1.2,1.8,130,16,45.0,1.312828207051763
+391,score_391.musicxml,Charles Smith,At Last,3,4,2,1,-1,False,True,False,opposite,3.8,1.87,278,64,100.0,3.3402835696413677
+392,score_392.musicxml,Zequinha de Abreu,Tico Tico no fubá,5,6,6,1,1,False,True,False,both over,5.8,5.8,830,56,100.0,8.720571748878925
+393,score_393.musicxml,Kelsey Simpkins,i'm sorry chris,2,1,2,-1,0,False,False,False,,1.2,1.9,172,16,60.0,1.578125
+394,score_394.musicxml,Yohei Kato,夕焼け空の琴 Op.2660 A Japanese Harp in the Sky at Sundown,2,1,2,-1,0,False,False,False,,1.2,1.9,190,20,40.0,1.0717822482528365
+395,score_395.musicxml,Yohei Kato,冒険の音色 Op.2574 Sounds of Adventure,3,1,2,-2,-1,False,True,False,both under,1.2,2.0,347,21,40.0,2.2985896112831097
+398,score_398.musicxml,Traditional,Se essa rua fosse minha,2,2,2,0,0,True,False,False,,1.8,2.07,108,16,60.0,2.4516129032258065
+399,score_399.musicxml,Yohei Kato,ある伝説 Op.2490 A Legend,2,1,2,-1,0,False,False,False,,1.2,2.3,143,16,40.0,1.6888888888888889
+402,score_402.musicxml,Chase Omura,Prestissimo No. 1 Op. 1,5,5,6,0,1,False,False,False,,5.4,5.97,857,119,200.0,9.50743065722709
+403,score_403.musicxml,Toby Fox,Ruins,3,3,2,0,-1,False,False,False,,2.6,2.33,151,20,138.0,5.563631558081141
+404,score_404.musicxml,Jaroslav Ježek,Tmavomodrý svět,4,4,6,0,2,False,False,False,,4.2,5.6,885,51,75.0,2.610837438423645
+405,score_405.musicxml,Sonya Belousova & Giona Ostinelli,Toss A Coin To Your Witcher,4,5,6,1,2,False,True,False,both over,4.8,6.25,1120,76,95.0,4.338576116244574
+406,score_406.musicxml,Bianca Giovanella,Garota de Ipanema,4,1,2,-3,-2,False,True,True,both under,1.0,1.93,414,34,60.0,3.014705882352941
+407,score_407.musicxml,Shirokoi,Rise,4,5,6,1,2,False,True,False,both over,5.0,5.73,1589,141,150.0,6.0303015108971785
+408,score_408.musicxml,Yohei Kato,静かな闇の踊り Op.2449 A Dance of Silent Darkness,1,2,2,1,1,False,True,False,both over,2.0,2.17,247,17,40.0,1.0980392156862744
+410,score_410.musicxml,Griffin McElroy,The Adventure Zone: Regulator Down,2,2,2,0,0,True,False,False,,1.6,2.33,253,28,90.0,4.259361402218545
+411,score_411.musicxml,Yohei Kato,楽しげに漂う雲 Op.2737 A Delightfully Floating Cloud,2,2,2,0,0,True,False,False,,1.6,1.8,179,19,40.0,2.3508771929824563
+413,score_413.musicxml,Dizzy Gillespie,A night in tunesia,3,2,2,-1,-1,False,True,False,both under,1.6,1.93,344,47,160.0,7.352246908615664
+414,score_414.musicxml,JaydenZap,Valez Addormentato,4,7,6,3,2,False,True,True,both over,6.6,6.13,1000,108,125.0,4.61752474509068
+415,score_415.musicxml,Yohei Kato,天空の冬世界 Op.2127 The Celestial Winter World,2,2,2,0,0,True,False,False,,1.8,2.31,194,16,50.0,1.8154761904761905
+416,score_416.musicxml,Yohei Kato,冷涼な線 Op.2064 A Wintry Line,2,1,2,-1,0,False,False,False,,1.2,2.1,172,22,50.0,1.4109848484848486
+417,score_417.musicxml,Yohei Kato,夕焼け空の花々 Op.2317 Flowers in the Red Sky,2,1,2,-1,0,False,False,False,,1.2,1.73,169,16,45.0,1.6124607822991135
+420,score_420.musicxml,Dominic Schmid,Theme,3,2,2,-1,-1,False,True,False,both under,2.2,2.27,288,32,80.0,1.7395833333333333
+421,score_421.musicxml,Cécile Chaminade,Barcarolle,4,7,7,3,3,False,True,True,both over,7.0,6.62,1317,71,69.0,6.074948378840453
+422,score_422.musicxml,Francesco Mussin,Suspance,3,2,2,-1,-1,False,True,False,both under,1.8,2.0,175,17,130.0,3.570669048530475
+423,score_423.musicxml,Yohei Kato,空の自由さを知る時 Op.2059 Time to Know the Freedom of the Sky,2,2,2,0,0,True,False,False,,1.8,2.22,278,24,50.0,1.9675925925925926
+425,score_425.musicxml,Yohei Kato,晴れの日の喜び Op.2833 Joy on a Sunny Day,2,2,2,0,0,True,False,False,,2.2,2.13,281,31,40.0,3.6415770609319003
+426,score_426.musicxml,MD Steele,High Ground,4,2,6,-2,2,False,True,True,opposite,1.8,5.53,775,47,120.0,6.993797105315814
+427,score_427.musicxml,Gunna & Young Thug,Hot (feat. Gunna),2,2,2,0,0,True,False,False,,1.6,2.49,294,33,111.0,2.864583333333333
+428,score_428.musicxml,Tollie L Mitchell,With a Lift In My Step!,3,1,2,-2,-1,False,True,False,both under,1.4,2.2,166,19,150.0,4.968406593406594
+429,score_429.musicxml,Ariane Ferraz,Para teus reis,3,3,2,0,-1,False,False,False,,3.0,2.47,589,31,110.00000000000001,7.044720918047608
+430,score_430.musicxml,Edward Bunting,Dhá mBéadh Spré Ag An gCat,2,2,2,0,0,True,False,False,,1.8,2.13,183,14,60.0,4.057936507936508
+431,score_431.musicxml,Lawliet,Poem No 12 in F♯ Major: Engloutir Une Mère,9,9,8,0,-1,False,False,False,,8.6,7.6,4676,250,160.0,7.95023765773704
+432,score_432.musicxml,Yugo Kanno,Morte,1,2,2,1,1,False,True,False,both over,1.6,2.0,165,37,70.0,0.8462371356186993
+433,score_433.musicxml,Garett T. Beelow,Shoreline Showdown,6,5,6,-1,0,False,False,False,,5.0,6.07,2082,96,210.0,7.076384537456201
+434,score_434.musicxml,Fabian Reiß,"Rhapsody with chestnuts on the fire, op. 18",6,4,7,-2,1,False,True,False,opposite,3.6,6.67,3045,164,108.0,5.899361421041638
+435,score_435.musicxml,Yohei Kato,二なる一の歌 Op.2475 A Song for a Pair of Something,2,1,2,-1,0,False,False,False,,1.2,2.07,168,16,40.0,1.7795698924731185
+436,score_436.musicxml,D-Block & S-te-Fan,Ghost Stories,3,5,6,2,3,False,True,True,both over,4.6,5.8,1302,133,151.0,3.807897663326009
+439,score_439.musicxml,Christian Petzold,Minuet in G Minor,3,2,1,-1,-2,False,True,False,both under,1.6,1.4,218,32,120.0,4.354166666666667
+441,score_441.musicxml,Lorde,Green Light,6,3,7,-3,1,False,True,False,opposite,3.2,6.93,2550,124,129.0,4.90994004261434
+443,score_443.musicxml,Yohei Kato,明け方の進行 Op.2130 A Procession at Dawn,3,1,2,-2,-1,False,True,False,both under,1.0,2.13,243,16,50.0,2.005208333333333
+444,score_444.musicxml,George Adam Reeg,In Maytime: Reverie,5,5,6,0,1,False,False,False,,4.8,6.27,1893,114,100.0,3.4113060428849904
+446,score_446.musicxml,Victor Stroganov,Alan Walker's Faded Variation,2,1,2,-1,0,False,False,False,,1.4,2.02,299,51,187.0,4.518995098039216
+447,score_447.musicxml,Kristina Gao,Struggle,2,1,2,-1,0,False,False,False,,1.2,1.7,159,24,110.00000000000001,2.4273700305810397
+448,score_448.musicxml,Yohei Kato,小鳥たちの口笛 Op.2919 A Whistle of Little Birds,2,1,2,-1,0,False,False,False,,1.4,2.4,139,20,39.0,2.925877763328999
+450,score_450.musicxml,Tom Brier,Skipping Along,7,7,7,0,0,True,False,False,,7.0,6.53,3023,124,90.0,9.499418773612323
+451,score_451.musicxml,Yohei Kato,まどろみの手前 Op.1980 Before a Drowse,2,1,2,-1,0,False,False,False,,1.4,2.33,206,33,75.0,3.901515151515151
+453,score_453.musicxml,Yohei Kato,古より生きし鳥 Op.2035 An Ancient Living Bird,2,1,1,-1,-1,False,True,False,both under,1.2,1.4,164,16,55.00000000000001,1.6055045871559634
+454,score_454.musicxml,James Milton Black,Oh when the saints,2,1,2,-1,0,False,False,False,,1.0,1.9,151,19,200.0,4.284391534391534
+457,score_457.musicxml,Hans Zimmer,Maestro - The Holiday,3,2,2,-1,-1,False,True,False,both under,1.6,2.07,329,42,100.0,3.0895114129409547
+458,score_458.musicxml,Karl King,The University of North Dakota March,5,6,6,1,1,False,True,False,both over,5.8,6.2,1543,114,240.0,6.245437419050983
+459,score_459.musicxml,Tommy Heng,Final Project Piano,3,2,2,-1,-1,False,True,False,both under,2.0,2.27,183,13,120.0,6.192307692307692
+461,score_461.musicxml,Yohei Kato,沈みゆく夕日の優しさ Op.2167 Tenderness of the Setting Sun,2,1,2,-1,0,False,False,False,,1.2,2.25,144,18,50.0,1.720430107526882
+462,score_462.musicxml,J.L.,The Bee-Hive Jive,7,6,7,-1,0,False,False,False,,6.2,6.67,1930,97,132.0,9.713935203256565
+464,score_464.musicxml,Magnus Pålsson,Pushing Onwards,6,6,6,0,0,True,False,False,,5.6,5.87,3568,128,126.0,10.217453358423356
+465,score_465.musicxml,A.R. Härle,Etude Op.1 No.2,6,7,6,1,0,False,False,False,,6.6,6.17,1645,97,120.0,5.989583333333334
+469,score_469.musicxml,Yohei Kato,二声のカクテル Op.2057 A Cocktail of Two Voices,3,2,2,-1,-1,False,True,False,both under,1.8,2.2,263,16,50.0,2.174479166666667
+470,score_470.musicxml,Yohei Kato,曇り空の世界 Op.2246 The Cloudy World,2,1,2,-1,0,False,False,False,,1.2,1.67,129,14,40.0,1.3256565656565655
+472,score_472.musicxml,Yohei Kato,雲間の夕日 Op.2719 The Setting Sun from a Break between Clouds,2,1,1,-1,-1,False,True,False,both under,1.2,1.49,150,17,40.0,1.0797385620915032
+473,score_473.musicxml,Richard Wagner,Lohengrin,3,7,6,4,3,False,True,True,both over,6.6,6.05,1375,75,37.0,1.5114127082048119
+474,score_474.musicxml,Alexander Schmitt,Fragile,3,2,2,-1,-1,False,True,False,both under,1.6,2.02,375,33,108.0,4.985617885327188
+475,score_475.musicxml,Cristian D'Arrigo,Żart b-moll,7,8,7,1,0,False,False,False,,8.0,6.73,1920,81,140.0,9.654494415135023
+476,score_476.musicxml,Tom Brier,Razor Blades,8,7,7,-1,-1,False,True,False,both under,6.8,6.73,2321,116,135.0,8.454121090237242
+477,score_477.musicxml,柊昇華/サブチャンネル,Driven by the Stars,5,7,6,2,1,False,True,False,both over,7.4,6.4,2388,139,140.0,5.2593711919065615
+479,score_479.musicxml,Carl Czerny,,3,2,2,-1,-1,False,True,False,both under,1.6,1.73,151,8,120.0,12.186046511627907
+480,score_480.musicxml,Yohei Kato,氷月の先に Op.2184 Over the Frozen Moon,2,1,2,-1,0,False,False,False,,1.0,2.4,181,16,40.0,0.9895833333333333
+481,score_481.musicxml,The Oral Cigarettes,Wagamama de Gomakasanai de ワガママで誤魔化さないで,5,6,6,1,1,False,True,False,both over,5.6,6.07,1127,52,142.0,6.76435825375933
+482,score_482.musicxml,Yohei Kato,夕方の夢 Op.2779 A Dream in the Evening,2,1,2,-1,0,False,False,False,,1.4,2.33,348,26,40.0,2.0629779577147995
+483,score_483.musicxml,Yohei Kato,夕日の思い出 Op.2465 A Recollection of the Setting Sun,2,2,2,0,0,True,False,False,,1.6,2.07,276,13,40.0,3.1048837893498087
+485,score_485.musicxml,Carl Czerny,10,7,2,2,-5,-5,False,True,True,both under,2.4,2.07,167,8,90.0,15.886854596532018
+487,score_487.musicxml,Noah T.,Forge,3,2,2,-1,-1,False,True,False,both under,1.8,2.0,219,17,74.0,3.304284676833696
+488,score_488.musicxml,Lukas Jackson,Impossible Study No. 4 in F Minor,9,8,8,-1,-1,False,True,False,both under,8.2,7.76,3466,78,165.0,18.227435646790486
+489,score_489.musicxml,ああああ,Carnation,8,7,6,-1,-2,False,True,False,both under,7.2,6.17,1842,86,80.0,9.333333333333332
+491,score_491.musicxml,Yohei Kato,年末の内省的な気持ち Op.2566 A Reflective Feeling in the End of the Year,2,1,2,-1,0,False,False,False,,1.4,2.33,176,15,40.0,1.0905838041431262
+493,score_493.musicxml,Yohei Kato,枯れ葉の中に宿りしもの Op.2227 A Dwelling Soul within a Withered Leaf,2,1,2,-1,0,False,False,False,,1.2,2.3,164,15,45.0,0.9502375593898474
+494,score_494.musicxml,Yohei Kato,清らかな祈りの後 Op.2489 After the Pure Prayer,3,2,2,-1,-1,False,True,False,both under,2.2,1.9,169,9,40.0,2.3888888888888893
+496,score_496.musicxml,Giuseppe Ottaviani,Tranceland,6,3,6,-3,0,False,False,False,,3.4,6.27,1393,83,132.0,7.2422328460726515
+498,score_498.musicxml,Alan Walker,Alan Walker - Ignite,6,6,6,0,0,True,False,False,,5.6,6.4,1562,77,90.0,5.987471566670351
+499,score_499.musicxml,George A. Minor,Vamos a Segar,2,1,2,-1,0,False,False,False,,1.4,2.47,342,16,90.0,4.129129129129129
+500,score_500.musicxml,Fonzi M,Rakudai Kishi No Cavalry - Identity(Ep 12),4,5,6,1,2,False,True,False,both over,5.2,5.52,918,71,130.0,4.508831732259064
+501,score_501.musicxml,Yohei Kato,オシリスの夢 Op.2532 A Dream of Osiris,3,2,2,-1,-1,False,True,False,both under,2.2,2.27,275,16,40.0,2.7211988304093566
+502,score_502.musicxml,Lorde,Green Light,5,3,7,-2,2,False,True,True,opposite,3.2,6.8,2470,124,129.0,4.774044893711908
+503,score_503.musicxml,Clarence Gaskill,“Uncle Sammy” At the Piano,6,6,8,0,2,False,False,False,,6.2,7.73,2064,111,200.0,7.0949057181532265
+504,score_504.musicxml,Yohei Kato,解放された魂と残された重荷 Op.2243 A Liberated Soul and a Remained Burden,2,1,2,-1,0,False,False,False,,1.2,2.1,234,15,40.0,0.9222222222222223
+506,score_506.musicxml,Yohei Kato,ヴェネチアの静かな夜 Op.2112 A Quiet Night in Venice,2,1,1,-1,-1,False,True,False,both under,1.0,1.2,184,18,45.0,1.6462448945569728
+507,score_507.musicxml,Yugo Kanno,Giorno's Theme,6,5,7,-1,1,False,True,False,opposite,5.0,6.55,2062,112,135.0,7.4748266163254975
+508,score_508.musicxml,Markus Salzer,Va Bene,3,2,2,-1,-1,False,True,False,both under,1.6,1.8,235,32,160.0,6.43010752688172
+509,score_509.musicxml,Yohei Kato,果てしない世界の始まり Op.2141 The Begging of the Endless World,2,1,2,-1,0,False,False,False,,1.2,1.9,170,16,45.0,1.0080645161290323
+510,score_510.musicxml,Josh DaBell,Invention Idea,2,3,1,1,-1,False,True,False,opposite,2.6,1.27,231,18,102.0,5.573425022182786
+511,score_511.musicxml,"Terwiliger ""Thumbs"" Malone",The Piano Tuner's Nightmare,6,6,6,0,0,True,False,False,,5.8,6.07,2741,150,112.0,8.086100283140375
+512,score_512.musicxml,Yohei Kato,魂の甘味 Op.2138 A Sweet Taste of a Soul,2,2,2,0,0,True,False,False,,1.8,2.3,178,16,50.0,1.3020833333333333
+513,score_513.musicxml,Yohei Kato,朝の微風の香り Op.2422 A Scent of a Morning Breeze,2,1,2,-1,0,False,False,False,,1.0,2.07,136,14,40.0,1.2619047619047619
+514,score_514.musicxml,Ramin Djawadi,The Rains of Castamere,3,2,2,-1,-1,False,True,False,both under,1.6,2.2,303,49,100.0,2.1768707482993195
+515,score_515.musicxml,Ismail Marzuki,Halo-halo Bandung,3,2,2,-1,-1,False,True,False,both under,2.2,1.93,194,17,110.00000000000001,3.8740681238461643
+516,score_516.musicxml,Braden Jones,The Void,4,1,2,-3,-2,False,True,True,both under,1.2,2.4,777,44,120.0,8.415238095238095
+518,score_518.musicxml,Eric Szanto,Chorale No. 1,3,2,2,-1,-1,False,True,False,both under,1.8,2.33,248,17,120.0,3.701492537313433
+519,score_519.musicxml,Yohei Kato,冬のゆりかご Op.2124 A Winter Cradle,2,1,2,-1,0,False,False,False,,1.0,1.8,162,18,50.0,1.9577131648782737
+520,score_520.musicxml,K. S.,The Grumpy Sailor,3,2,2,-1,-1,False,True,False,both under,1.8,2.2,402,48,180.0,5.4569472148547575
+521,score_521.musicxml,Yohei Kato,平穏な午後の空気 Op.2396 The Air in the Peaceful Afternoon,2,1,2,-1,0,False,False,False,,1.2,2.33,156,18,40.0,1.2839506172839505
+522,score_522.musicxml,Peter Broderick,Diverge,3,2,2,-1,-1,False,True,False,both under,1.8,2.4,385,32,60.0,1.9716981132075473
+523,score_523.musicxml,Yohei Kato,明るい朝 Op.2637 A Bright Morning,3,1,2,-2,-1,False,True,False,both under,1.2,1.53,335,18,40.0,1.7777777777777777
+525,score_525.musicxml,Sergei Lyapunov,Prelude,6,8,7,2,1,False,True,False,both over,8.0,7.4,971,39,120.0,10.011215376383916
+526,score_526.musicxml,Taru Omebayashi & Taku Matsushiba,Yuri!!! on,7,5,7,-2,0,False,False,False,,4.8,6.73,1691,122,160.0,7.111194249824275
+527,score_527.musicxml,Aidan Clanton,Piano Sonata No.3 in C Major,5,6,6,1,1,False,True,False,both over,5.8,5.87,2721,163,130.0,5.0864044553208645
+528,score_528.musicxml,Bridger Mikolai,The Ritzy Rag,6,4,6,-2,0,False,False,False,,4.2,5.84,1402,89,110.00000000000001,8.986782298318508
+529,score_529.musicxml,Hiroki Morishita & Rei Kondoh,Id (Hope),6,5,6,-1,0,False,False,False,,4.8,6.0,603,41,125.99999999999999,6.587820313310509
+530,score_530.musicxml,KingAvery,Ranmal Nordom Fantasia Concerto,7,5,6,-2,-1,False,True,False,both under,4.8,6.33,1252,46,72.0,4.922048131876677
+532,score_532.musicxml,Tom Brier,The Crescent Moon,5,6,6,1,1,False,True,False,both over,5.8,6.47,2167,92,100.0,4.605978260869565
+534,score_534.musicxml,Henry Lodge,Temptation Rag (Simplified Version),6,7,7,1,1,False,True,False,both over,6.8,7.27,1851,118,216.0,8.929461089777492
+536,score_536.musicxml,Patrik Pietschmann,Toss A Coin To Your Witcher,7,6,7,-1,0,False,False,False,,5.8,7.03,1655,77,105.0,6.975832446097435
+539,score_539.musicxml,Tofiq Quliyev,"Kəndimiz mahnısı ""Ögey ana"" kinofilmindən",6,5,6,-1,0,False,False,False,,5.2,5.73,763,65,200.0,9.5981209427964
+540,score_540.musicxml,Sergei Bortkiewicz,Lyrica Nova,6,8,7,2,1,False,True,False,both over,7.6,6.72,4569,303,80.0,5.267507136121275
+542,score_542.musicxml,David Arnold,Good Omens Theme Song:,4,5,6,1,2,False,True,False,both over,5.0,5.53,737,99,169.0,4.32514646189942
+544,score_544.musicxml,A. Miscioscia,Russian Bell,7,6,7,-1,0,False,False,False,,6.4,7.13,649,32,160.0,12.07276119402985
+545,score_545.musicxml,Scott Joplin,Magnetic Rag,5,5,7,0,2,False,False,False,,5.0,6.57,4309,110,136.0,5.524251463926638
+547,score_547.musicxml,Illenium,Sound of Walking Away,5,3,6,-2,1,False,True,False,opposite,2.6,6.13,3045,92,89.0,5.005402528705973
+549,score_549.musicxml,Richard Stone,Theme From Animaniacs,7,7,7,0,0,True,False,False,,6.8,7.33,1675,102,280.0,7.687813152475168
+550,score_550.musicxml,J. C. Dovicchi,Noturno Opus 5,4,5,6,1,2,False,True,False,both over,5.0,5.6,1901,100,70.0,3.6457349399409082
+552,score_552.musicxml,Hector Garcia,Etude no.1,7,5,6,-2,-1,False,True,False,both under,4.6,6.42,986,40,55.00000000000001,4.0672782874617734
+553,score_553.musicxml,Scott Joplin,The Entertainer,6,5,6,-1,0,False,False,False,,5.4,6.27,2060,108,82.0,6.245517438067661
+556,score_556.musicxml,방탄소년단,소우,6,3,6,-3,0,False,False,False,,3.0,5.69,2736,220,115.99999999999999,7.411809660358983
+558,score_558.musicxml,Shan Lee Rowe,Resignation No. 1,5,6,6,1,1,False,True,False,both over,5.8,6.4,1511,134,80.0,4.354660804504609
+560,score_560.musicxml,Tom Brier,Cripes!,6,6,6,0,0,True,False,False,,6.0,6.2,1894,95,90.0,7.001634324228408
+562,score_562.musicxml,H. Herrmann,Die Wacht am Rhein,6,5,7,-1,1,False,True,False,opposite,4.6,6.6,1124,79,240.0,6.09425139079255
+563,score_563.musicxml,Fanny Hensel,"Songs for Pianoforte, 1836-37",7,7,6,0,-1,False,False,False,,7.0,6.13,2904,111,216.0,9.624625488954495
+564,score_564.musicxml,Richard Wagner,Elsa's Procession to the Cathedral,4,7,7,3,3,False,True,True,both over,7.4,6.93,1914,113,48.0,1.3763061074319354
+566,score_566.musicxml,E. T. Paull,Paul Revere's Ride,6,6,7,0,1,False,False,False,,5.8,7.13,2540,196,120.0,6.373168597168597
+568,score_568.musicxml,Tom Brier,Peril In Pantomime,7,7,6,0,-1,False,False,False,,7.0,6.47,2115,93,200.0,9.73876481401807
+569,score_569.musicxml,A. Pieczonka,Tarantella in A minor,6,6,6,0,0,True,False,False,,5.8,6.13,1690,208,240.0,8.697788926049796
+572,score_572.musicxml,Brad Breeck & Brian Parkhurst,Voltron Rising,7,3,6,-4,-1,False,True,False,both under,3.4,6.27,1648,119,160.0,7.125528177372644
+575,score_575.musicxml,Mahito Yokota,Stargazing - Astral Observatory,3,5,6,2,3,False,True,True,both over,5.4,5.67,2295,171,90.0,4.386649250585352
+582,score_582.musicxml,John Powell,How To Train Your Dragon Main Theme,5,7,7,2,2,False,True,True,both over,7.0,6.93,1497,79,115.0,6.000088491577556
+585,score_585.musicxml,Rammstein,Sonne,6,4,6,-2,0,False,False,False,,4.0,6.13,1637,141,75.0,4.991650417961736
+588,score_588.musicxml,Sebastian Lutz,Dat's It,6,6,7,0,1,False,False,False,,5.6,6.67,1963,92,90.0,6.186022534796377
+589,score_589.musicxml,Edmund Braham,March of the Heroes.,6,6,7,0,1,False,False,False,,6.0,6.53,1619,109,130.0,6.282415990512575
+590,score_590.musicxml,鄧紫棋,來自天堂的魔鬼,5,3,6,-2,1,False,True,False,opposite,3.0,5.85,1910,139,136.0,6.024723532908604
+591,score_591.musicxml,이수겠지,쓰큘러 오피투. 체고의 엠시더맥스의 노래라고 할슈잇다,3,4,6,1,3,False,True,False,both over,3.6,5.67,549,500,75.0,2.396438953488372
+592,score_592.musicxml,Eubie Blake,The Chevy Chase,6,6,6,0,0,True,False,False,,5.6,6.0,1747,107,199.00000000000003,6.299329542464269
+593,score_593.musicxml,The Weeknd,In the night,4,3,6,-1,2,False,True,False,opposite,2.8,5.91,1834,100,110.00000000000001,5.124143537335966
+596,score_596.musicxml,Antonio Vivaldi,In Furore Iustissimae Irae,7,5,6,-2,-1,False,True,False,both under,5.2,5.93,1533,102,80.0,4.867102396514161
+597,score_597.musicxml,J. C. Dovicchi,Angiopedie Op.53,4,5,6,1,2,False,True,False,both over,4.8,5.8,1335,74,88.0,6.566997272091573
+598,score_598.musicxml,Max Hoffmann,Rag Medley.,6,6,6,0,0,True,False,False,,5.6,6.4,2580,144,90.0,7.019211047232062
+601,score_601.musicxml,Carl Czerny,School Of Velocity,4,6,6,2,2,False,True,True,both over,6.0,6.47,1195,52,80.0,6.799675587996756
+602,score_602.musicxml,Ramin Djawadi,The King's Arrival (Piano Solo) Game Of Thrones OST Season 1 Episode 1,4,6,6,2,2,False,True,True,both over,5.6,5.63,1530,149,135.0,4.587791402859896
+603,score_603.musicxml,Tom Brier,Tarnation!,6,6,7,0,1,False,False,False,,5.6,6.73,1861,102,90.0,6.76435203579549
+608,score_608.musicxml,Dmitri Shostakovich,Waltz No.2,5,5,6,0,1,False,False,False,,5.4,6.4,1946,83,180.0,6.195350845679596
+609,score_609.musicxml,Yohei Kato,雨の天使 Op.2880 A Rainy Angel,4,5,6,1,2,False,True,False,both over,5.4,6.2,703,21,40.0,2.373015873015873
+610,score_610.musicxml,Ed Sheeran,Shape of You,4,2,6,-2,2,False,True,True,opposite,1.6,5.53,1888,185,196.0,6.045969859986263
+616,score_616.musicxml,Maksym Giza,Run,8,4,6,-4,-2,False,True,True,both under,3.6,6.0,933,46,138.0,14.399853737469009
+619,score_619.musicxml,Arthur Marshall,Ham And!,6,5,6,-1,0,False,False,False,,4.8,6.27,1825,90,100.0,7.8353322693835015
+620,score_620.musicxml,Kurt Cobain & Ramin Djawadi,Heart-Shaped Box,7,6,7,-1,0,False,False,False,,5.6,6.53,1533,64,85.0,4.354287274374391
+621,score_621.musicxml,Leandro Goulart Bernardo,Inverno nos Ingleses,8,8,7,0,-1,False,False,False,,8.0,7.23,1636,52,68.0,7.248646898873373
+623,score_623.musicxml,Dianna Smith,Compo,4,6,6,2,2,False,True,True,both over,5.6,6.2,1872,129,80.0,4.3980155038759685
+626,score_626.musicxml,Shunsuke Kikuchi,Maka Fushigi Adventure,6,4,6,-2,0,False,False,False,,4.0,6.22,1322,66,132.0,7.806302428814961
+628,score_628.musicxml,Mili,Ga1ahad and Scientific Witchery,7,6,6,-1,-1,False,True,False,both under,5.6,6.13,1973,75,90.0,8.234365018284617
+633,score_633.musicxml,Jacob D'Lallo,Distant Worlds,5,5,6,0,1,False,False,False,,4.8,5.93,1458,68,75.0,5.8862109375
+635,score_635.musicxml,Connor Roper,Null,4,7,7,3,3,False,True,True,both over,6.6,6.93,1282,91,60.0,2.7887159712761784
+637,score_637.musicxml,Tom Brier,The Garden Walk,6,6,6,0,0,True,False,False,,5.8,6.27,1777,94,100.0,6.497777777777777
+638,score_638.musicxml,Yuki Hayashi,United States of Smash,4,6,6,2,2,False,True,True,both over,6.0,6.1,1374,116,150.0,6.732551903776909
+644,score_644.musicxml,Joachim Raff,Capriccio,7,8,7,1,0,False,False,False,,8.4,6.6,4723,351,152.0,9.122591924955193
+645,score_645.musicxml,David Charlier,Soviet March,6,6,6,0,0,True,False,False,,5.8,5.65,1949,82,62.0,3.80183969686328
+647,score_647.musicxml,Michael Giacchino,Le Festin,6,6,6,0,0,True,False,False,,5.8,5.84,1648,159,150.0,5.395505386541963
+648,score_648.musicxml,Hans Zimmer,Interstellar,6,6,6,0,0,True,False,False,,5.8,5.67,2019,113,100.0,6.836374584097852
+650,score_650.musicxml,Pyotr Ilyich Tchaikovsky,Dance of the Sugar-Plum Fairy,7,7,7,0,0,True,False,False,,7.2,6.53,1080,52,60.0,5.668060200668896
+655,score_655.musicxml,Hoagy Carmichael,Stardust,5,6,6,1,1,False,True,False,both over,5.8,5.87,1108,56,80.0,3.303571428571428
+656,score_656.musicxml,Pete Wendling & Max Kortlander,Left Hand Tricks,6,6,7,0,1,False,False,False,,5.8,7.27,1546,64,50.0,2.3591957702065107
+665,score_665.musicxml,Jacob D'Lallo,Shots Over,7,4,6,-3,-1,False,True,False,both under,4.2,5.8,773,35,80.0,5.975091575091575
+666,score_666.musicxml,W. R. Chang,조물의 스케르,8,7,6,-1,-2,False,True,False,both under,7.2,6.0,533,64,360.0,16.668790163960534
+669,score_669.musicxml,Yohei Kato,何かの流れ Op.1974 A Flow of Something,3,4,6,1,3,False,True,False,both over,3.6,6.18,513,18,50.0,2.659850436524975
+674,score_674.musicxml,Toby Fox,Megalovania (from Undertale),5,7,6,2,1,False,True,False,both over,6.8,5.73,2693,179,120.0,4.24217746929059
+675,score_675.musicxml,Valeriya Pingski,Kaiserreichmarsch,7,4,6,-3,-1,False,True,False,both under,4.4,6.07,820,50,240.0,7.627748691099477
+679,score_679.musicxml,Lili Boulanger,Cortège,6,7,6,1,0,False,False,False,,7.2,6.0,971,83,108.0,8.787498688514834
+680,score_680.musicxml,Caramella Girls,Caramelldansen,6,3,7,-3,1,False,True,False,opposite,2.8,6.67,1888,118,167.0,8.431415299909656
+681,score_681.musicxml,Scott Joplin,“Pine Apple Rag”,6,5,6,-1,0,False,False,False,,4.6,6.33,1613,89,100.0,7.849765258215962
+683,score_683.musicxml,Nicolas Mason,Nikos,5,4,6,-1,1,False,True,False,opposite,4.0,6.3,949,38,60.0,4.75
+684,score_684.musicxml,Inky Scrolls,Kittens at Play,6,4,6,-2,0,False,False,False,,4.0,5.67,650,59,120.0,8.338983050847459
+688,score_688.musicxml,Andrew G. Webberley,Carol of the bells,3,3,4,0,1,False,False,False,,3.4,3.83,453,54,100.0,3.748657357679914
+689,score_689.musicxml,Toby Fox,sans.,4,2,4,-2,0,False,False,False,,2.2,3.9,167,12,128.0,5.08615202764139
+690,score_690.musicxml,Brandyn Silva,Bread Bowl,3,3,4,0,1,False,False,False,,2.8,4.47,922,92,100.0,4.47463768115942
+691,score_691.musicxml,Hans Zimmer,Time,3,2,5,-1,2,False,True,False,opposite,2.2,4.93,377,56,64.0,1.6997954464603344
+692,score_692.musicxml,Wim Mertens,Struggle for pleasure,7,2,5,-5,-2,False,True,True,both under,2.2,5.47,1633,88,140.0,10.425944882413155
+693,score_693.musicxml,Matthew Bellamy,Screenager,5,3,5,-2,0,False,False,False,,3.0,5.0,856,41,80.0,7.366792215944759
+694,score_694.musicxml,Andreas Illiger,Tiny Wings,5,4,5,-1,0,False,False,False,,4.0,5.47,1319,60,100.0,6.396364713286196
+696,score_696.musicxml,Alexander Pahssen,David,4,2,5,-2,1,False,True,False,opposite,2.2,5.09,1080,120,80.0,2.3389121338912133
+697,score_697.musicxml,Eric Lee,MapleStory - Ardentmill,6,5,4,-1,-2,False,True,False,both under,4.8,4.47,939,37,80.0,6.627958022911159
+698,score_698.musicxml,Vigo Kovačić,Dvostruka Fuga u c-molu,6,5,5,-1,-1,False,True,False,both under,4.8,5.4,1007,52,120.0,6.723312401883831
+699,score_699.musicxml,Sam Hulick,I Was Lost Without You,4,4,4,0,0,True,False,False,,3.6,4.02,822,62,100.0,4.101327627825324
+701,score_701.musicxml,François Joseph Gossec,Gavotte in D major,4,2,4,-2,0,False,False,False,,2.4,4.44,681,48,120.0,5.041666666666666
+702,score_702.musicxml,Tommy Tallarico,"""Cave Of Wonders""",4,5,5,1,1,False,True,False,both over,4.6,5.13,727,42,104.00000000000001,6.603422619047619
+704,score_704.musicxml,J.P. Long & Maurice Scott,Oh! It's a Lovely War,5,4,4,-1,-1,False,True,False,both under,4.2,3.73,773,58,172.5,7.358253951116611
+705,score_705.musicxml,CrystalKat14,I'm Back Baby - Piano Cover,5,3,5,-2,0,False,False,False,,3.4,4.52,1518,87,108.0,5.92017039467181
+706,score_706.musicxml,DJ Totto,Curtain Call Memories,7,5,5,-2,-2,False,True,True,both under,4.8,4.76,656,50,173.0,8.937679117889932
+707,score_707.musicxml,David Taylor Gomes,The End Of Today (1),4,4,5,0,1,False,False,False,,4.0,4.67,1061,206,128.0,4.074192359003369
+708,score_708.musicxml,Thomas Bergersen,Empire of Angels,4,4,5,0,1,False,False,False,,4.0,4.93,443,34,125.0,3.937122023138757
+711,score_711.musicxml,Hans Zimmer,No Time For Caution,5,2,5,-3,0,False,False,False,,2.0,4.87,1402,56,60.0,7.174863387978142
+712,score_712.musicxml,Jonathan Sheehy,The Crash,4,1,4,-3,0,False,False,False,,1.4,4.27,768,70,146.0,7.4226078799249535
+713,score_713.musicxml,Григорий Гладков,Падал прошлогодний снег,4,4,4,0,0,True,False,False,,3.6,4.33,565,38,80.0,5.3652882205513786
+715,score_715.musicxml,Luis Fonsi,Despacito,5,5,4,0,-1,False,False,False,,5.4,4.33,1788,77,100.0,5.634771839247486
+716,score_716.musicxml,Yohei Kato,オシリスの感情の波 Op.2529 An Emotional Wave of Osiris,3,4,4,1,1,False,True,False,both over,3.6,4.24,361,24,40.0,1.1180555555555556
+717,score_717.musicxml,Seymour Smith,Dorothy,4,5,4,1,0,False,False,False,,5.2,4.4,1281,86,120.0,4.905256237240042
+720,score_720.musicxml,Georges Bizet,Carmen Overture,6,5,5,-1,-1,False,True,False,both under,5.2,5.4,822,61,115.99999999999999,6.934356364920504
+721,score_721.musicxml,Christopher Tin,Baba Yetu,4,3,5,-1,1,False,True,False,opposite,3.4,4.67,999,48,90.0,6.142667490185222
+722,score_722.musicxml,Adele,When We Were Young,3,1,5,-2,2,False,True,True,opposite,1.2,4.8,831,118,140.0,1.5543323301124663
+723,score_723.musicxml,Ryo Sakai,Scarlet,5,6,5,1,0,False,False,False,,5.8,4.75,1395,115,142.0,4.275945235542142
+724,score_724.musicxml,Randy Newman,The Flik Machine,3,3,5,0,2,False,False,False,,3.4,4.6,647,94,120.0,2.7407886231415644
+725,score_725.musicxml,Tom Lehrer,New Math,5,3,5,-2,0,False,False,False,,3.2,4.93,1240,151,136.0,6.223359090122065
+726,score_726.musicxml,Ryan Terry,The Basilisk (Piano),6,5,5,-1,-1,False,True,False,both under,4.8,5.33,1612,88,85.0,5.219026140276251
+727,score_727.musicxml,Fuad İbrahimli,Şəfiqə Axundova - Həsrətindən,4,4,4,0,0,True,False,False,,3.6,3.87,534,28,85.0,5.876846430894696
+728,score_728.musicxml,Eubie Blake,Memories of You,3,2,4,-1,1,False,True,False,opposite,1.8,3.82,282,32,100.0,2.2
+731,score_731.musicxml,Joe White,Squid Sister Theme! (DJ Octavio Style),6,4,5,-2,-1,False,True,False,both under,3.6,4.93,738,49,145.0,7.015981283091806
+732,score_732.musicxml,Yohei Kato,目覚め Op.1975 Awaking,4,5,5,1,1,False,True,False,both over,5.2,4.93,949,45,70.0,6.416243197997212
+735,score_735.musicxml,Yohei Kato,冒険前の静かな気持ち Op.2645 A Calm Feeling before an Adventure,1,1,1,0,0,True,False,False,,1.2,1.4,180,17,40.0,1.0405448717948718
+736,score_736.musicxml,Yohei Kato,サマータイム終了最初の朝 Op.1981 The First Morning After Daylight Saving Time,2,1,1,-1,-1,False,True,False,both under,1.2,1.4,126,18,60.0,3.264705882352941
+737,score_737.musicxml,Alexander Goedicke,"50 Simple piano Pieces, No. 1",1,1,1,0,0,True,False,False,,1.4,1.1,147,23,120.0,2.809137341684614
+738,score_738.musicxml,Nathan Chapman,An Embrace,3,5,1,2,-2,False,True,True,opposite,4.8,1.33,233,25,100.0,3.9569840613660374
+739,score_739.musicxml,Praveen Sundar,தீய பாவத்தினை,3,1,2,-2,-1,False,True,False,both under,1.2,1.5,115,15,160.0,2.6341463414634143
+740,score_740.musicxml,Christian Petzold,Minuet in G Major,2,1,1,-1,-1,False,True,False,both under,1.4,1.4,204,32,115.0,3.9987204094689703
+741,score_741.musicxml,Koji Kondo,Underwater Theme,3,2,1,-1,-2,False,True,False,both under,2.2,1.4,180,32,176.0,4.593975748194014
+742,score_742.musicxml,Yohei Kato,魂の涙跡 Op.2169 A Trace of the Soul’s Teardrop,2,1,1,-1,-1,False,True,False,both under,1.0,1.47,139,17,45.0,2.1039301431765773
+743,score_743.musicxml,Gary Schyman,Lighter Than Air,3,2,1,-1,-2,False,True,False,both under,2.2,1.47,121,20,80.0,1.8333333333333333
+744,score_744.musicxml,PC Chin,Hallelujah (easy),1,1,1,0,0,True,False,False,,1.0,1.07,147,29,70.0,1.6443010251226842
+745,score_745.musicxml,Christian Petzold,Minuet in G Minor,2,2,1,0,-1,False,False,False,,1.6,1.07,200,32,115.0,3.838771593090211
+746,score_746.musicxml,Gerardo Matos Rodríguez,La Cumparsita,2,1,1,-1,-1,False,True,False,both under,1.2,1.4,153,15,96.0,2.5762711864406778
+747,score_747.musicxml,Sam Richards,Evening Love Song,1,1,1,0,0,True,False,False,,1.0,1.3,118,20,140.0,3.474718427989456
+748,score_748.musicxml,Amanda Brummett,The Hunt Is Afoot,2,1,1,-1,-1,False,True,False,both under,1.0,1.33,131,13,95.0,4.183613533851252
+749,score_749.musicxml,Yohei Kato,一日の静かな始まり Op.2041 A Tranquil Start of a Day,2,1,1,-1,-1,False,True,False,both under,1.2,1.33,179,16,45.0,1.6762003000750187
+751,score_751.musicxml,Yohei Kato,午後の音楽的構築物 Op.2568 A Musical Construction in the Afternoon,2,2,2,0,0,True,False,False,,2.2,1.5,133,12,40.0,1.9444444444444446
+752,score_752.musicxml,Sigismond Thalberg,Piano Sonata,7,9,8,2,1,False,True,False,both over,8.6,8.07,5985,380,120.0,9.832524698740691
+753,score_753.musicxml,J. C. Heed,In Storm and Sunshine,8,7,8,-1,0,False,False,False,,6.8,7.53,3649,198,258.0,11.531898753432664
+754,score_754.musicxml,Daniel Gottlob Türk,Das Rondo im Kleinen,2,2,1,0,-1,False,False,False,,2.2,1.33,126,24,110.00000000000001,4.9189927776693345
+755,score_755.musicxml,S. Hermand,Bambi,1,1,1,0,0,True,False,False,,1.0,1.47,92,24,80.0,2.56231884057971
+756,score_756.musicxml,Serikawa,Invention 1,2,2,1,0,-1,False,False,False,,1.6,1.47,154,32,60.0,2.7945347630577655
+757,score_757.musicxml,Yohei Kato,新たな試み Op.2493 A New Attempt,2,2,1,0,-1,False,False,False,,2.0,1.4,134,11,40.0,1.5454545454545454
+759,score_759.musicxml,E. T. Paull,Battle of The Nations,7,6,8,-1,1,False,True,False,opposite,6.2,7.93,4967,408,125.0,6.226315965993181
+760,score_760.musicxml,Yohei Kato,宝輪 Op.2842 Horin,3,3,2,0,-1,False,False,False,,2.6,1.5,176,22,40.0,1.2314124451257753
+761,score_761.musicxml,Yohei Kato,朝の教会 Op.2402 A Morning Church,2,1,1,-1,-1,False,True,False,both under,1.2,1.27,181,16,40.0,1.4677579365079363
+762,score_762.musicxml,Yohei Kato,断食9日目の朝の歌 Op.2200 A Morning Song on the 9th Day of Fasting,2,1,1,-1,-1,False,True,False,both under,1.2,1.3,132,16,50.0,1.852704678362573
+763,score_763.musicxml,Yohei Kato,朝の共振 Op.2928 Morning Resonance,2,2,1,0,-1,False,False,False,,1.8,1.47,191,26,39.0,2.6609110552714688
+764,score_764.musicxml,Johann Peter Pixis,Piano Sonata,8,9,8,1,0,False,False,False,,8.8,8.0,5167,285,110.00000000000001,8.671988819534967
+765,score_765.musicxml,Lauren Harmon,Protagonist,2,2,1,0,-1,False,False,False,,2.0,1.2,164,33,100.0,3.168682795698925
+767,score_767.musicxml,Franz Xaver Gruber,Silent Night,1,1,1,0,0,True,False,False,,1.0,1.1,84,24,110.00000000000001,2.115188583078491
+768,score_768.musicxml,Yohei Kato,静かな旅立ち Op.2114 A Silent Departure,2,1,1,-1,-1,False,True,False,both under,1.4,1.47,138,18,45.0,1.04192714845378
+769,score_769.musicxml,Steven Wan,Ave Verum Corpus,9,9,8,0,-1,False,False,False,,8.8,7.57,5469,91,70.0,10.401700897273226
+770,score_770.musicxml,Tatsuya Murayama,恋 - 時をかける少女,2,2,1,0,-1,False,False,False,,2.2,1.47,201,26,66.0,1.8516703155464063
+772,score_772.musicxml,Yohei Kato,朝日照る頃 Op.2086 Time for the Sunrise,2,1,1,-1,-1,False,True,False,both under,1.2,1.2,192,21,45.0,1.6670834375260482
+774,score_774.musicxml,Jay Unger,Ashokan Farewell,2,2,1,0,-1,False,False,False,,2.2,1.33,234,33,85.0,2.968487241354098
+775,score_775.musicxml,Mily Balakirev,Toccata in C-Sharp Minor,8,9,8,1,0,False,False,False,,8.6,7.67,3808,222,90.0,8.039893270121741
+776,score_776.musicxml,Albert W. Ketèlbey,In A Persian Market,6,7,8,1,2,False,True,False,both over,7.2,7.73,3132,291,90.0,4.495729779326949
+777,score_777.musicxml,A. Parisi,Agnello di Dio (Popolo Santo),1,1,1,0,0,True,False,False,,1.4,1.33,203,35,94.0,2.589614283767208
+778,score_778.musicxml,W. G. Snuffy Walden,Headin' West,2,3,1,1,-1,False,True,False,opposite,3.0,1.3,138,21,60.0,1.844912828519386
+779,score_779.musicxml,Franz Liszt,"Grandes études de Paganini No. 5 ""La Chasse""",7,8,7,1,0,False,False,False,,7.6,6.83,2091,131,80.0,6.729696260543124
+780,score_780.musicxml,Franz Liszt,Grandes études de Paganini No. 2,8,8,7,0,-1,False,False,False,,8.4,6.73,3680,85,67.0,7.947898137981912
+781,score_781.musicxml,Franz Liszt,"Grandes études No. 4 ""Mazeppa""",9,9,8,0,-1,False,False,False,,8.6,7.6,7508,169,100.0,8.800632911392405
+783,score_783.musicxml,Franz Liszt,"Transcendental Étude No. 10 ""Appassionata"", S. 139",9,9,7,0,-2,False,False,False,,8.6,7.33,4155,182,104.00000000000001,11.514200321883337
+786,score_786.musicxml,Franz Liszt,"Transcendental Étude No. 7 ""Eroica"", S. 139",8,8,7,0,-1,False,False,False,,8.4,7.4,3103,120,120.0,7.5592459446477935
+787,score_787.musicxml,Franz Liszt,"Transcendental Étude No. 8 ""Wilde Jagd""",9,9,8,0,-1,False,False,False,,8.8,7.67,7243,261,158.0,12.241001155920316
+789,score_789.musicxml,Franz Liszt,"Transcendental Étude No. 1 ""Preludio""",8,8,7,0,-1,False,False,False,,7.6,6.68,632,23,60.0,11.030621172353456
+790,score_790.musicxml,Franz Liszt,"Étude d'exécution transcendante d'après Paganini No. 4, S. 140",8,8,8,0,0,True,False,False,,8.2,7.87,2697,63,50.0,9.298760561371818
+792,score_792.musicxml,Olivier Messiaen,"Regard des prophètes, des bergers et des Mages",7,6,7,-1,0,False,False,False,,6.4,6.67,2074,98,72.0,3.506536245346055
+793,score_793.musicxml,Sergei Rachmaninoff,Moment musical Op. 16 No. 4,9,8,7,-1,-2,False,True,False,both under,8.0,6.93,2893,67,104.00000000000001,15.699068631970375
+794,score_794.musicxml,Sergei Rachmaninoff,Moment musical Op. 16 No. 6,9,8,6,-1,-3,False,True,False,both under,8.0,6.33,5844,102,60.0,14.620363270989909
+795,score_795.musicxml,Sergei Rachmaninoff,"Prelude in E-flat minor, Op. 23 No. 9",9,8,7,-1,-2,False,True,False,both under,7.6,7.24,1926,51,152.0,14.873905202838747
+796,score_796.musicxml,Sergei Rachmaninoff,"Prélude in B-flat major, Op. 23 No. 2",9,8,7,-1,-2,False,True,False,both under,8.0,7.13,3429,61,70.0,10.230177454216008
+799,score_799.musicxml,Sergei Rachmaninoff,Étude-Tableau Op. 39 No. 1,9,8,7,-1,-2,False,True,False,both under,8.2,6.6,3030,78,110.00000000000001,13.066446904586055
+800,score_800.musicxml,Sergei Rachmaninoff,Étude-Tableau Op. 39 No. 3,9,8,7,-1,-2,False,True,False,both under,8.4,6.87,2657,153,145.0,17.580054732732176
+801,score_801.musicxml,Sergei Rachmaninoff,Étude-Tableau Op. 39 No. 5,9,8,7,-1,-2,False,True,False,both under,8.0,7.27,4135,82,100.0,9.920668461905462
+802,score_802.musicxml,Sergei Rachmaninoff,Étude-Tableau Op. 39 No. 8,7,8,7,1,0,False,False,False,,8.0,6.96,2951,106,152.0,8.770290189267435
+803,score_803.musicxml,Alexander Scriabin,"Etude in D-sharp minor, Op. 8 No. 12",9,7,7,-2,-2,False,True,True,both under,7.2,7.27,2403,56,100.0,8.258748057595742
+804,score_804.musicxml,Alexander Scriabin,Etude Op. 8 No. 6,8,7,6,-1,-2,False,True,False,both under,6.8,6.03,1413,65,132.0,9.169189021163305
+805,score_805.musicxml,Alexander Scriabin,"Etude in F-sharp minor, Op. 42 No. 2",9,4,3,-5,-6,False,True,True,both under,4.0,3.0,384,32,112.0,10.037530355434543
+806,score_806.musicxml,Alexander Scriabin,"Étude in C-sharp minor, Op. 42 No. 5",9,7,8,-2,-1,False,True,False,both under,7.0,7.53,2904,58,112.0,8.648668362333115

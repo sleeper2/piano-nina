@@ -1,0 +1,270 @@
+id	genre	form	medium	simplified	confidence	note
+270	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+271	unknown	unknown	unknown	no	low	Thaehan original? arranged by user; source unclear
+272	contemporary_piano	other	piano	no	medium	user original piano piece, Opus 2
+273	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+274	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+275	anthem_political	song_cue	other	no	medium	Soviet national anthem with lyrics
+276	ragtime	rag	piano	no	high	novelty piano, Piano Syncopations 1922
+277	classical	dance	piano	no	high	1854 parlor polka
+278	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+279	classical	sonata_sonatina	piano	no	high	Duncombe sonatina, pedagogical classic
+280	classical	dance	piano	no	low	polka, composer unclear
+281	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+282	ragtime	rag	piano	no	high	modern rag by Tom Brier
+283	classical	character_piece	piano	no	medium	children's piece by Polish pedagogue composer
+284	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+285	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+286	classical	song_cue	other	yes	medium	opera interlude, only 83 notes
+287	folk_traditional	dance	other	unknown	medium	fiddle jig arranged for piano
+288	film_tv	song_cue	other	no	high	Gravity Falls extended theme
+289	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+290	contemporary_piano	character_piece	piano	no	medium	user original
+291	classical	march	other	no	medium	military band march, piano edition 1902
+292	ragtime	rag	piano	no	high	Joplin rag
+293	pop_rock	song_cue	other	no	high	EDM pop song, piano accompaniment
+294	contemporary_piano	character_piece	piano	no	medium	bagatelle, user original 2015
+295	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+296	ragtime	rag	piano	no	high	Luckey Roberts rag 1913
+297	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+298	unknown	other	unknown	no	low	Rwandan/Burundian composer; nature unclear
+299	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+300	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+301	contemporary_piano	character_piece	piano	no	medium	user original
+302	ragtime	rag	piano	no	high	Joseph Lamb rag
+303	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+304	folk_traditional	song_cue	other	no	medium	Happy Birthday arrangement
+305	classical	song_cue	other	yes	medium	Jupiter hymn theme (Thaxted), 200 notes
+306	contemporary_piano	other	piano	no	medium	user original
+307	pop_rock	song_cue	other	unknown	medium	Alan Walker Faded, short arrangement
+308	ragtime	rag	piano	no	high	Joplin rag
+309	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+310	classical	dance	piano	no	medium	foxtrot by Austrian classical composer
+311	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+312	unknown	song_cue	other	no	low	possibly art song setting, lyricist credited
+313	ragtime	rag	piano	no	high	Joseph Lamb rag
+314	jazz_blues	other	piano	no	high	early boogie-woogie piano
+315	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+316	religious	song_cue	other	yes	high	arr. E Muirhead, 84 notes
+317	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+318	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+319	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+320	ragtime	rag	piano	no	high	modern rag
+321	ragtime	rag	piano	no	high	1916 rag
+322	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+323	pop_rock	song_cue	other	unknown	low	The Smiths song, 198 notes
+324	contemporary_piano	character_piece	piano	no	low	user original likely
+325	contemporary_piano	other	piano	no	medium	user original
+326	video_game	song_cue	other	no	high	Mario Kart Wii cue
+327	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+328	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+329	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+330	classical	march	piano	no	medium	Kuula wedding march
+331	classical	character_piece	piano	no	medium	Respighi piano piece
+332	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+333	ragtime	rag	piano	no	high	novelty piano 1922
+334	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+335	ragtime	rag	piano	no	high	novelty piano 1923
+336	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+337	classical	song_cue	other	no	medium	Flemish song with text
+338	contemporary_piano	other	piano	no	medium	secondo part of piano duet
+339	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+340	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+341	video_game	song_cue	other	no	high	osu!/rhythm game track
+342	video_game	song_cue	other	no	high	Mario Kart Wii cue
+343	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+344	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+345	ragtime	rag	piano	no	high	1917 classic rag
+346	ragtime	rag	piano	no	high	1908 rag
+347	classical	march	other	no	high	opera excerpt, Busoni transcription
+348	ragtime	rag	piano	no	high	1917 rag
+349	film_tv	song_cue	other	yes	medium	Disney song, easy piano-vocal 249 notes
+350	contemporary_piano	other	piano	no	low	user piece, title uninformative
+351	unknown	unknown	unknown	no	low	source unclear
+352	contemporary_piano	dance	piano	no	medium	user original waltz
+353	contemporary_piano	prelude	piano	no	medium	user original
+354	classical	variations_fantasy	piano	no	low	Rzewski theme from variations on Ortega song
+355	video_game	song_cue	other	no	high	Toby Fox game cue
+356	pop_rock	song_cue	other	no	high	Nirvana song with lyrics
+357	ragtime	rag	piano	no	high	1909 rag
+358	children_educational	song_cue	other	yes	medium	Romanian children's song, 80 notes
+359	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+360	ragtime	rag	piano	no	high	1906 rag
+361	ragtime	dance	piano	no	medium	1918 fox trot
+362	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+363	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+364	contemporary_piano	character_piece	piano	no	medium	user original
+365	unknown	song_cue	unknown	no	low	Hmong title; possibly song
+366	contemporary_piano	character_piece	piano	no	medium	user original
+367	contemporary_piano	character_piece	piano	no	medium	user original
+368	religious	song_cue	other	no	high	Nielsen hymn setting with text
+369	ragtime	rag	piano	no	high	Tom Brier rag
+370	ragtime	rag	piano	no	high	Joplin rag
+371	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+372	contemporary_piano	other	piano	no	low	user original
+373	ragtime	dance	piano	no	medium	1914 eccentric fox trot
+374	pop_rock	song_cue	other	no	high	pop song
+375	contemporary_piano	character_piece	piano	no	medium	user original
+376	contemporary_piano	character_piece	piano	no	medium	user original
+377	contemporary_piano	other	piano	no	medium	user original
+378	ragtime	rag	piano	no	high	novelty piano 1924
+379	classical	character_piece	piano	no	high	pedagogical song without words
+380	ragtime	rag	piano	no	high	1921 rag
+381	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+382	contemporary_piano	other	piano	no	medium	user original
+383	contemporary_piano	prelude	piano	no	medium	prelude for piano Op. 41
+384	ragtime	rag	piano	no	high	modern ragtime swing
+385	contemporary_piano	sonata_sonatina	piano	no	high	user sonata, 1st movement
+386	classical	sonata_sonatina	piano	no	high	Latour sonatina rondo
+387	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+388	classical	song_cue	other	no	medium	Flemish song with text
+389	ragtime	rag	piano	no	high	1917 rag
+390	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+391	unknown	other	unknown	no	low	unclear; possibly user original
+392	folk_traditional	dance	unknown	no	low	Brazilian choro
+393	contemporary_piano	other	other	no	low	part-writing assignment with text
+394	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+395	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+396	ragtime	dance	piano	no	medium	1917 fox trot
+397	ragtime	rag	piano	no	high	novelty piano 1922
+398	folk_traditional	song_cue	other	unknown	medium	Brazilian folk song arrangement with lyrics
+399	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+400	ragtime	rag	piano	no	high	1904 two-step
+401	ragtime	rag	piano	no	high	1910 rag
+402	contemporary_piano	other	piano	no	medium	user original
+403	video_game	song_cue	other	no	medium	Undertale cue transcription
+404	musical_theatre	song_cue	other	no	medium	blues song from Czech play
+405	film_tv	song_cue	other	yes	high	Easy Piano Solo
+406	jazz_blues	song_cue	other	unknown	low	bossa nova song arrangement
+407	video_game	song_cue	other	no	high	visual novel cue
+408	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+409	classical	march	piano	no	high	march pour piano
+410	film_tv	song_cue	other	unknown	medium	podcast theme cover
+411	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+412	ragtime	rag	piano	no	medium	1893 cakewalk-style dance
+413	jazz_blues	song_cue	other	unknown	medium	jazz standard, short arrangement
+414	contemporary_piano	dance	piano	no	medium	user original waltz
+415	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+416	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+417	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+418	ragtime	dance	piano	no	medium	1922 novelty dance
+419	ragtime	rag	piano	no	high	rag humoresque 1914
+420	contemporary_piano	other	piano	no	low	user original
+421	classical	character_piece	piano	no	high	Chaminade barcarolle
+422	contemporary_piano	character_piece	piano	no	medium	user original
+423	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+424	ragtime	dance	piano	no	high	novelty syncopated waltz 1922
+425	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+426	video_game	song_cue	other	no	medium	Azimuth OST cue
+427	pop_rock	song_cue	other	unknown	medium	hip-hop song, short arrangement
+428	contemporary_piano	song_cue	unknown	no	low	user piece with lyrics
+429	contemporary_piano	character_piece	piano	no	low	user original Op. 4
+430	folk_traditional	song_cue	other	no	high	Irish air adapted by Bunting
+431	contemporary_piano	character_piece	piano	no	medium	user original
+432	anime_jpop	song_cue	other	unknown	medium	JoJo OST cue, 165 notes
+433	video_game	song_cue	other	no	low	likely game battle cue
+434	contemporary_piano	variations_fantasy	piano	no	medium	user original rhapsody
+435	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+436	pop_rock	song_cue	other	no	high	hardstyle EDM track
+437	jazz_blues	other	piano	no	high	Pinetop Smith boogie-woogie
+438	ragtime	rag	piano	no	high	Joseph Lamb rag
+439	classical	dance	piano	no	high	Anna Magdalena notebook minuet
+440	ragtime	rag	piano	no	high	1901 cakewalk
+441	pop_rock	song_cue	other	no	high	Lorde song arrangement
+442	ragtime	dance	piano	no	high	ragtime waltzes 1905
+443	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+444	classical	character_piece	piano	no	medium	1916 parlor reverie
+445	ragtime	rag	piano	no	high	Joplin rag
+446	pop_rock	variations_fantasy	other	no	low	user variation on Alan Walker Faded
+447	contemporary_piano	character_piece	piano	no	medium	user original
+448	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+449	classical	dance	piano	no	medium	1914 hesitation waltz, Louis F. Gottschalk
+450	ragtime	rag	piano	no	high	Tom Brier rag
+451	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+452	jazz_blues	other	piano	no	medium	Jelly Roll Morton stomp
+453	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+454	religious	song_cue	other	unknown	medium	gospel hymn with lyrics, 151 notes
+455	classical	dance	other	no	high	opera dance, Godowsky arrangement
+456	classical	etude_exercise	piano	no	high	Kosenko etude No. 8 Rigaudon
+457	film_tv	song_cue	other	unknown	medium	film cue arrangement
+458	classical	march	other	no	medium	band march arranged for piano
+459	contemporary_piano	other	piano	no	medium	student class project
+460	classical	dance	piano	no	high	Anna Magdalena notebook minuet
+461	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+462	ragtime	rag	piano	no	high	modern two-step
+463	ragtime	rag	piano	no	high	1898 rag
+464	video_game	song_cue	other	no	high	VVVVVV cue
+465	contemporary_piano	etude_exercise	piano	no	medium	user original etude
+466	ragtime	rag	piano	no	high	1915 raggy fox trot
+467	ragtime	rag	piano	no	high	Joplin & Marshall rag
+468	classical	song_cue	other	no	low	Air Louis XIII, Pease arrangement
+469	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+470	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+471	musical_theatre	dance	other	no	medium	dance from Fomin operetta
+472	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+473	classical	prelude	other	no	high	opera prelude piano transcription
+474	contemporary_piano	character_piece	piano	no	medium	user original
+475	contemporary_piano	other	piano	no	medium	user scherzo
+476	ragtime	rag	piano	no	high	Tom Brier rag
+477	video_game	song_cue	other	no	high	Monster Hunter World cue
+478	ragtime	rag	piano	no	high	James Scott rag
+479	classical	etude_exercise	piano	no	high	Czerny Op. 821 exercise
+480	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+481	anime_jpop	song_cue	other	no	high	anime opening song
+482	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+483	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+484	ragtime	rag	piano	no	high	1914 tango rag
+485	classical	etude_exercise	piano	no	high	Czerny Op. 821 exercise
+486	ragtime	rag	piano	no	high	Joplin rag
+487	contemporary_piano	character_piece	piano	no	medium	user sketch
+488	contemporary_piano	etude_exercise	piano	no	high	user virtuoso study
+489	video_game	song_cue	other	no	medium	BMS rhythm-game track
+490	ragtime	dance	piano	no	low	1889 pre-ragtime dance piece
+491	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+492	contemporary_piano	etude_exercise	piano	no	medium	user original etude
+493	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+494	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+495	ragtime	rag	piano	no	high	1918 modulating rag
+496	pop_rock	song_cue	other	no	high	trance track arrangement
+497	ragtime	rag	piano	no	high	1898 rag
+498	pop_rock	song_cue	other	no	high	EDM song arrangement
+499	religious	song_cue	other	no	high	hymn with Spanish lyrics
+500	anime_jpop	song_cue	other	no	medium	anime cue
+501	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+502	pop_rock	song_cue	other	no	high	Lorde song arrangement
+503	ragtime	rag	piano	no	high	novelty piano 1923
+504	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+505	ragtime	rag	piano	no	medium	1906 piano piece
+506	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+507	anime_jpop	song_cue	other	no	high	JoJo OST theme
+508	contemporary_piano	character_piece	piano	no	medium	user original
+509	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+510	contemporary_piano	invention_fugue_canon	piano	no	medium	user invention
+511	ragtime	rag	piano	no	high	novelty off-tune rag
+512	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+513	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+514	film_tv	song_cue	other	unknown	medium	Game of Thrones song arrangement
+515	anthem_political	song_cue	other	no	medium	Indonesian patriotic song
+516	contemporary_piano	character_piece	piano	no	medium	user original
+517	contemporary_piano	other	piano	no	low	user piece, unclear
+518	contemporary_piano	other	piano	no	medium	user chorale
+519	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+520	contemporary_piano	character_piece	piano	no	low	user piece
+521	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+522	contemporary_piano	character_piece	unknown	no	low	Broderick neo-classical, piano cover
+523	contemporary_piano	character_piece	piano	no	high	Yohei Kato short original
+524	ragtime	march	piano	no	medium	1903 march and two-step
+525	classical	prelude	piano	no	high	Lyapunov Op. 6 No. 1
+526	anime_jpop	song_cue	other	no	high	anime program music, piano & orchestra
+527	contemporary_piano	sonata_sonatina	piano	no	high	user sonata, 1st movement
+528	ragtime	rag	piano	no	high	modern rag
+529	video_game	song_cue	other	no	high	Fire Emblem cue
+530	contemporary_piano	variations_fantasy	piano	no	medium	user fantasia/impromptu
+531	ragtime	march	piano	no	high	Joplin march
+532	ragtime	rag	piano	no	high	Tom Brier rag
+533	classical	dance	piano	no	medium	1908 parlor dance
+534	ragtime	rag	piano	yes	high	titled Simplified Version
+535	ragtime	dance	piano	no	low	1904 dance number
+536	film_tv	song_cue	other	no	high	Pietschmann arrangement
+537	ragtime	rag	piano	no	high	1914 rag
+538	ragtime	dance	piano	no	high	Joplin waltzes

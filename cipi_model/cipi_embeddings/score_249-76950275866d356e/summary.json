@@ -1,0 +1,1 @@
+{"n_notes": 1851, "n_measures": 102, "n_parts": 1, "warnings": ["1 staff text(s) pyScoreParser would misread as a tempo/dynamics direction removed before embedding: 'sempre staccato'"], "shapes": {"p": [1851, 88], "argnn_rh": [954, 64], "argnn_lh": [897, 64]}, "backend_xml": "preprocessed.musicxml", "preprocessed": {"merged_parts": null, "removed_words": ["sempre staccato"]}}

@@ -1,0 +1,1 @@
+{"n_notes": 6316, "n_measures": 192, "n_parts": 2, "warnings": ["2 parts: pyScoreParser offsets voices by 10 per part, so every note outside part 0 lands in the left hand (CIPI's own behaviour)"], "shapes": {"p": [6316, 88], "argnn_rh": [1618, 64], "argnn_lh": [4698, 64]}}

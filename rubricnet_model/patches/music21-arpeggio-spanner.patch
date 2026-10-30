@@ -1,0 +1,21 @@
+diff --git a/music21/musicxml/xmlToM21.py b/music21/musicxml/xmlToM21.py
+--- a/music21/musicxml/xmlToM21.py
++++ b/music21/musicxml/xmlToM21.py
+@@ -3771,7 +3771,7 @@
+                 if tagSearch == 'non-arpeggiate':
+                     arpeggioType = 'non-arpeggio'
+                 else:
+-                    arpeggioType = mxObj.get('direction') or ''
++                    arpeggioType = mxObj.get('direction') or 'normal'
+                 idFound: str | None = mxObj.get('number')
+                 if idFound is None:
+                     arpeggio = expressions.ArpeggioMark(arpeggioType)
+@@ -3783,7 +3783,7 @@
+                         # if we already have a spanner matching
+                         arpeggioSpanner = sb[0]
+                     else:
+-                        arpeggioSpanner = expressions.ArpeggioMarkSpanner(arpeggioType)
++                        arpeggioSpanner = expressions.ArpeggioMarkSpanner(arpeggioType=arpeggioType)
+                         arpeggioSpanner.idLocal = idFound
+                         self.spannerBundle.append(arpeggioSpanner)
+                     arpeggioSpanner.addSpannedElements(n)

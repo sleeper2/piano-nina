@@ -1,0 +1,22 @@
+diff --git a/eswa_difficulty/virtuosoNet/virtuoso/pyScoreParser/musicxml_parser/part.py b/eswa_difficulty/virtuosoNet/virtuoso/pyScoreParser/musicxml_parser/part.py
+index 632e37f..be64dd0 100644
+--- a/eswa_difficulty/virtuosoNet/virtuoso/pyScoreParser/musicxml_parser/part.py
++++ b/eswa_difficulty/virtuosoNet/virtuoso/pyScoreParser/musicxml_parser/part.py
+@@ -39,6 +39,7 @@ class Part(object):
+     previous_forward_repeats = []
+     resolved_repeats = []
+     resolved_first_ending = []
++    resolved_dacapos = []  # each D.C. jump is taken once (prevents endless unfolding)
+     end_measure_of_first_ending = []
+     fine_activated = False
+ 
+@@ -76,7 +77,8 @@ class Part(object):
+         else:
+           current_measure_number = previous_forward_repeats[-1]
+           del previous_forward_repeats[-1]
+-      elif parsed_measure.dacapo == 'jump':
++      elif parsed_measure.dacapo == 'jump' and current_measure_number not in resolved_dacapos:
++        resolved_dacapos.append(current_measure_number)
+         current_measure_number = 0
+         fine_activated = True
+       elif parsed_measure.fine and fine_activated:

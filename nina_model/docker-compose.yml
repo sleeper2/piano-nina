@@ -1,0 +1,7 @@
+services:
+  nina:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1

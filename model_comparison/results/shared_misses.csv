@@ -1,0 +1,49 @@
+id,file_name,composer,song_name,label,pred_rubricnet,pred_cipi,err_rubricnet,err_cipi,both_exact,both_wrong,both_off2,direction,rubricnet_mean,cipi_mean,notes_count,measures_count,bpm,notes_per_sec
+6,score_6.musicxml,Pyotr Ilyich Tchaikovsky,The Seasons: Op. 37b XII. December,3,5,5,2,2,False,True,True,both over,5.0,5.22,2735,278,170.0,5.595756308175
+37,score_37.musicxml,Danny Daglas,Prelude,7,3,3,-4,-4,False,True,True,both under,3.4,3.33,647,26,128.0,13.210880999342539
+50,score_50.musicxml,DeDuck,MiniBoss Theme 1,8,4,6,-4,-2,False,True,True,both under,4.4,5.9,894,30,140.0,12.182910547396528
+57,score_57.musicxml,Tony Banks,Fountain of Samba-Maquis,5,3,2,-2,-3,False,True,True,both under,3.2,2.0,458,42,210.0,8.933323567469909
+60,score_60.musicxml,Nicolas Mason,Ferric,5,7,7,2,2,False,True,True,both over,7.0,7.07,962,57,240.0,7.778501628664495
+78,score_78.musicxml,Rich Brian,History,3,6,7,3,4,False,True,True,both over,6.0,6.6,1467,105,140.0,5.09356199953255
+85,score_85.musicxml,Heath,PIANO SOLO Detective Conan - Mune Ga Doki Doki,3,5,5,2,2,False,True,True,both over,4.6,5.0,2236,143,158.0,6.103263491126288
+95,score_95.musicxml,Toby Fox,Spider Dance,7,5,5,-2,-2,False,True,True,both under,5.4,5.18,993,34,106.0,10.548742465183953
+108,score_108.musicxml,Wim Mertens,Lir,3,6,6,3,3,False,True,True,both over,5.8,6.33,5924,485,110.00000000000001,5.755609904814029
+116,score_116.musicxml,Shuka Saito,Papapa Ore wo Suki nano wa Omae dake ka yo OP,4,6,6,2,2,False,True,True,both over,5.8,6.4,1262,47,126.0,7.036066746627949
+120,score_120.musicxml,Ramin Djawadi,Dr Ford (Advanced Piano Solo),3,6,5,3,2,False,True,True,both over,6.4,5.4,1512,83,65.0,3.447342567008789
+126,score_126.musicxml,ZUN,Last Remote,4,6,7,2,3,False,True,True,both over,6.0,6.53,2942,146,132.0,6.882889096545484
+131,score_131.musicxml,Joe Hisaishi,Princess Mononoke,3,6,6,3,3,False,True,True,both over,5.6,6.0,929,71,80.0,3.5304833259879533
+140,score_140.musicxml,Katherina Ward,Midnight Snowfall,3,7,5,4,2,False,True,True,both over,6.6,4.58,913,58,90.0,5.248783266024645
+184,score_184.musicxml,Pat Schweenis,Whiskey is my Lullaby,3,1,5,-2,2,False,True,True,opposite,1.2,5.02,681,96,130.0,3.9265855416288122
+187,score_187.musicxml,Stanisław Warduliński,II Preludium,8,6,5,-2,-3,False,True,True,both under,6.0,5.07,766,44,60.0,8.15584549003493
+219,score_219.musicxml,Ross Halkett,Snowflakes,3,6,6,3,3,False,True,True,both over,6.0,5.64,1120,80,94.0,4.400573337733047
+225,score_225.musicxml,Joia Araguàs,"Ah! Vous dirai-je, Maman",5,3,3,-2,-2,False,True,True,both under,2.6,2.53,513,52,200.0,8.518518518518519
+241,score_241.musicxml,Alan Parker,La complainte de Josie,4,2,6,-2,2,False,True,True,opposite,2.4,5.62,1019,110,130.0,4.962356430493385
+248,score_248.musicxml,Lastigs13,Psuedo-Japan,5,2,3,-3,-2,False,True,True,both under,1.8,2.93,423,31,120.0,4.439238777948455
+250,score_250.musicxml,Yasuaki Fujita,Title Theme,7,3,4,-4,-3,False,True,True,both under,3.4,3.8,568,37,156.0,8.580508474576272
+312,score_312.musicxml,Bianca Washington,The Song Of Sound And Silence,4,2,2,-2,-2,False,True,True,both under,1.6,2.2,170,16,100.0,4.15699634479577
+350,score_350.musicxml,Molly Jaynes,Transcription Project,4,2,2,-2,-2,False,True,True,both under,2.2,1.8,265,24,132.0,5.736049926578561
+406,score_406.musicxml,Bianca Giovanella,Garota de Ipanema,4,1,2,-3,-2,False,True,True,both under,1.0,1.93,414,34,60.0,3.014705882352941
+414,score_414.musicxml,JaydenZap,Valez Addormentato,4,7,6,3,2,False,True,True,both over,6.6,6.13,1000,108,125.0,4.61752474509068
+421,score_421.musicxml,Cécile Chaminade,Barcarolle,4,7,7,3,3,False,True,True,both over,7.0,6.62,1317,71,69.0,6.074948378840453
+426,score_426.musicxml,MD Steele,High Ground,4,2,6,-2,2,False,True,True,opposite,1.8,5.53,775,47,120.0,6.993797105315814
+436,score_436.musicxml,D-Block & S-te-Fan,Ghost Stories,3,5,6,2,3,False,True,True,both over,4.6,5.8,1302,133,151.0,3.807897663326009
+473,score_473.musicxml,Richard Wagner,Lohengrin,3,7,6,4,3,False,True,True,both over,6.6,6.05,1375,75,37.0,1.5114127082048119
+485,score_485.musicxml,Carl Czerny,10,7,2,2,-5,-5,False,True,True,both under,2.4,2.07,167,8,90.0,15.886854596532018
+502,score_502.musicxml,Lorde,Green Light,5,3,7,-2,2,False,True,True,opposite,3.2,6.8,2470,124,129.0,4.774044893711908
+516,score_516.musicxml,Braden Jones,The Void,4,1,2,-3,-2,False,True,True,both under,1.2,2.4,777,44,120.0,8.415238095238095
+564,score_564.musicxml,Richard Wagner,Elsa's Procession to the Cathedral,4,7,7,3,3,False,True,True,both over,7.4,6.93,1914,113,48.0,1.3763061074319354
+575,score_575.musicxml,Mahito Yokota,Stargazing - Astral Observatory,3,5,6,2,3,False,True,True,both over,5.4,5.67,2295,171,90.0,4.386649250585352
+582,score_582.musicxml,John Powell,How To Train Your Dragon Main Theme,5,7,7,2,2,False,True,True,both over,7.0,6.93,1497,79,115.0,6.000088491577556
+601,score_601.musicxml,Carl Czerny,School Of Velocity,4,6,6,2,2,False,True,True,both over,6.0,6.47,1195,52,80.0,6.799675587996756
+602,score_602.musicxml,Ramin Djawadi,The King's Arrival (Piano Solo) Game Of Thrones OST Season 1 Episode 1,4,6,6,2,2,False,True,True,both over,5.6,5.63,1530,149,135.0,4.587791402859896
+610,score_610.musicxml,Ed Sheeran,Shape of You,4,2,6,-2,2,False,True,True,opposite,1.6,5.53,1888,185,196.0,6.045969859986263
+616,score_616.musicxml,Maksym Giza,Run,8,4,6,-4,-2,False,True,True,both under,3.6,6.0,933,46,138.0,14.399853737469009
+623,score_623.musicxml,Dianna Smith,Compo,4,6,6,2,2,False,True,True,both over,5.6,6.2,1872,129,80.0,4.3980155038759685
+635,score_635.musicxml,Connor Roper,Null,4,7,7,3,3,False,True,True,both over,6.6,6.93,1282,91,60.0,2.7887159712761784
+638,score_638.musicxml,Yuki Hayashi,United States of Smash,4,6,6,2,2,False,True,True,both over,6.0,6.1,1374,116,150.0,6.732551903776909
+692,score_692.musicxml,Wim Mertens,Struggle for pleasure,7,2,5,-5,-2,False,True,True,both under,2.2,5.47,1633,88,140.0,10.425944882413155
+706,score_706.musicxml,DJ Totto,Curtain Call Memories,7,5,5,-2,-2,False,True,True,both under,4.8,4.76,656,50,173.0,8.937679117889932
+722,score_722.musicxml,Adele,When We Were Young,3,1,5,-2,2,False,True,True,opposite,1.2,4.8,831,118,140.0,1.5543323301124663
+738,score_738.musicxml,Nathan Chapman,An Embrace,3,5,1,2,-2,False,True,True,opposite,4.8,1.33,233,25,100.0,3.9569840613660374
+803,score_803.musicxml,Alexander Scriabin,"Etude in D-sharp minor, Op. 8 No. 12",9,7,7,-2,-2,False,True,True,both under,7.2,7.27,2403,56,100.0,8.258748057595742
+805,score_805.musicxml,Alexander Scriabin,"Etude in F-sharp minor, Op. 42 No. 2",9,4,3,-5,-6,False,True,True,both under,4.0,3.0,384,32,112.0,10.037530355434543

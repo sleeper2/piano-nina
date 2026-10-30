@@ -1,0 +1,21 @@
+# Trimmed, CPU-only subset of the upstream CIPI requirements.txt
+# (upstream pins CUDA wheels and `daal`, which do not install on arm64 / CPU-only hosts).
+torch==2.0.1
+numpy==1.24.3
+scipy==1.10.1
+scikit-learn==1.2.2
+pandas==2.0.2
+music21==8.3.0
+pretty-midi==0.2.10
+mido==1.2.10
+omegaconf==2.3.0
+PyYAML==6.0
+matplotlib==3.7.1
+tqdm==4.65.0
+wandb==0.15.4
+plotly==5.15.0
+tensorboard==2.13.0
+protobuf==4.23.3
+six==1.16.0
+setuptools<70
+openpyxl==3.1.2

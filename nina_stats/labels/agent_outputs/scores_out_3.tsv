@@ -1,0 +1,269 @@
+id	genre	form	medium	simplified	confidence	note
+539	film_tv	song_cue	other	no	medium	Azerbaijani film song, piano arrangement
+540	classical	character_piece	piano	no	high	Bortkiewicz Op. 59 No. 1
+541	ragtime	rag	piano	no	high	Joplin rag
+542	film_tv	song_cue	other	no	high	Good Omens TV theme, arr. NightWing2060
+543	ragtime	rag	piano	no	low	1907 ragtime-era piano piece, form unclear
+544	contemporary_piano	character_piece	piano	no	low	obscure composer, likely user original
+545	ragtime	rag	piano	no	high	Joplin rag, extra reverb playback part
+546	ragtime	dance	piano	no	medium	1915 instrumental fox trot
+547	pop_rock	song_cue	other	no	high	EDM song, piano arrangement
+548	anthem_political	march	piano	no	low	Greek patriotic piece on Venizelos, likely march
+549	film_tv	song_cue	other	no	high	Animaniacs TV theme
+550	contemporary_piano	character_piece	piano	no	medium	online composer's own nocturne, 1973
+551	ragtime	rag	piano	no	high	Joplin march and two-step
+552	contemporary_piano	etude_exercise	piano	no	low	user's own etude
+553	ragtime	rag	piano	no	high	Joplin, full version
+554	ragtime	other	piano	no	low	1923 popular piano piece, form unclear
+555	ragtime	rag	piano	no	high	Joplin rag
+556	anime_jpop	song_cue	other	no	high	BTS K-pop song
+557	ragtime	dance	piano	no	medium	1917 fox trot
+558	contemporary_piano	character_piece	piano	no	low	user's own piece
+559	ragtime	rag	piano	no	high	Joplin march and two-step
+560	ragtime	march	other	no	medium	modern ragtime march for orchestrion, piano version
+561	jazz_blues	other	piano	no	high	stride piano solo
+562	anthem_political	variations_fantasy	other	no	low	patriotic song, piano setting by Herrmann
+563	classical	character_piece	piano	no	high	songs without words
+564	classical	song_cue	other	no	high	Lohengrin, arr. Liszt transcription
+565	classical	dance	piano	no	medium	1871 salon galop
+566	ragtime	march	piano	no	medium	E.T. Paull descriptive march
+567	jazz_blues	other	piano	no	high	original boogie-woogie piano solo
+568	ragtime	rag	piano	no	medium	modern rag, transcribed
+569	classical	dance	piano	no	high	salon tarantella
+570	ragtime	rag	piano	no	high	1923 rag
+571	ragtime	rag	piano	no	high	Joplin rag
+572	film_tv	song_cue	other	no	high	Voltron TV soundtrack transcription
+573	ragtime	rag	piano	no	high	1911 rag
+574	ragtime	rag	piano	no	medium	1922 novelty piano
+575	video_game	song_cue	other	no	high	Super Mario Galaxy cue, arr. Mark of Two
+576	ragtime	rag	piano	no	medium	1924 novelty piano
+577	ragtime	rag	piano	no	high	1905 rag
+578	ragtime	rag	piano	no	medium	1905 ragtime-era piece
+579	jazz_blues	other	piano	no	medium	Fats Waller stride piece
+580	ragtime	rag	piano	no	medium	1922 novelty piano
+581	ragtime	rag	piano	no	low	1904 ragtime-era piece, form unclear
+582	film_tv	song_cue	other	no	high	HTTYD theme, arr. Pietschmann
+583	ragtime	rag	piano	no	high	rag two-step
+584	ragtime	rag	piano	no	medium	1905 grotesque intermezzo
+585	pop_rock	song_cue	other	no	high	Rammstein song, piano solo arr.
+586	ragtime	dance	other	no	low	Sousa dance hilarious, band original
+587	ragtime	rag	piano	no	high	Confrey novelty piano
+588	ragtime	rag	piano	no	medium	1900 ragtime-era piece
+589	ragtime	march	piano	no	low	1897 popular march
+590	anime_jpop	song_cue	other	no	high	C-pop song, piano arr.
+591	anime_jpop	song_cue	other	unknown	low	K-ballad song (MC the Max), user arr.
+592	ragtime	rag	piano	no	high	Eubie Blake rag
+593	pop_rock	song_cue	other	no	high	The Weeknd song
+594	ragtime	rag	piano	no	medium	1922 novelty piano
+595	ragtime	rag	piano	no	medium	march two-step or cakewalk
+596	classical	song_cue	other	no	medium	Vivaldi motet aria on piano
+597	contemporary_piano	character_piece	piano	no	medium	online composer's own piece
+598	ragtime	variations_fantasy	other	no	medium	1897 medley of ragtime songs
+599	ragtime	rag	piano	no	medium	1923 novelty piano
+600	ragtime	rag	piano	no	medium	1903 two-step
+601	classical	etude_exercise	piano	no	high	Czerny Op. 299 No. 5
+602	film_tv	song_cue	other	no	high	Game of Thrones cue, arr. Del Gallo
+603	ragtime	rag	piano	no	medium	modern rag by Tom Brier
+604	ragtime	rag	piano	no	high	1912 rag
+605	ragtime	rag	piano	no	high	1909 rag
+606	ragtime	rag	piano	no	medium	1903 two-step
+607	ragtime	rag	piano	no	medium	1902 march and two-step
+608	classical	dance	other	no	high	Suite for Variety Orchestra waltz, arr.
+609	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+610	pop_rock	song_cue	other	no	high	Ed Sheeran song
+611	ragtime	rag	piano	no	medium	1922 novelty piano
+612	ragtime	rag	piano	no	medium	1922 novelty piano
+613	ragtime	rag	piano	no	high	1911 rag
+614	ragtime	rag	piano	no	high	novelty piano solo
+615	ragtime	rag	piano	no	high	Charles Hunter rag
+616	contemporary_piano	character_piece	piano	no	medium	user's own piano piece
+617	ragtime	rag	piano	no	high	1908 rag
+618	ragtime	rag	piano	no	high	1909 rag
+619	ragtime	rag	piano	no	high	Arthur Marshall rag
+620	film_tv	song_cue	other	no	high	Westworld cover of Nirvana, advanced arr.
+621	contemporary_piano	character_piece	piano	no	medium	user's own piano piece
+622	ragtime	rag	piano	no	medium	1911 ragtime-era piece
+623	contemporary_piano	unknown	piano	no	low	user composition, little metadata
+624	ragtime	rag	piano	no	high	1923 rag
+625	ragtime	rag	piano	no	high	1906 march and two-step
+626	anime_jpop	song_cue	other	no	high	Dragon Ball opening
+627	ragtime	rag	piano	no	high	1903 march and two-step
+628	video_game	song_cue	other	no	medium	Mili song (Library of Ruina), pianist version
+629	ragtime	character_piece	piano	no	low	oriental idyll, ragtime-era characteristic piece
+630	ragtime	rag	piano	no	high	Krell rag
+631	ragtime	rag	piano	no	medium	1922 jazz characteristic novelty
+632	ragtime	rag	piano	no	high	1915 rag
+633	contemporary_piano	character_piece	piano	no	medium	online composer's own piece
+634	ragtime	dance	piano	no	medium	1915 fox trot
+635	contemporary_piano	unknown	piano	no	low	user composition
+636	ragtime	rag	piano	no	high	1906 rag
+637	ragtime	rag	piano	no	medium	modern rag by Tom Brier
+638	anime_jpop	song_cue	other	no	high	My Hero Academia soundtrack cue
+639	contemporary_piano	unknown	piano	no	low	user composition
+640	ragtime	march	piano	no	medium	march intermezzo
+641	ragtime	rag	piano	no	high	1914 rag
+642	ragtime	rag	piano	no	medium	1923 novelty piano
+643	ragtime	rag	piano	no	high	1906 rag
+644	classical	character_piece	piano	no	high	Raff capriccio
+645	video_game	march	other	no	low	likely Red Alert 3 Soviet March, arr.
+646	ragtime	rag	piano	no	high	1926 novelty piano
+647	film_tv	song_cue	other	no	high	Ratatouille song, arr. KNO
+648	film_tv	song_cue	other	no	high	Interstellar theme, arr. Pietschmann
+649	ragtime	rag	piano	no	high	1914 rag
+650	classical	dance	other	no	high	Nutcracker, transcr. Esipoff
+651	ragtime	dance	piano	no	medium	1908 barn dance
+652	ragtime	march	piano	no	low	1924 popular march
+653	ragtime	rag	piano	no	medium	1922 novelty piano
+654	ragtime	rag	piano	no	high	1909 march and two-step
+655	jazz_blues	song_cue	other	no	medium	jazz standard on piano
+656	ragtime	rag	piano	no	medium	1924 novelty piano
+657	ragtime	dance	piano	no	low	1897 waltz suite
+658	video_game	song_cue	other	no	medium	EDM track known from Geometry Dash
+659	ragtime	rag	piano	no	medium	novelty march two-step
+660	classical	dance	other	no	high	Strauss orchestral polka on piano
+661	classical	dance	other	no	high	Offenbach galop, virtuoso arr. Kitchell
+662	ragtime	rag	piano	no	high	1923 novelty piano
+663	ragtime	rag	piano	no	high	Joplin rag
+664	contemporary_piano	character_piece	piano	no	medium	user's own impressionistic piece
+665	contemporary_piano	character_piece	piano	no	medium	online composer's own piece
+666	contemporary_piano	other	piano	no	low	user composition, possibly scherzo
+667	ragtime	rag	piano	no	medium	characteristic two-step
+668	ragtime	rag	piano	no	high	1911 rag
+669	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+670	film_tv	song_cue	other	no	high	Oldboy film cue, piano arr.
+671	ragtime	rag	piano	no	high	Joplin rag
+672	video_game	song_cue	other	no	high	Kirby's Epic Yarn cue, arr.
+673	contemporary_piano	unknown	piano	no	low	user composition
+674	video_game	song_cue	other	no	high	Undertale, arr. Lattice
+675	contemporary_piano	march	piano	no	low	user's own march
+676	ragtime	rag	piano	no	medium	two-step or cakewalk
+677	ragtime	variations_fantasy	other	no	medium	Confrey paraphrase on his own song
+678	ragtime	dance	piano	no	medium	1924 novelty-era tango
+679	classical	character_piece	piano	no	high	Lili Boulanger piano piece
+680	pop_rock	song_cue	other	no	high	Swedish pop song, arr.
+681	ragtime	rag	piano	no	high	Joplin rag
+682	ragtime	rag	piano	no	medium	1899 cakewalk-era piece
+683	contemporary_piano	character_piece	piano	no	low	user's own D&D character theme
+684	contemporary_piano	character_piece	piano	no	medium	user's own piece
+685	ragtime	rag	piano	no	low	1914 ragtime-era piece
+686	classical	march	piano	no	medium	Russian ceremonial march, pre-1917
+687	ragtime	rag	piano	no	high	1916 rag
+688	folk_traditional	song_cue	other	unknown	low	Carol of the Bells, short arrangement
+689	video_game	song_cue	other	no	medium	Undertale cue, short original
+690	contemporary_piano	sonata_sonatina	piano	no	low	user's own sonata
+691	film_tv	song_cue	other	unknown	low	Inception theme, short arrangement
+692	contemporary_piano	character_piece	piano	no	medium	Wim Mertens minimalist piece
+693	pop_rock	song_cue	other	no	high	Muse song
+694	video_game	song_cue	other	no	high	Tiny Wings game music, arr.
+695	classical	character_piece	piano	no	high	Field nocturne
+696	contemporary_piano	unknown	piano	no	low	user composition
+697	video_game	song_cue	other	no	high	MapleStory BGM, arr. Eric Lee
+698	contemporary_piano	invention_fugue_canon	piano	no	medium	user's own double fugue, 2019
+699	video_game	song_cue	other	no	high	Mass Effect 3 cue, arr.
+700	classical	dance	piano	no	medium	1864 salon polka
+701	classical	dance	other	no	medium	Gossec gavotte from opera, piano arr.
+702	video_game	song_cue	other	no	high	Aladdin (Genesis) cue, arr.
+703	contemporary_piano	march	piano	no	medium	user's own keyboard march
+704	musical_theatre	song_cue	other	unknown	low	WWI music-hall song
+705	pop_rock	song_cue	other	no	medium	internet song (Schmoyoho) piano cover
+706	video_game	song_cue	other	no	low	rhythm-game electronic track, transcription
+707	musical_theatre	song_cue	other	no	high	song from Ranked musical
+708	film_tv	song_cue	other	yes	low	trailer music, short cover
+709	ragtime	rag	piano	yes	high	marked Simplified
+710	classical	dance	piano	no	high	MacCunn hornpipe
+711	film_tv	song_cue	other	no	medium	Interstellar cue, piano version
+712	contemporary_piano	unknown	piano	no	low	user composition
+713	film_tv	song_cue	other	unknown	medium	Soviet cartoon melody
+714	classical	dance	piano	no	low	1893 characteristic salon dance
+715	pop_rock	song_cue	other	no	high	Despacito, Peter Bence cover adaptation
+716	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+717	classical	dance	piano	no	medium	Victorian Old English dance
+718	classical	song_cue	other	unknown	low	Moldau theme, likely excerpt
+719	contemporary_piano	character_piece	piano	no	medium	living pedagogical composer, Op. 23
+720	classical	song_cue	other	unknown	medium	Carmen prelude, short piano version
+721	video_game	song_cue	other	unknown	medium	Civilization IV theme, version 4a
+722	pop_rock	song_cue	other	no	high	Adele song, accompaniment
+723	anime_jpop	song_cue	other	no	medium	Ayashi no Ceres anime music
+724	film_tv	song_cue	other	unknown	medium	A Bug's Life cue, arr. Murtha
+725	pop_rock	song_cue	other	no	medium	Tom Lehrer comic song
+726	contemporary_piano	character_piece	piano	no	low	user's own piece, unclear
+727	folk_traditional	song_cue	other	no	low	Azerbaijani song, transcribed performance
+728	jazz_blues	song_cue	other	unknown	medium	jazz standard, short arr.
+729	ragtime	dance	piano	yes	medium	Joplin concert waltz, abbreviated
+730	ragtime	rag	piano	no	high	Joplin rag
+731	video_game	song_cue	other	no	high	Splatoon song
+732	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+733	ragtime	song_cue	other	no	medium	1912 ragtime song with Danish lyrics
+734	jazz_blues	dance	other	no	low	Soviet foxtrot song
+735	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+736	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+737	classical	dance	piano	no	high	Goedicke Op. 46 rigaudon, pedagogical
+738	contemporary_piano	character_piece	piano	no	low	user's own short piece
+739	religious	song_cue	other	no	medium	Tamil communion hymn
+740	classical	dance	piano	no	high	Petzold minuet
+741	video_game	song_cue	other	unknown	medium	Super Mario Bros. underwater theme
+742	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+743	video_game	song_cue	other	unknown	medium	BioShock Infinite cue, short
+744	pop_rock	song_cue	other	yes	high	Hallelujah, marked easy
+745	classical	dance	piano	no	high	Petzold minuet
+746	folk_traditional	dance	piano	yes	medium	La Cumparsita, part A only
+747	folk_traditional	song_cue	other	no	medium	English folk song, easy arr.
+748	contemporary_piano	character_piece	piano	no	low	user's own short piece
+749	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+750	ragtime	rag	piano	no	medium	1922 novelty piano
+751	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+752	classical	sonata_sonatina	piano	no	high	Thalberg Op. 56
+753	classical	variations_fantasy	other	no	medium	band march, concert paraphrase arr.
+754	classical	other	piano	no	medium	Türk pedagogical rondo
+755	film_tv	song_cue	other	yes	medium	Bambi song, easy arr. with lyrics
+756	contemporary_piano	invention_fugue_canon	piano	no	low	user's own invention
+757	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+758	classical	dance	other	unknown	low	Lully gavotte, pedagogical arrangement
+759	ragtime	march	piano	no	medium	E.T. Paull descriptive march
+760	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+761	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+762	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+763	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+764	classical	sonata_sonatina	piano	no	high	Pixis Op. 10, mvt I
+765	contemporary_piano	unknown	piano	no	low	user's short motif
+766	ragtime	dance	piano	no	low	1909 grand galop de concert
+767	religious	song_cue	other	yes	high	Silent Night, simple left hand
+768	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+769	classical	variations_fantasy	other	no	low	virtuoso solo-piano Ave verum, possibly on Mozart
+770	film_tv	song_cue	other	unknown	low	film love theme, short version
+771	folk_traditional	song_cue	other	no	medium	Australian folk song, simple setting
+772	contemporary_piano	character_piece	piano	no	high	Yohei Kato original
+773	ragtime	rag	piano	no	medium	1923 novelty piano
+774	folk_traditional	dance	other	unknown	medium	fiddle waltz, short arrangement
+775	classical	other	piano	no	high	Balakirev toccata
+776	classical	character_piece	other	no	medium	light orchestral piece, full piano version
+777	religious	song_cue	other	no	high	liturgical Agnus Dei with lyrics
+778	film_tv	song_cue	other	unknown	medium	The Stand TV cue, short
+779	classical	etude_exercise	piano	no	high	Liszt Paganini Etude No. 5
+780	classical	etude_exercise	piano	no	high	Liszt Paganini Etude No. 2
+781	classical	etude_exercise	piano	no	high	Liszt Mazeppa
+782	classical	etude_exercise	piano	no	high	Liszt S. 137 No. 12
+783	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 10
+784	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 2
+785	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 5
+786	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 7
+787	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 8
+788	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 12
+789	classical	etude_exercise	piano	no	high	Liszt Transcendental Etude No. 1
+790	classical	etude_exercise	piano	no	high	Liszt S. 140 No. 4
+791	classical	etude_exercise	piano	no	high	Liszt La Campanella
+792	classical	character_piece	piano	no	high	Messiaen Vingt Regards No. 16
+793	classical	character_piece	piano	no	high	Rachmaninoff Moment musical
+794	classical	character_piece	piano	no	high	Rachmaninoff Moment musical
+795	classical	prelude	piano	no	high	Rachmaninoff prelude
+796	classical	prelude	piano	no	high	Rachmaninoff prelude
+797	classical	etude_exercise	piano	no	high	Rachmaninoff Etude-Tableau
+798	classical	etude_exercise	piano	no	high	Rachmaninoff Etude-Tableau
+799	classical	etude_exercise	piano	no	high	Rachmaninoff Etude-Tableau
+800	classical	etude_exercise	piano	no	high	Rachmaninoff Etude-Tableau
+801	classical	etude_exercise	piano	no	high	Rachmaninoff Etude-Tableau
+802	classical	etude_exercise	piano	no	high	Rachmaninoff Etude-Tableau
+803	classical	etude_exercise	piano	no	high	Scriabin etude
+804	classical	etude_exercise	piano	no	high	Scriabin etude
+805	classical	etude_exercise	piano	no	high	Scriabin etude, short original
+806	classical	etude_exercise	piano	no	high	Scriabin etude

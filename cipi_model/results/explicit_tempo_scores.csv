@@ -1,0 +1,807 @@
+file_name,label,bpm,fact,explicit_tempo,tempo_reason,quarter_bpm
+score_1.musicxml,8,176.0,text_only,False,no printed numeric tempo in the first measure,
+score_2.musicxml,9,152.0,text_only,False,no printed numeric tempo in the first measure,
+score_3.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_4.musicxml,7,216.0,non_quarter_unit; parenthesized,True,,216.0
+score_5.musicxml,1,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_6.musicxml,3,170.0,multiple_tempi,False,other tempo marks follow,170.0
+score_7.musicxml,2,60.0,,True,,60.0
+score_8.musicxml,3,160.0,non_quarter_unit,True,,160.0
+score_9.musicxml,3,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_10.musicxml,4,152.0,text_only,False,no printed numeric tempo in the first measure,
+score_11.musicxml,2,110.0,,True,,110.0
+score_12.musicxml,6,92.0,parenthesized; sound_mismatch,False,playback tempo differs from printed tempo,92.0
+score_13.musicxml,3,110.0,,True,,110.0
+score_14.musicxml,3,100.0,,True,,100.0
+score_15.musicxml,2,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_16.musicxml,2,124.0,text_only,False,no printed numeric tempo in the first measure,
+score_17.musicxml,4,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_18.musicxml,2,66.0,,False,playback tempo differs from printed tempo,66.0
+score_19.musicxml,2,144.0,,True,,144.0
+score_20.musicxml,3,100.0,,True,,100.0
+score_21.musicxml,4,126.0,,True,,126.0
+score_22.musicxml,2,90.0,,False,playback tempo differs from printed tempo,90.0
+score_23.musicxml,4,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_24.musicxml,4,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_25.musicxml,2,60.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_26.musicxml,2,52.0,text_only,False,no printed numeric tempo in the first measure,
+score_27.musicxml,3,100.0,,True,,100.0
+score_28.musicxml,4,220.0,multi_part,True,,220.0
+score_29.musicxml,3,66.0,,True,,66.0
+score_30.musicxml,2,120.0,,True,,120.0
+score_31.musicxml,3,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_32.musicxml,4,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_33.musicxml,2,80.0,,True,,80.0
+score_34.musicxml,1,40.0,,True,,40.0
+score_35.musicxml,3,84.0,words_glyph,False,no printed numeric tempo in the first measure,
+score_36.musicxml,2,110.0,,True,,110.0
+score_37.musicxml,7,128.0,multiple_tempi; sound_mismatch,False,other tempo marks follow,128.0
+score_38.musicxml,1,40.0,,True,,40.0
+score_39.musicxml,3,200.0,non_quarter_unit,True,,200.0
+score_40.musicxml,2,90.0,multi_part,True,,90.0
+score_41.musicxml,6,90.0,,True,,90.0
+score_42.musicxml,3,66.0,,True,,66.0
+score_43.musicxml,2,75.0,,False,playback tempo differs from printed tempo,75.0
+score_44.musicxml,1,40.0,,True,,40.0
+score_45.musicxml,4,76.0,text_only,False,no printed numeric tempo in the first measure,
+score_46.musicxml,2,90.0,,True,,90.0
+score_47.musicxml,2,90.0,,True,,90.0
+score_48.musicxml,4,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_49.musicxml,2,60.0,dotted; non_quarter_unit,True,,60.0
+score_50.musicxml,8,140.0,,True,,140.0
+score_51.musicxml,1,40.0,,True,,40.0
+score_52.musicxml,2,70.0,,False,playback tempo differs from printed tempo,70.0
+score_53.musicxml,9,80.0,,True,,80.0
+score_54.musicxml,2,65.0,,True,,65.0
+score_55.musicxml,7,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_56.musicxml,6,80.0,multiple_tempi,False,other tempo marks follow,80.0
+score_57.musicxml,5,210.0,dotted; first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_58.musicxml,3,120.0,,True,,120.0
+score_59.musicxml,3,140.0,non_quarter_unit; multiple_tempi,False,other tempo marks follow,140.0
+score_60.musicxml,5,240.0,dotted; multiple_tempi,False,other tempo marks follow,240.0
+score_61.musicxml,2,110.0,,True,,110.0
+score_62.musicxml,4,174.0,,True,,174.0
+score_63.musicxml,4,120.0,words_glyph,False,no printed numeric tempo in the first measure,
+score_64.musicxml,5,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_65.musicxml,3,120.0,,True,,120.0
+score_66.musicxml,2,110.0,multiple_tempi,False,other tempo marks follow,110.0
+score_67.musicxml,2,40.0,,True,,40.0
+score_68.musicxml,5,75.5,decimal_per_minute,True,,75.5
+score_69.musicxml,5,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_70.musicxml,3,176.0,text_only,False,no printed numeric tempo in the first measure,
+score_71.musicxml,4,115.0,text_only,False,no printed numeric tempo in the first measure,
+score_72.musicxml,3,126.0,dotted; multi_part,True,,126.0
+score_73.musicxml,4,60.0,,True,,60.0
+score_74.musicxml,7,138.0,multiple_tempi,False,other tempo marks follow,138.0
+score_75.musicxml,7,190.0,text_only,False,no printed numeric tempo in the first measure,
+score_76.musicxml,7,112.0,,True,,112.0
+score_77.musicxml,3,52.0,,True,,52.0
+score_78.musicxml,3,140.0,,True,,140.0
+score_79.musicxml,3,80.0,,True,,80.0
+score_80.musicxml,5,152.0,,True,,152.0
+score_81.musicxml,2,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_82.musicxml,4,120.0,,True,,120.0
+score_83.musicxml,5,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_84.musicxml,3,44.0,text_only,False,no printed numeric tempo in the first measure,
+score_85.musicxml,3,158.0,,True,,158.0
+score_86.musicxml,4,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_87.musicxml,3,130.0,,True,,130.0
+score_88.musicxml,1,45.0,,True,,45.0
+score_89.musicxml,3,90.0,,True,,90.0
+score_90.musicxml,6,160.0,text_only,False,no printed numeric tempo in the first measure,
+score_91.musicxml,3,80.0,,True,,80.0
+score_92.musicxml,3,95.0,,True,,95.0
+score_93.musicxml,2,72.0,,True,,72.0
+score_94.musicxml,3,98.0,,False,playback tempo differs from printed tempo,98.0
+score_95.musicxml,7,106.0,,True,,106.0
+score_96.musicxml,2,64.0,parenthesized,True,,64.0
+score_97.musicxml,2,130.0,multiple_tempi,False,other tempo marks follow,130.0
+score_98.musicxml,2,68.0,,True,,68.0
+score_99.musicxml,3,72.0,text_only,False,no printed numeric tempo in the first measure,
+score_100.musicxml,3,60.0,text_only,False,no printed numeric tempo in the first measure,
+score_101.musicxml,2,40.0,,True,,40.0
+score_102.musicxml,3,105.0,text_only,False,no printed numeric tempo in the first measure,
+score_103.musicxml,7,100.0,multiple_tempi,False,other tempo marks follow,100.0
+score_104.musicxml,3,130.0,text_only,False,no printed numeric tempo in the first measure,
+score_105.musicxml,1,40.0,,True,,40.0
+score_106.musicxml,2,75.0,,True,,75.0
+score_107.musicxml,2,40.0,,True,,40.0
+score_108.musicxml,3,110.0,multiple_tempi,False,other tempo marks follow,110.0
+score_109.musicxml,2,40.0,,True,,40.0
+score_110.musicxml,3,40.0,,True,,40.0
+score_111.musicxml,1,40.0,,True,,40.0
+score_112.musicxml,5,140.0,,True,,140.0
+score_113.musicxml,2,50.0,,True,,50.0
+score_114.musicxml,5,120.0,,True,,120.0
+score_115.musicxml,3,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_116.musicxml,4,126.0,,True,,126.0
+score_117.musicxml,4,112.0,,True,,112.0
+score_118.musicxml,1,50.0,,True,,50.0
+score_119.musicxml,2,85.0,,True,,85.0
+score_120.musicxml,3,65.0,,True,,65.0
+score_121.musicxml,4,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_122.musicxml,3,160.0,,True,,160.0
+score_123.musicxml,2,39.0,,True,,39.0
+score_124.musicxml,3,60.0,,True,,60.0
+score_125.musicxml,5,150.0,,False,playback tempo differs from printed tempo,150.0
+score_126.musicxml,4,132.0,,True,,132.0
+score_127.musicxml,3,63.0,text_only,False,no printed numeric tempo in the first measure,
+score_128.musicxml,3,153.0,,True,,153.0
+score_129.musicxml,2,90.0,multiple_tempi,False,other tempo marks follow,90.0
+score_130.musicxml,2,45.0,,True,,45.0
+score_131.musicxml,3,80.0,,True,,80.0
+score_132.musicxml,4,49.0,text_only,False,no printed numeric tempo in the first measure,
+score_133.musicxml,3,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_134.musicxml,5,80.0,,True,,80.0
+score_135.musicxml,3,150.0,,True,,150.0
+score_136.musicxml,3,100.0,sound_mismatch,False,playback tempo differs from printed tempo,100.0
+score_137.musicxml,5,136.0,,True,,136.0
+score_138.musicxml,4,160.0,,True,,160.0
+score_139.musicxml,2,85.0,multiple_tempi,False,other tempo marks follow,85.0
+score_140.musicxml,3,90.0,,True,,90.0
+score_141.musicxml,3,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_142.musicxml,2,80.0,,True,,80.0
+score_143.musicxml,3,120.0,,True,,120.0
+score_144.musicxml,5,90.0,non_quarter_unit; multiple_tempi,False,other tempo marks follow,90.0
+score_145.musicxml,3,160.0,non_quarter_unit,True,,160.0
+score_146.musicxml,5,225.0,multiple_tempi,False,other tempo marks follow,225.0
+score_147.musicxml,6,110.0,no_tempo,False,no printed numeric tempo in the first measure,
+score_148.musicxml,4,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_149.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_150.musicxml,3,105.0,multiple_tempi,False,other tempo marks follow,105.0
+score_151.musicxml,8,138.0,text_only,False,no printed numeric tempo in the first measure,
+score_152.musicxml,3,100.0,,True,,100.0
+score_153.musicxml,3,65.0,multiple_tempi,False,other tempo marks follow,65.0
+score_154.musicxml,3,110.0,,True,,110.0
+score_155.musicxml,5,94.0,text_only,False,no printed numeric tempo in the first measure,
+score_156.musicxml,5,110.0,,True,,110.0
+score_157.musicxml,4,98.0,,True,,98.0
+score_158.musicxml,4,160.0,non_quarter_unit,True,,160.0
+score_159.musicxml,4,100.0,multiple_tempi,False,other tempo marks follow,100.0
+score_160.musicxml,3,75.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_161.musicxml,4,70.0,,True,,70.0
+score_162.musicxml,3,48.0,,True,,48.0
+score_163.musicxml,4,85.0,,True,,85.0
+score_164.musicxml,2,45.0,,True,,45.0
+score_165.musicxml,5,90.0,non_quarter_unit,True,,90.0
+score_166.musicxml,4,180.0,text_only,False,no printed numeric tempo in the first measure,
+score_167.musicxml,2,50.0,,True,,50.0
+score_168.musicxml,1,50.0,,True,,50.0
+score_169.musicxml,5,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_170.musicxml,3,160.0,,True,,160.0
+score_171.musicxml,4,85.0,multiple_tempi,False,other tempo marks follow,85.0
+score_172.musicxml,3,84.0,,True,,84.0
+score_173.musicxml,4,80.0,multiple_tempi,False,other tempo marks follow,80.0
+score_174.musicxml,1,45.0,,True,,45.0
+score_175.musicxml,5,105.0,,True,,105.0
+score_176.musicxml,2,80.0,,True,,80.0
+score_177.musicxml,3,115.0,multiple_tempi,False,other tempo marks follow,115.0
+score_178.musicxml,2,40.0,,True,,40.0
+score_179.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_180.musicxml,2,39.0,,True,,39.0
+score_181.musicxml,5,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_182.musicxml,4,100.0,multiple_tempi,False,other tempo marks follow,100.0
+score_183.musicxml,8,184.0,non_quarter_unit,True,,184.0
+score_184.musicxml,3,130.0,,True,,130.0
+score_185.musicxml,2,40.0,,True,,40.0
+score_186.musicxml,4,120.0,,True,,120.0
+score_187.musicxml,8,60.0,,True,,60.0
+score_188.musicxml,2,40.0,,True,,40.0
+score_189.musicxml,3,55.0,,True,,55.0
+score_190.musicxml,4,144.0,dotted; non_quarter_unit,True,,144.0
+score_191.musicxml,4,175.0,,True,,175.0
+score_192.musicxml,3,120.0,,True,,120.0
+score_193.musicxml,3,50.0,,True,,50.0
+score_194.musicxml,3,40.0,,True,,40.0
+score_195.musicxml,3,70.0,,True,,70.0
+score_196.musicxml,4,80.0,,True,,80.0
+score_197.musicxml,2,50.0,,True,,50.0
+score_198.musicxml,5,180.0,,True,,180.0
+score_199.musicxml,4,108.0,,False,playback tempo differs from printed tempo,108.0
+score_200.musicxml,5,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_201.musicxml,3,75.0,,True,,75.0
+score_202.musicxml,1,40.0,,True,,40.0
+score_203.musicxml,4,184.0,text_only,False,no printed numeric tempo in the first measure,
+score_204.musicxml,2,40.0,,True,,40.0
+score_205.musicxml,3,150.0,,True,,150.0
+score_206.musicxml,4,90.0,,True,,90.0
+score_207.musicxml,2,40.0,,True,,40.0
+score_208.musicxml,4,120.0,,True,,120.0
+score_209.musicxml,4,68.0,,True,,68.0
+score_210.musicxml,4,95.0,,False,playback tempo differs from printed tempo,95.0
+score_211.musicxml,4,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_212.musicxml,4,90.0,multiple_tempi,False,other tempo marks follow,90.0
+score_213.musicxml,3,85.0,,True,,85.0
+score_214.musicxml,3,58.0,text_only,False,no printed numeric tempo in the first measure,
+score_215.musicxml,4,180.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_216.musicxml,6,140.0,,True,,140.0
+score_217.musicxml,5,100.0,,True,,100.0
+score_218.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_219.musicxml,3,94.0,,True,,94.0
+score_220.musicxml,2,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_221.musicxml,5,110.0,,False,playback tempo differs from printed tempo,110.0
+score_222.musicxml,8,160.0,non_quarter_unit; multiple_tempi,False,other tempo marks follow,160.0
+score_223.musicxml,6,116.0,text_only,False,no printed numeric tempo in the first measure,
+score_224.musicxml,2,40.0,,True,,40.0
+score_225.musicxml,5,200.0,non_quarter_unit; first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_226.musicxml,4,115.0,,True,,115.0
+score_227.musicxml,2,40.0,,True,,40.0
+score_228.musicxml,3,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_229.musicxml,2,39.0,,True,,39.0
+score_230.musicxml,4,48.0,text_only,False,no printed numeric tempo in the first measure,
+score_231.musicxml,3,105.0,,True,,105.0
+score_232.musicxml,7,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_233.musicxml,3,50.0,,True,,50.0
+score_234.musicxml,4,140.0,,True,,140.0
+score_235.musicxml,3,39.0,,True,,39.0
+score_236.musicxml,5,145.0,,True,,145.0
+score_237.musicxml,3,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_238.musicxml,7,176.0,text_only,False,no printed numeric tempo in the first measure,
+score_239.musicxml,3,40.0,,True,,40.0
+score_240.musicxml,3,150.0,,True,,150.0
+score_241.musicxml,4,130.0,non_quarter_unit; first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_242.musicxml,5,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_243.musicxml,7,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_244.musicxml,3,45.0,,True,,45.0
+score_245.musicxml,3,80.0,,True,,80.0
+score_246.musicxml,2,114.0,text_only,False,no printed numeric tempo in the first measure,
+score_247.musicxml,6,140.0,,True,,140.0
+score_248.musicxml,5,120.0,,True,,120.0
+score_249.musicxml,4,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_250.musicxml,7,156.0,,True,,156.0
+score_251.musicxml,6,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_252.musicxml,3,48.0,text_only,False,no printed numeric tempo in the first measure,
+score_253.musicxml,2,50.0,,True,,50.0
+score_254.musicxml,3,151.0,,True,,151.0
+score_255.musicxml,5,124.0,,True,,124.0
+score_256.musicxml,7,72.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_257.musicxml,2,40.0,,True,,40.0
+score_258.musicxml,4,80.0,,True,,80.0
+score_259.musicxml,3,132.0,,True,,132.0
+score_260.musicxml,4,162.0,,True,,162.0
+score_261.musicxml,7,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_262.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_263.musicxml,2,92.0,,True,,92.0
+score_264.musicxml,4,74.0,,True,,74.0
+score_265.musicxml,3,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_266.musicxml,3,80.0,,True,,80.0
+score_267.musicxml,3,95.0,,True,,95.0
+score_268.musicxml,1,40.0,,True,,40.0
+score_269.musicxml,6,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_270.musicxml,2,40.0,,True,,40.0
+score_271.musicxml,8,196.0,,True,,196.0
+score_272.musicxml,7,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_273.musicxml,2,45.0,,True,,45.0
+score_274.musicxml,3,40.0,,True,,40.0
+score_275.musicxml,4,100.0,multiple_tempi,False,other tempo marks follow,100.0
+score_276.musicxml,6,158.0,,True,,158.0
+score_277.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_278.musicxml,1,45.0,,True,,45.0
+score_279.musicxml,2,115.0,,True,,115.0
+score_280.musicxml,5,120.0,,True,,120.0
+score_281.musicxml,3,50.0,,True,,50.0
+score_282.musicxml,6,100.0,,True,,100.0
+score_283.musicxml,1,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_284.musicxml,2,40.0,,True,,40.0
+score_285.musicxml,1,40.0,,True,,40.0
+score_286.musicxml,4,138.0,,True,,138.0
+score_287.musicxml,3,184.0,text_only,False,no printed numeric tempo in the first measure,
+score_288.musicxml,4,160.0,,True,,160.0
+score_289.musicxml,2,50.0,,True,,50.0
+score_290.musicxml,3,80.0,,True,,80.0
+score_291.musicxml,5,109.0,text_only,False,no printed numeric tempo in the first measure,
+score_292.musicxml,4,66.0,text_only,False,no printed numeric tempo in the first measure,
+score_293.musicxml,4,100.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_294.musicxml,3,60.0,,True,,60.0
+score_295.musicxml,2,50.0,,True,,50.0
+score_296.musicxml,5,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_297.musicxml,2,50.0,,True,,50.0
+score_298.musicxml,6,75.0,,True,,75.0
+score_299.musicxml,3,40.0,,True,,40.0
+score_300.musicxml,2,40.0,,True,,40.0
+score_301.musicxml,2,80.0,,True,,80.0
+score_302.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_303.musicxml,2,40.0,,True,,40.0
+score_304.musicxml,3,95.0,,False,playback tempo differs from printed tempo,95.0
+score_305.musicxml,2,100.0,,True,,100.0
+score_306.musicxml,8,140.0,,True,,140.0
+score_307.musicxml,3,90.0,,True,,90.0
+score_308.musicxml,5,60.0,text_only,False,no printed numeric tempo in the first measure,
+score_309.musicxml,2,40.0,,True,,40.0
+score_310.musicxml,4,144.0,text_only,False,no printed numeric tempo in the first measure,
+score_311.musicxml,2,45.0,,True,,45.0
+score_312.musicxml,4,100.0,non_quarter_unit; first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_313.musicxml,6,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_314.musicxml,5,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_315.musicxml,2,40.0,,True,,40.0
+score_316.musicxml,1,90.0,,True,,90.0
+score_317.musicxml,2,40.0,,True,,40.0
+score_318.musicxml,1,40.0,,True,,40.0
+score_319.musicxml,1,40.0,,True,,40.0
+score_320.musicxml,7,100.0,non_quarter_unit,True,,100.0
+score_321.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_322.musicxml,4,40.0,,True,,40.0
+score_323.musicxml,2,100.0,,True,,100.0
+score_324.musicxml,2,90.0,,True,,90.0
+score_325.musicxml,4,48.0,text_only,False,no printed numeric tempo in the first measure,
+score_326.musicxml,7,266.0,non_quarter_unit; parenthesized,True,,266.0
+score_327.musicxml,2,50.0,,True,,50.0
+score_328.musicxml,1,50.0,,True,,50.0
+score_329.musicxml,3,40.0,,True,,40.0
+score_330.musicxml,4,80.0,,True,,80.0
+score_331.musicxml,5,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_332.musicxml,2,40.0,,True,,40.0
+score_333.musicxml,6,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_334.musicxml,3,40.0,,True,,40.0
+score_335.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_336.musicxml,2,40.0,,True,,40.0
+score_337.musicxml,3,100.0,,True,,100.0
+score_338.musicxml,2,80.0,,False,playback tempo differs from printed tempo,80.0
+score_339.musicxml,3,40.0,,True,,40.0
+score_340.musicxml,1,40.0,,True,,40.0
+score_341.musicxml,9,220.0,,True,,220.0
+score_342.musicxml,7,111.0,,True,,111.0
+score_343.musicxml,2,40.0,,True,,40.0
+score_344.musicxml,2,40.0,,True,,40.0
+score_345.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_346.musicxml,5,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_347.musicxml,7,54.0,text_only,False,no printed numeric tempo in the first measure,
+score_348.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_349.musicxml,1,90.0,,True,,90.0
+score_350.musicxml,4,132.0,,True,,132.0
+score_351.musicxml,5,144.0,,True,,144.0
+score_352.musicxml,5,180.0,,True,,180.0
+score_353.musicxml,6,192.0,text_only,False,no printed numeric tempo in the first measure,
+score_354.musicxml,4,106.0,,True,,106.0
+score_355.musicxml,6,130.0,,True,,130.0
+score_356.musicxml,4,112.0,,True,,112.0
+score_357.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_358.musicxml,1,90.0,,True,,90.0
+score_359.musicxml,2,40.0,,True,,40.0
+score_360.musicxml,5,94.0,text_only,False,no printed numeric tempo in the first measure,
+score_361.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_362.musicxml,2,40.0,,True,,40.0
+score_363.musicxml,2,45.0,,True,,45.0
+score_364.musicxml,3,120.0,,True,,120.0
+score_365.musicxml,2,80.0,,True,,80.0
+score_366.musicxml,2,192.0,,True,,192.0
+score_367.musicxml,3,48.0,text_only,False,no printed numeric tempo in the first measure,
+score_368.musicxml,2,92.0,,True,,92.0
+score_369.musicxml,7,105.0,,True,,105.0
+score_370.musicxml,5,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_371.musicxml,2,40.0,,True,,40.0
+score_372.musicxml,5,130.0,,True,,130.0
+score_373.musicxml,5,180.0,text_only,False,no printed numeric tempo in the first measure,
+score_374.musicxml,7,134.0,,True,,134.0
+score_375.musicxml,2,176.0,text_only,False,no printed numeric tempo in the first measure,
+score_376.musicxml,1,80.0,,True,,80.0
+score_377.musicxml,3,82.0,,True,,82.0
+score_378.musicxml,7,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_379.musicxml,2,90.0,,True,,90.0
+score_380.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_381.musicxml,2,40.0,,True,,40.0
+score_382.musicxml,5,72.0,text_only,False,no printed numeric tempo in the first measure,
+score_383.musicxml,4,58.0,text_only,False,no printed numeric tempo in the first measure,
+score_384.musicxml,8,108.0,,True,,108.0
+score_385.musicxml,7,160.0,,False,playback tempo differs from printed tempo,160.0
+score_386.musicxml,3,92.0,,True,,92.0
+score_387.musicxml,2,40.0,,True,,40.0
+score_388.musicxml,3,100.0,,True,,100.0
+score_389.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_390.musicxml,1,45.0,,True,,45.0
+score_391.musicxml,3,100.0,,True,,100.0
+score_392.musicxml,5,100.0,,True,,100.0
+score_393.musicxml,2,60.0,,True,,60.0
+score_394.musicxml,2,40.0,,True,,40.0
+score_395.musicxml,3,40.0,,True,,40.0
+score_396.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_397.musicxml,6,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_398.musicxml,2,60.0,,True,,60.0
+score_399.musicxml,2,40.0,,True,,40.0
+score_400.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_401.musicxml,6,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_402.musicxml,5,200.0,,True,,200.0
+score_403.musicxml,3,138.0,,True,,138.0
+score_404.musicxml,4,75.0,,True,,75.0
+score_405.musicxml,4,95.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_406.musicxml,4,60.0,,True,,60.0
+score_407.musicxml,4,150.0,parenthesized,True,,150.0
+score_408.musicxml,1,40.0,,True,,40.0
+score_409.musicxml,6,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_410.musicxml,2,90.0,non_quarter_unit,True,,90.0
+score_411.musicxml,2,40.0,,True,,40.0
+score_412.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_413.musicxml,3,160.0,,True,,160.0
+score_414.musicxml,4,125.0,,True,,125.0
+score_415.musicxml,2,50.0,,True,,50.0
+score_416.musicxml,2,50.0,,True,,50.0
+score_417.musicxml,2,45.0,,True,,45.0
+score_418.musicxml,6,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_419.musicxml,6,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_420.musicxml,3,80.0,,True,,80.0
+score_421.musicxml,4,69.0,non_quarter_unit; parenthesized,False,playback tempo differs from printed tempo,69.0
+score_422.musicxml,3,130.0,,True,,130.0
+score_423.musicxml,2,50.0,,True,,50.0
+score_424.musicxml,5,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_425.musicxml,2,40.0,,True,,40.0
+score_426.musicxml,4,120.0,,True,,120.0
+score_427.musicxml,2,111.0,,True,,111.0
+score_428.musicxml,3,150.0,dotted,True,,150.0
+score_429.musicxml,3,110.0,,True,,110.0
+score_430.musicxml,2,60.0,dotted,True,,60.0
+score_431.musicxml,9,160.0,non_quarter_unit; first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_432.musicxml,1,70.0,,True,,70.0
+score_433.musicxml,6,210.0,,True,,210.0
+score_434.musicxml,6,108.0,,False,playback tempo differs from printed tempo,108.0
+score_435.musicxml,2,40.0,,True,,40.0
+score_436.musicxml,3,151.0,,True,,151.0
+score_437.musicxml,7,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_438.musicxml,5,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_439.musicxml,3,120.0,,True,,120.0
+score_440.musicxml,5,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_441.musicxml,6,129.0,,True,,129.0
+score_442.musicxml,5,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_443.musicxml,3,50.0,,True,,50.0
+score_444.musicxml,5,100.0,,True,,100.0
+score_445.musicxml,5,117.0,text_only,False,no printed numeric tempo in the first measure,
+score_446.musicxml,2,187.0,,True,,187.0
+score_447.musicxml,2,110.0,non_quarter_unit,True,,110.0
+score_448.musicxml,2,39.0,,True,,39.0
+score_449.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_450.musicxml,7,90.0,,False,playback tempo differs from printed tempo,90.0
+score_451.musicxml,2,75.0,,True,,75.0
+score_452.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_453.musicxml,2,55.0,,True,,55.0
+score_454.musicxml,2,200.0,,True,,200.0
+score_455.musicxml,5,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_456.musicxml,5,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_457.musicxml,3,100.0,,True,,100.0
+score_458.musicxml,5,240.0,non_quarter_unit,True,,240.0
+score_459.musicxml,3,120.0,,True,,120.0
+score_460.musicxml,2,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_461.musicxml,2,50.0,,True,,50.0
+score_462.musicxml,7,132.0,,True,,132.0
+score_463.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_464.musicxml,6,126.0,,True,,126.0
+score_465.musicxml,6,120.0,,True,,120.0
+score_466.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_467.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_468.musicxml,6,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_469.musicxml,3,50.0,,True,,50.0
+score_470.musicxml,2,40.0,,True,,40.0
+score_471.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_472.musicxml,2,40.0,,True,,40.0
+score_473.musicxml,3,37.0,,True,,37.0
+score_474.musicxml,3,108.0,,True,,108.0
+score_475.musicxml,7,140.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_476.musicxml,8,135.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_477.musicxml,5,140.0,,True,,140.0
+score_478.musicxml,6,94.0,text_only,False,no printed numeric tempo in the first measure,
+score_479.musicxml,3,120.0,,True,,120.0
+score_480.musicxml,2,40.0,,True,,40.0
+score_481.musicxml,5,142.0,,True,,142.0
+score_482.musicxml,2,40.0,,True,,40.0
+score_483.musicxml,2,40.0,,True,,40.0
+score_484.musicxml,6,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_485.musicxml,7,90.0,,True,,90.0
+score_486.musicxml,5,60.0,text_only,False,no printed numeric tempo in the first measure,
+score_487.musicxml,3,74.0,,True,,74.0
+score_488.musicxml,9,165.0,,True,,165.0
+score_489.musicxml,8,80.0,,True,,80.0
+score_490.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_491.musicxml,2,40.0,,True,,40.0
+score_492.musicxml,8,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_493.musicxml,2,45.0,,True,,45.0
+score_494.musicxml,3,40.0,,True,,40.0
+score_495.musicxml,6,180.0,text_only,False,no printed numeric tempo in the first measure,
+score_496.musicxml,6,132.0,,True,,132.0
+score_497.musicxml,6,109.0,text_only,False,no printed numeric tempo in the first measure,
+score_498.musicxml,6,90.0,,True,,90.0
+score_499.musicxml,2,90.0,,True,,90.0
+score_500.musicxml,4,130.0,multiple_tempi,False,other tempo marks follow,130.0
+score_501.musicxml,3,40.0,,True,,40.0
+score_502.musicxml,5,129.0,,True,,129.0
+score_503.musicxml,6,200.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_504.musicxml,2,40.0,,True,,40.0
+score_505.musicxml,5,85.0,text_only,False,no printed numeric tempo in the first measure,
+score_506.musicxml,2,45.0,,True,,45.0
+score_507.musicxml,6,135.0,,True,,135.0
+score_508.musicxml,3,160.0,non_quarter_unit,True,,160.0
+score_509.musicxml,2,45.0,,True,,45.0
+score_510.musicxml,2,102.0,,True,,102.0
+score_511.musicxml,6,112.0,parenthesized,False,playback tempo differs from printed tempo,112.0
+score_512.musicxml,2,50.0,,True,,50.0
+score_513.musicxml,2,40.0,,True,,40.0
+score_514.musicxml,3,100.0,,True,,100.0
+score_515.musicxml,3,110.0,,True,,110.0
+score_516.musicxml,4,120.0,,True,,120.0
+score_517.musicxml,6,127.0,text_only,False,no printed numeric tempo in the first measure,
+score_518.musicxml,3,120.0,,True,,120.0
+score_519.musicxml,2,50.0,,True,,50.0
+score_520.musicxml,3,180.0,,True,,180.0
+score_521.musicxml,2,40.0,,True,,40.0
+score_522.musicxml,3,60.0,dotted; non_quarter_unit,True,,60.0
+score_523.musicxml,3,40.0,,True,,40.0
+score_524.musicxml,5,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_525.musicxml,6,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_526.musicxml,7,160.0,multiple_tempi,False,other tempo marks follow,160.0
+score_527.musicxml,5,130.0,multiple_tempi,False,other tempo marks follow,130.0
+score_528.musicxml,6,110.0,parenthesized,True,,110.0
+score_529.musicxml,6,126.0,dotted,True,,126.0
+score_530.musicxml,7,72.0,multi_part,True,,72.0
+score_531.musicxml,5,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_532.musicxml,5,100.0,,True,,100.0
+score_533.musicxml,5,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_534.musicxml,6,216.0,non_quarter_unit,True,,216.0
+score_535.musicxml,6,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_536.musicxml,7,105.0,,True,,105.0
+score_537.musicxml,6,160.0,text_only,False,no printed numeric tempo in the first measure,
+score_538.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_539.musicxml,6,200.0,multiple_tempi,False,other tempo marks follow,200.0
+score_540.musicxml,6,80.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_541.musicxml,5,60.0,text_only,False,no printed numeric tempo in the first measure,
+score_542.musicxml,4,169.0,,True,,169.0
+score_543.musicxml,5,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_544.musicxml,7,160.0,,True,,160.0
+score_545.musicxml,5,136.0,parenthesized; multi_part,True,,136.0
+score_546.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_547.musicxml,5,89.0,,True,,89.0
+score_548.musicxml,6,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_549.musicxml,7,280.0,non_quarter_unit,True,,280.0
+score_550.musicxml,4,70.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_551.musicxml,6,76.0,text_only,False,no printed numeric tempo in the first measure,
+score_552.musicxml,7,55.0,,True,,55.0
+score_553.musicxml,6,82.0,,True,,82.0
+score_554.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_555.musicxml,6,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_556.musicxml,6,116.0,,True,,116.0
+score_557.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_558.musicxml,5,80.0,non_quarter_unit,True,,80.0
+score_559.musicxml,6,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_560.musicxml,6,90.0,,True,,90.0
+score_561.musicxml,7,250.0,text_only,False,no printed numeric tempo in the first measure,
+score_562.musicxml,6,240.0,,True,,240.0
+score_563.musicxml,7,216.0,dotted; multiple_tempi,False,other tempo marks follow,216.0
+score_564.musicxml,4,48.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_565.musicxml,6,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_566.musicxml,6,120.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_567.musicxml,7,160.0,text_only,False,no printed numeric tempo in the first measure,
+score_568.musicxml,7,200.0,non_quarter_unit; multiple_tempi,False,other tempo marks follow,200.0
+score_569.musicxml,6,240.0,,True,,240.0
+score_570.musicxml,5,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_571.musicxml,6,72.0,text_only,False,no printed numeric tempo in the first measure,
+score_572.musicxml,7,160.0,multiple_tempi,False,other tempo marks follow,160.0
+score_573.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_574.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_575.musicxml,3,90.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_576.musicxml,5,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_577.musicxml,5,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_578.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_579.musicxml,5,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_580.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_581.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_582.musicxml,5,115.0,,True,,115.0
+score_583.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_584.musicxml,5,190.0,text_only,False,no printed numeric tempo in the first measure,
+score_585.musicxml,6,75.0,,True,,75.0
+score_586.musicxml,5,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_587.musicxml,6,199.0,text_only,False,no printed numeric tempo in the first measure,
+score_588.musicxml,6,90.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_589.musicxml,6,130.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_590.musicxml,5,136.0,,True,,136.0
+score_591.musicxml,3,75.0,,True,,75.0
+score_592.musicxml,6,199.0,,True,,199.0
+score_593.musicxml,4,110.0,,True,,110.0
+score_594.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_595.musicxml,6,199.0,text_only,False,no printed numeric tempo in the first measure,
+score_596.musicxml,7,80.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_597.musicxml,4,88.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_598.musicxml,6,90.0,,False,playback tempo differs from printed tempo,90.0
+score_599.musicxml,6,205.0,text_only,False,no printed numeric tempo in the first measure,
+score_600.musicxml,5,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_601.musicxml,4,80.0,,True,,80.0
+score_602.musicxml,4,135.0,dotted; multiple_tempi; metric_relation_skipped,False,other tempo marks follow,135.0
+score_603.musicxml,6,90.0,,True,,90.0
+score_604.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_605.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_606.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_607.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_608.musicxml,5,180.0,multiple_tempi,False,other tempo marks follow,180.0
+score_609.musicxml,4,40.0,,True,,40.0
+score_610.musicxml,4,196.0,non_quarter_unit,True,,196.0
+score_611.musicxml,7,190.0,text_only,False,no printed numeric tempo in the first measure,
+score_612.musicxml,6,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_613.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_614.musicxml,7,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_615.musicxml,5,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_616.musicxml,8,138.0,dotted,True,,138.0
+score_617.musicxml,6,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_618.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_619.musicxml,6,100.0,sound_mismatch,False,playback tempo differs from printed tempo,100.0
+score_620.musicxml,7,85.0,,True,,85.0
+score_621.musicxml,8,68.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_622.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_623.musicxml,4,80.0,multiple_tempi,False,other tempo marks follow,80.0
+score_624.musicxml,5,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_625.musicxml,6,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_626.musicxml,6,132.0,,True,,132.0
+score_627.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_628.musicxml,7,90.0,,True,,90.0
+score_629.musicxml,4,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_630.musicxml,6,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_631.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_632.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_633.musicxml,5,75.0,,True,,75.0
+score_634.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_635.musicxml,4,60.0,,True,,60.0
+score_636.musicxml,7,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_637.musicxml,6,100.0,,True,,100.0
+score_638.musicxml,4,150.0,,True,,150.0
+score_639.musicxml,4,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_640.musicxml,5,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_641.musicxml,6,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_642.musicxml,5,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_643.musicxml,6,90.0,text_only,False,no printed numeric tempo in the first measure,
+score_644.musicxml,7,152.0,multiple_tempi,False,other tempo marks follow,152.0
+score_645.musicxml,6,62.0,non_quarter_unit; first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_646.musicxml,3,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_647.musicxml,6,150.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_648.musicxml,6,100.0,,True,,100.0
+score_649.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_650.musicxml,7,60.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_651.musicxml,5,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_652.musicxml,5,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_653.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_654.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_655.musicxml,5,80.0,,True,,80.0
+score_656.musicxml,6,50.0,first_mark_after_m1,False,no printed numeric tempo in the first measure,
+score_657.musicxml,4,58.0,text_only,False,no printed numeric tempo in the first measure,
+score_658.musicxml,9,166.0,words_glyph; unit_assumed,False,no printed numeric tempo in the first measure,
+score_659.musicxml,6,94.0,text_only,False,no printed numeric tempo in the first measure,
+score_660.musicxml,5,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_661.musicxml,8,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_662.musicxml,5,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_663.musicxml,6,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_664.musicxml,7,58.0,text_only,False,no printed numeric tempo in the first measure,
+score_665.musicxml,7,80.0,,True,,80.0
+score_666.musicxml,8,360.0,,True,,360.0
+score_667.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_668.musicxml,5,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_669.musicxml,3,50.0,,True,,50.0
+score_670.musicxml,4,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_671.musicxml,6,60.0,text_only,False,no printed numeric tempo in the first measure,
+score_672.musicxml,5,184.0,text_only,False,no printed numeric tempo in the first measure,
+score_673.musicxml,5,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_674.musicxml,5,120.0,,True,,120.0
+score_675.musicxml,7,240.0,,True,,240.0
+score_676.musicxml,7,190.0,text_only,False,no printed numeric tempo in the first measure,
+score_677.musicxml,4,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_678.musicxml,7,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_679.musicxml,6,108.0,multiple_tempi,False,other tempo marks follow,108.0
+score_680.musicxml,6,167.0,,True,,167.0
+score_681.musicxml,6,100.0,,False,playback tempo differs from printed tempo,100.0
+score_682.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_683.musicxml,5,60.0,multiple_tempi,False,other tempo marks follow,60.0
+score_684.musicxml,6,120.0,,True,,120.0
+score_685.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_686.musicxml,7,139.0,text_only,False,no printed numeric tempo in the first measure,
+score_687.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_688.musicxml,3,100.0,,False,playback tempo differs from printed tempo,100.0
+score_689.musicxml,4,128.0,,True,,128.0
+score_690.musicxml,3,100.0,,True,,100.0
+score_691.musicxml,3,64.0,,True,,64.0
+score_692.musicxml,7,140.0,,True,,140.0
+score_693.musicxml,5,80.0,sound_mismatch,False,playback tempo differs from printed tempo,80.0
+score_694.musicxml,5,100.0,,True,,100.0
+score_695.musicxml,3,48.0,text_only,False,no printed numeric tempo in the first measure,
+score_696.musicxml,4,80.0,,True,,80.0
+score_697.musicxml,6,80.0,,True,,80.0
+score_698.musicxml,6,120.0,parenthesized,False,playback tempo differs from printed tempo,120.0
+score_699.musicxml,4,100.0,,True,,100.0
+score_700.musicxml,5,72.0,text_only,False,no printed numeric tempo in the first measure,
+score_701.musicxml,4,120.0,,False,playback tempo differs from printed tempo,120.0
+score_702.musicxml,4,104.0,,True,,104.0
+score_703.musicxml,4,120.0,text_only,False,no printed numeric tempo in the first measure,
+score_704.musicxml,5,172.5,dotted,True,,172.5
+score_705.musicxml,5,108.0,,True,,108.0
+score_706.musicxml,7,173.0,,True,,173.0
+score_707.musicxml,4,128.0,,True,,128.0
+score_708.musicxml,4,125.0,,True,,125.0
+score_709.musicxml,6,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_710.musicxml,4,79.0,text_only,False,no printed numeric tempo in the first measure,
+score_711.musicxml,5,60.0,,True,,60.0
+score_712.musicxml,4,146.0,,True,,146.0
+score_713.musicxml,4,80.0,,True,,80.0
+score_714.musicxml,6,169.0,text_only,False,no printed numeric tempo in the first measure,
+score_715.musicxml,5,100.0,,True,,100.0
+score_716.musicxml,3,40.0,,True,,40.0
+score_717.musicxml,4,120.0,,False,playback tempo differs from printed tempo,120.0
+score_718.musicxml,4,58.0,text_only,False,no printed numeric tempo in the first measure,
+score_719.musicxml,5,133.0,text_only,False,no printed numeric tempo in the first measure,
+score_720.musicxml,6,116.0,,True,,116.0
+score_721.musicxml,4,90.0,,True,,90.0
+score_722.musicxml,3,140.0,,True,,140.0
+score_723.musicxml,5,142.0,,False,playback tempo differs from printed tempo,142.0
+score_724.musicxml,3,120.0,,True,,120.0
+score_725.musicxml,5,136.0,parenthesized,True,,136.0
+score_726.musicxml,6,85.0,,True,,85.0
+score_727.musicxml,4,85.0,,True,,85.0
+score_728.musicxml,3,100.0,,True,,100.0
+score_729.musicxml,4,58.0,text_only,False,no printed numeric tempo in the first measure,
+score_730.musicxml,6,100.0,text_only,False,no printed numeric tempo in the first measure,
+score_731.musicxml,6,145.0,,True,,145.0
+score_732.musicxml,4,70.0,,True,,70.0
+score_733.musicxml,4,112.0,text_only,False,no printed numeric tempo in the first measure,
+score_734.musicxml,5,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_735.musicxml,1,40.0,,True,,40.0
+score_736.musicxml,2,60.0,,True,,60.0
+score_737.musicxml,1,120.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_738.musicxml,3,100.0,,True,,100.0
+score_739.musicxml,3,160.0,,True,,160.0
+score_740.musicxml,2,115.0,,True,,115.0
+score_741.musicxml,3,176.0,,True,,176.0
+score_742.musicxml,2,45.0,,True,,45.0
+score_743.musicxml,3,80.0,,True,,80.0
+score_744.musicxml,1,70.0,,True,,70.0
+score_745.musicxml,2,115.0,,False,playback tempo differs from printed tempo,115.0
+score_746.musicxml,2,96.0,,True,,96.0
+score_747.musicxml,1,140.0,non_quarter_unit,True,,140.0
+score_748.musicxml,2,95.0,,True,,95.0
+score_749.musicxml,2,45.0,,True,,45.0
+score_750.musicxml,7,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_751.musicxml,2,40.0,,True,,40.0
+score_752.musicxml,7,120.0,multiple_tempi,False,other tempo marks follow,120.0
+score_753.musicxml,8,258.0,dotted; parenthesized,True,,258.0
+score_754.musicxml,2,110.0,,True,,110.0
+score_755.musicxml,1,80.0,,True,,80.0
+score_756.musicxml,2,60.0,,True,,60.0
+score_757.musicxml,2,40.0,,True,,40.0
+score_758.musicxml,3,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_759.musicxml,7,125.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_760.musicxml,3,40.0,,True,,40.0
+score_761.musicxml,2,40.0,,True,,40.0
+score_762.musicxml,2,50.0,,True,,50.0
+score_763.musicxml,2,39.0,,True,,39.0
+score_764.musicxml,8,110.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_765.musicxml,2,100.0,,True,,100.0
+score_766.musicxml,7,92.0,text_only,False,no printed numeric tempo in the first measure,
+score_767.musicxml,1,110.0,,True,,110.0
+score_768.musicxml,2,45.0,,True,,45.0
+score_769.musicxml,9,70.0,multiple_tempi,False,other tempo marks follow,70.0
+score_770.musicxml,2,66.0,,True,,66.0
+score_771.musicxml,2,80.0,text_only,False,no printed numeric tempo in the first measure,
+score_772.musicxml,2,45.0,,True,,45.0
+score_773.musicxml,6,108.0,text_only,False,no printed numeric tempo in the first measure,
+score_774.musicxml,2,85.0,,True,,85.0
+score_775.musicxml,8,90.0,first_mark_after_m1; multiple_tempi,False,no printed numeric tempo in the first measure,
+score_776.musicxml,6,90.0,,True,,90.0
+score_777.musicxml,1,94.0,,True,,94.0
+score_778.musicxml,2,60.0,,True,,60.0
+score_779.musicxml,7,92.0,,False,no printed numeric tempo in the first measure,
+score_780.musicxml,8,58.0,,False,no printed numeric tempo in the first measure,
+score_781.musicxml,9,152.0,,False,other tempo marks follow,100.0
+score_782.musicxml,9,72.0,,False,no printed numeric tempo in the first measure,
+score_783.musicxml,9,104.0,,False,other tempo marks follow,104.0
+score_784.musicxml,9,192.0,,False,no printed numeric tempo in the first measure,
+score_785.musicxml,9,92.0,,False,no printed numeric tempo in the first measure,
+score_786.musicxml,8,110.0,,False,no printed numeric tempo in the first measure,
+score_787.musicxml,9,158.0,,True,,158.0
+score_788.musicxml,9,69.0,,False,no printed numeric tempo in the first measure,
+score_789.musicxml,8,184.0,,False,other tempo marks follow,60.0
+score_790.musicxml,8,50.0,,True,,50.0
+score_791.musicxml,9,92.0,,False,no printed numeric tempo in the first measure,
+score_792.musicxml,7,72.0,,True,,72.0
+score_793.musicxml,9,104.0,,False,other tempo marks follow,104.0
+score_794.musicxml,9,60.0,,False,other tempo marks follow,60.0
+score_795.musicxml,9,152.0,,False,other tempo marks follow,152.0
+score_796.musicxml,9,63.0,,False,other tempo marks follow,70.0
+score_797.musicxml,8,80.0,,False,no printed numeric tempo in the first measure,
+score_798.musicxml,9,184.0,,False,no printed numeric tempo in the first measure,
+score_799.musicxml,9,110.0,,False,other tempo marks follow,110.0
+score_800.musicxml,9,145.0,,False,other tempo marks follow,145.0
+score_801.musicxml,9,90.0,,False,no printed numeric tempo in the first measure,
+score_802.musicxml,7,152.0,,False,other tempo marks follow,152.0
+score_803.musicxml,9,100.0,,True,,100.0
+score_804.musicxml,8,132.0,,False,other tempo marks follow,132.0
+score_805.musicxml,9,112.0,,False,other tempo marks follow,112.0
+score_806.musicxml,9,84.0,,False,no printed numeric tempo in the first measure,
